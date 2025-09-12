@@ -37,7 +37,7 @@
 				<artifactId>exec-maven-plugin</artifactId>
 				<version>3.5.0</version>
 				<configuration>
-					<mainClass>hexas.SeleniumAptUpdate</mainClass>
+					<mainClass>shionn.scanner.Scanner</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
@@ -61,63 +61,12 @@
 			<artifactId>json</artifactId>
 			<version>20231013</version>
 		</dependency>
-<!--		<dependency>-->
-<!--			<groupId>com.google.code.gson</groupId>-->
-<!--			<artifactId>gson</artifactId>-->
-<!--			<version>2.13.1</version>-->
-<!--		</dependency>-->
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
 			<version>${version.lombock}</version>
 			<scope>provided</scope>
 		</dependency>
-
 	</dependencies>
 	
-	<profiles>
-		<profile>
-			<id>Products</id>
-			<build>
-				<plugins>
-					<plugin>
-						<groupId>org.codehaus.mojo</groupId>
-						<artifactId>exec-maven-plugin</artifactId>
-						<configuration>
-							<mainClass>hexas.SeleniumProductScanner</mainClass>
-						</configuration>
-					</plugin>
-				</plugins>
-			</build>
-		</profile>
-		<profile>
-			<id>HumbleBundle</id>
-			<build>
-				<plugins>
-					<plugin>
-						<groupId>org.codehaus.mojo</groupId>
-						<artifactId>exec-maven-plugin</artifactId>
-						<configuration>
-							<mainClass>hexas.SeleniumHumbleBundleScanner</mainClass>
-						</configuration>
-					</plugin>
-				</plugins>
-			</build>
-		</profile>
-		<profile>
-			<id>AptCache</id>
-			<build>
-				<plugins>
-					<plugin>
-						<groupId>org.codehaus.mojo</groupId>
-						<artifactId>exec-maven-plugin</artifactId>
-						<configuration>
-							<mainClass>hexas.SeleniumAptUpdate</mainClass>
-						</configuration>
-					</plugin>
-				</plugins>
-			</build>
-		</profile>
-	</profiles>
-
 </project>
