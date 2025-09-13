@@ -88,6 +88,47 @@
         "url": "https://www.humblebundle.com/games/lego-worlds-collide-2025?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_2_c_legoworldscollide2025_bundle"
     },
     {
+        "endDate": "Thu Oct 02 01:00:00 UTC 2025",
+        "name": "Phunky Physics",
+        "choices": [
+            {
+                "price": 13.39,
+                "games": [
+                    "Hardspace: Shipbreaker",
+                    "Instruments of Destruction",
+                    "Goat Simulator 3",
+                    "What the Golf?",
+                    "Totally Accurate Battle Simulator",
+                    "Human Fall Flat",
+                    "Poly Bridge 2",
+                    "Besiege",
+                    "Stick Fight: The Game"
+                ]
+            },
+            {
+                "price": 8.23,
+                "games": [
+                    "What the Golf?",
+                    "Totally Accurate Battle Simulator",
+                    "Human Fall Flat",
+                    "Poly Bridge 2",
+                    "Besiege",
+                    "Stick Fight: The Game"
+                ]
+            },
+            {
+                "price": 5.14,
+                "games": [
+                    "Human Fall Flat",
+                    "Poly Bridge 2",
+                    "Besiege",
+                    "Stick Fight: The Game"
+                ]
+            }
+        ],
+        "url": "https://www.humblebundle.com/games/phunky-physics?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_3_c_phunkyphysics_bundle"
+    },
+    {
         "endDate": "Tue Sep 23 18:00:00 UTC 2025",
         "name": "Capcom Retro Revival Pack",
         "choices": [{
@@ -160,48 +201,7 @@
                 "Powered Gear - Strategic Variant Armor Equipment"
             ]
         }],
-        "url": "https://www.humblebundle.com/games/capcom-retro-revival-pack?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_3_c_capcomretrorevivalpack_bundle"
-    },
-    {
-        "endDate": "Thu Oct 02 01:00:00 UTC 2025",
-        "name": "Phunky Physics",
-        "choices": [
-            {
-                "price": 13.39,
-                "games": [
-                    "Hardspace: Shipbreaker",
-                    "Instruments of Destruction",
-                    "Goat Simulator 3",
-                    "What the Golf?",
-                    "Totally Accurate Battle Simulator",
-                    "Human Fall Flat",
-                    "Poly Bridge 2",
-                    "Besiege",
-                    "Stick Fight: The Game"
-                ]
-            },
-            {
-                "price": 8.23,
-                "games": [
-                    "What the Golf?",
-                    "Totally Accurate Battle Simulator",
-                    "Human Fall Flat",
-                    "Poly Bridge 2",
-                    "Besiege",
-                    "Stick Fight: The Game"
-                ]
-            },
-            {
-                "price": 5.14,
-                "games": [
-                    "Human Fall Flat",
-                    "Poly Bridge 2",
-                    "Besiege",
-                    "Stick Fight: The Game"
-                ]
-            }
-        ],
-        "url": "https://www.humblebundle.com/games/phunky-physics?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_2_layout_type_threes_tile_index_1_c_phunkyphysics_bundle"
+        "url": "https://www.humblebundle.com/games/capcom-retro-revival-pack?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_2_layout_type_threes_tile_index_1_c_capcomretrorevivalpack_bundle"
     },
     {
         "endDate": "Wed Sep 24 01:00:00 UTC 2025",
