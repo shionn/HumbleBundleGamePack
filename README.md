@@ -1,5 +1,5 @@
 # Execution 
-Installaer l'openjdk-17 et maven. 
+Installer l'openjdk-17 et maven. 
 ~~~bash
 mvn exec:java
 ~~~
