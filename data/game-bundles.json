@@ -293,42 +293,6 @@
         "url": "https://www.humblebundle.com/games/indie-likes-and-lites?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_2_layout_type_threes_tile_index_3_c_indielikesandlites_bundle"
     },
     {
-        "endDate": "Sat Sep 27 01:00:00 UTC 2025",
-        "name": "Curve Games Care Package",
-        "choices": [
-            {
-                "price": 16.56,
-                "games": [
-                    "Badlands Crew",
-                    "Dungeons of Hinterberg Support Pack Bundle",
-                    "The Ascent Complete Collection",
-                    "Super Loco World - Cozy Train Automation",
-                    "Lawn Mowing Simulator Landmark Edition",
-                    "For The King - Deluxe Edition",
-                    "KitHack Model Club",
-                    "I Am Fish",
-                    "You Suck at Parking® - Complete Edition",
-                    "Bomber Crew - Deluxe Edition",
-                    "COUPON 60% OFF For The King II",
-                    "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park"
-                ]
-            },
-            {
-                "price": 8.28,
-                "games": [
-                    "For The King - Deluxe Edition",
-                    "KitHack Model Club",
-                    "I Am Fish",
-                    "You Suck at Parking® - Complete Edition",
-                    "Bomber Crew - Deluxe Edition",
-                    "COUPON 60% OFF For The King II",
-                    "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park"
-                ]
-            }
-        ],
-        "url": "https://www.humblebundle.com/games/curve-games-care-package?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_3_layout_type_threes_tile_index_1_c_curvegamescarepackage_bundle"
-    },
-    {
         "endDate": "Sat Sep 20 01:00:00 UTC 2025",
         "name": "Draknek & Friends: 12 Years of Great Puzzle Games!",
         "choices": [
@@ -366,6 +330,42 @@
                 ]
             }
         ],
-        "url": "https://www.humblebundle.com/games/draknek-and-friends-12th-anniversary-celebration?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_3_layout_type_threes_tile_index_2_c_draknekandfriends12thanniversarycelebration_bundle"
+        "url": "https://www.humblebundle.com/games/draknek-and-friends-12th-anniversary-celebration?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_3_layout_type_threes_tile_index_1_c_draknekandfriends12thanniversarycelebration_bundle"
+    },
+    {
+        "endDate": "Sat Sep 27 01:00:00 UTC 2025",
+        "name": "Curve Games Care Package",
+        "choices": [
+            {
+                "price": 16.56,
+                "games": [
+                    "Badlands Crew",
+                    "Dungeons of Hinterberg Support Pack Bundle",
+                    "The Ascent Complete Collection",
+                    "Super Loco World - Cozy Train Automation",
+                    "Lawn Mowing Simulator Landmark Edition",
+                    "For The King - Deluxe Edition",
+                    "KitHack Model Club",
+                    "I Am Fish",
+                    "You Suck at Parking® - Complete Edition",
+                    "Bomber Crew - Deluxe Edition",
+                    "COUPON 60% OFF For The King II",
+                    "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park"
+                ]
+            },
+            {
+                "price": 8.28,
+                "games": [
+                    "For The King - Deluxe Edition",
+                    "KitHack Model Club",
+                    "I Am Fish",
+                    "You Suck at Parking® - Complete Edition",
+                    "Bomber Crew - Deluxe Edition",
+                    "COUPON 60% OFF For The King II",
+                    "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park"
+                ]
+            }
+        ],
+        "url": "https://www.humblebundle.com/games/curve-games-care-package?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_3_layout_type_threes_tile_index_2_c_curvegamescarepackage_bundle"
     }
 ]
