@@ -13,7 +13,21 @@
     "games" : [ "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/duo-justice-ace-attorney-and-mega-man?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_2_c_duojusticeaceattorneyandmegaman_bundle",
+  "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_2_c_humblingsoulslikebundle_bundle",
+  "name" : "Humbling Soulslike Bundle",
+  "endDate" : 1759539600000,
+  "choices" : [ {
+    "price" : 16.36,
+    "games" : [ "Enotria: The Last Song", "Flintlock: Deluxe Edition", "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
+  }, {
+    "price" : 10.22,
+    "games" : [ "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
+  }, {
+    "price" : 6.13,
+    "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/duo-justice-ace-attorney-and-mega-man?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_3_c_duojusticeaceattorneyandmegaman_bundle",
   "name" : "Duo of Justice: Ace Attorney and Mega Man",
   "endDate" : 1758675600000,
   "choices" : [ {
@@ -28,20 +42,6 @@
   }, {
     "price" : 5.13,
     "games" : [ "Phoenix Wright: Ace Attorney Trilogy", "Mega Man X Legacy Collection", "Mega Man Legacy Collection", "Apollo Justice: Ace Attorney Trilogy 50%off Coupon", "Ace Attorney Investigations Collection 25%off Coupon" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_3_c_humblingsoulslikebundle_bundle",
-  "name" : "Humbling Soulslike Bundle",
-  "endDate" : 1759539600000,
-  "choices" : [ {
-    "price" : 16.36,
-    "games" : [ "Enotria: The Last Song", "Flintlock: Deluxe Edition", "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  }, {
-    "price" : 10.22,
-    "games" : [ "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  }, {
-    "price" : 6.13,
-    "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/lego-worlds-collide-2025?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_2_layout_type_threes_tile_index_1_c_legoworldscollide2025_bundle",
