@@ -39,6 +39,7 @@ public class Scanner {
 					.findElements(cssSelector("a.full-tile-view"))
 					.stream()
 					.map(e -> e.getDomAttribute("href"))
+					.map(e -> e.substring(0, e.indexOf('?')))
 					.toList();
 			List<Bundle> bundles = new ArrayList<Bundle>();
 			for (String url : urls) {
