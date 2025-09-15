@@ -1,18 +1,4 @@
 [ {
-  "url" : "https://www.humblebundle.com/games/phunky-physics",
-  "name" : "Phunky Physics",
-  "endDate" : 1759366800000,
-  "choices" : [ {
-    "price" : 13.39,
-    "games" : [ "Hardspace: Shipbreaker", "Instruments of Destruction", "Goat Simulator 3", "What the Golf?", "Totally Accurate Battle Simulator", "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
-  }, {
-    "price" : 8.23,
-    "games" : [ "What the Golf?", "Totally Accurate Battle Simulator", "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
-  }, {
-    "price" : 5.14,
-    "games" : [ "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/lego-worlds-collide-2025",
   "name" : "The Best of Humble Bundle: LEGO Worlds Collide 2025",
   "endDate" : 1758762000000,
@@ -39,6 +25,20 @@
   }, {
     "price" : 6.13,
     "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/phunky-physics",
+  "name" : "Phunky Physics",
+  "endDate" : 1759366800000,
+  "choices" : [ {
+    "price" : 13.39,
+    "games" : [ "Hardspace: Shipbreaker", "Instruments of Destruction", "Goat Simulator 3", "What the Golf?", "Totally Accurate Battle Simulator", "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
+  }, {
+    "price" : 8.23,
+    "games" : [ "What the Golf?", "Totally Accurate Battle Simulator", "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
+  }, {
+    "price" : 5.14,
+    "games" : [ "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/duo-justice-ace-attorney-and-mega-man",
