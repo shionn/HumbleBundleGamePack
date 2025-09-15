@@ -13,20 +13,6 @@
     "games" : [ "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle",
-  "name" : "Humbling Soulslike Bundle",
-  "endDate" : 1759539600000,
-  "choices" : [ {
-    "price" : 16.36,
-    "games" : [ "Enotria: The Last Song", "Flintlock: Deluxe Edition", "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  }, {
-    "price" : 10.22,
-    "games" : [ "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  }, {
-    "price" : 6.13,
-    "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/lego-worlds-collide-2025",
   "name" : "The Best of Humble Bundle: LEGO Worlds Collide 2025",
   "endDate" : 1758762000000,
@@ -39,6 +25,20 @@
   }, {
     "price" : 5.17,
     "games" : [ "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle",
+  "name" : "Humbling Soulslike Bundle",
+  "endDate" : 1759539600000,
+  "choices" : [ {
+    "price" : 16.36,
+    "games" : [ "Enotria: The Last Song", "Flintlock: Deluxe Edition", "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
+  }, {
+    "price" : 10.22,
+    "games" : [ "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
+  }, {
+    "price" : 6.13,
+    "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/duo-justice-ace-attorney-and-mega-man",
