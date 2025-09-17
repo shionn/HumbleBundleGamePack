@@ -13,6 +13,17 @@
     "games" : [ "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/curve-games-care-package",
+  "name" : "Curve Games Care Package",
+  "endDate" : 1758934800000,
+  "choices" : [ {
+    "price" : 16.56,
+    "games" : [ "Badlands Crew", "Dungeons of Hinterberg Support Pack Bundle", "The Ascent Complete Collection", "Super Loco World - Cozy Train Automation", "Lawn Mowing Simulator Landmark Edition", "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
+  }, {
+    "price" : 8.28,
+    "games" : [ "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle",
   "name" : "Humbling Soulslike Bundle",
   "endDate" : 1759539600000,
@@ -25,17 +36,6 @@
   }, {
     "price" : 6.13,
     "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/curve-games-care-package",
-  "name" : "Curve Games Care Package",
-  "endDate" : 1758934800000,
-  "choices" : [ {
-    "price" : 16.56,
-    "games" : [ "Badlands Crew", "Dungeons of Hinterberg Support Pack Bundle", "The Ascent Complete Collection", "Super Loco World - Cozy Train Automation", "Lawn Mowing Simulator Landmark Edition", "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
-  }, {
-    "price" : 8.28,
-    "games" : [ "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/phunky-physics",
