@@ -13,6 +13,17 @@
     "games" : [ "Copycat", "Coromon" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/curve-games-care-package",
+  "name" : "Curve Games Care Package",
+  "endDate" : 1758934800000,
+  "choices" : [ {
+    "price" : 16.56,
+    "games" : [ "Badlands Crew", "Dungeons of Hinterberg Support Pack Bundle", "The Ascent Complete Collection", "Super Loco World - Cozy Train Automation", "Lawn Mowing Simulator Landmark Edition", "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
+  }, {
+    "price" : 8.28,
+    "games" : [ "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/lego-worlds-collide-2025",
   "name" : "The Best of Humble Bundle: LEGO Worlds Collide 2025",
   "endDate" : 1758762000000,
@@ -39,17 +50,6 @@
   }, {
     "price" : 6.13,
     "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/curve-games-care-package",
-  "name" : "Curve Games Care Package",
-  "endDate" : 1758934800000,
-  "choices" : [ {
-    "price" : 16.56,
-    "games" : [ "Badlands Crew", "Dungeons of Hinterberg Support Pack Bundle", "The Ascent Complete Collection", "Super Loco World - Cozy Train Automation", "Lawn Mowing Simulator Landmark Edition", "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
-  }, {
-    "price" : 8.28,
-    "games" : [ "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/duo-justice-ace-attorney-and-mega-man",
