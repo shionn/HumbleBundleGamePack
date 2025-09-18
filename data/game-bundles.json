@@ -1,18 +1,4 @@
 [ {
-  "url" : "https://www.humblebundle.com/games/lego-worlds-collide-2025",
-  "name" : "The Best of Humble Bundle: LEGO Worlds Collide 2025",
-  "endDate" : 1758762000000,
-  "choices" : [ {
-    "price" : 15.51,
-    "games" : [ "LEGO Star Wars: The Skywalker Saga - Deluxe Edition", "LEGO® Marvel Super Heroes 2 DELUXE EDITION", "LEGO® DC Super-Villains DELUXE EDITION", "LEGO® Batman™ 3: Beyond Gotham PREMIUM EDITION", "LEGO® Star Wars™: The Force Awakens DELUXE EDITION", "LEGO® Jurassic World™", "LEGO® Worlds", "LEGO® Disney•Pixar's The Incredibles", "The LEGO Movie 2 Videogame", "LEGO® MARVEL's Avengers DELUXE EDITION", "The LEGO NINJAGO Movie Video Game", "LEGO® The Lord of the Rings", "LEGO® Batman™ 2: DC Super Heroes", "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
-  }, {
-    "price" : 10.34,
-    "games" : [ "LEGO® MARVEL's Avengers DELUXE EDITION", "The LEGO NINJAGO Movie Video Game", "LEGO® The Lord of the Rings", "LEGO® Batman™ 2: DC Super Heroes", "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
-  }, {
-    "price" : 5.17,
-    "games" : [ "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/critter-chaos-bundle",
   "name" : "Critter Chaos Bundle",
   "endDate" : 1759971600000,
@@ -25,6 +11,20 @@
   }, {
     "price" : 8.19,
     "games" : [ "Copycat", "Coromon" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/lego-worlds-collide-2025",
+  "name" : "The Best of Humble Bundle: LEGO Worlds Collide 2025",
+  "endDate" : 1758762000000,
+  "choices" : [ {
+    "price" : 15.51,
+    "games" : [ "LEGO Star Wars: The Skywalker Saga - Deluxe Edition", "LEGO® Marvel Super Heroes 2 DELUXE EDITION", "LEGO® DC Super-Villains DELUXE EDITION", "LEGO® Batman™ 3: Beyond Gotham PREMIUM EDITION", "LEGO® Star Wars™: The Force Awakens DELUXE EDITION", "LEGO® Jurassic World™", "LEGO® Worlds", "LEGO® Disney•Pixar's The Incredibles", "The LEGO Movie 2 Videogame", "LEGO® MARVEL's Avengers DELUXE EDITION", "The LEGO NINJAGO Movie Video Game", "LEGO® The Lord of the Rings", "LEGO® Batman™ 2: DC Super Heroes", "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
+  }, {
+    "price" : 10.34,
+    "games" : [ "LEGO® MARVEL's Avengers DELUXE EDITION", "The LEGO NINJAGO Movie Video Game", "LEGO® The Lord of the Rings", "LEGO® Batman™ 2: DC Super Heroes", "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
+  }, {
+    "price" : 5.17,
+    "games" : [ "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle",
@@ -80,6 +80,17 @@
     "games" : [ "Phoenix Wright: Ace Attorney Trilogy", "Mega Man X Legacy Collection", "Mega Man Legacy Collection", "Apollo Justice: Ace Attorney Trilogy 50%off Coupon", "Ace Attorney Investigations Collection 25%off Coupon" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/indie-likes-and-lites",
+  "name" : "Indie Likes and Lites",
+  "endDate" : 1758762000000,
+  "choices" : [ {
+    "price" : 10.29,
+    "games" : [ "Let's! Revolution!", "Shovel Knight Pocket Dungeon", "Going Under", "Crop Rotation", "Meteorfall: Krumit's Tale", "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
+  }, {
+    "price" : 5.14,
+    "games" : [ "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/draknek-and-friends-12th-anniversary-celebration",
   "name" : "Draknek & Friends: 12 Years of Great Puzzle Games!",
   "endDate" : 1758330000000,
@@ -92,17 +103,6 @@
   }, {
     "price" : 5.25,
     "games" : [ "The Electrifying Incident: A Monster Mini-Expedition", "Sokobond", "Cosmic Express", "A Good Snowman is Hard to Build" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/indie-likes-and-lites",
-  "name" : "Indie Likes and Lites",
-  "endDate" : 1758762000000,
-  "choices" : [ {
-    "price" : 10.29,
-    "games" : [ "Let's! Revolution!", "Shovel Knight Pocket Dungeon", "Going Under", "Crop Rotation", "Meteorfall: Krumit's Tale", "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
-  }, {
-    "price" : 5.14,
-    "games" : [ "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/curve-games-care-package",
