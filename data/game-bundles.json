@@ -55,14 +55,6 @@
     "games" : [ "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/capcom-retro-revival-pack",
-  "name" : "Capcom Retro Revival Pack",
-  "endDate" : 1758650400000,
-  "choices" : [ {
-    "price" : 20.5,
-    "games" : [ "Ghosts N' Goblins Resurrection", "Dungeons & Dragons: Chronicles of Mystara", "Strider", "Capcom Arcade Stadium Complete Pack", "Super Street Fighter II Turbo", "Hyper Street Fighter II: The Anniversary Edition", "STREET FIGHTER II' - Hyper Fighting", "STREET FIGHTER II - The World Warrior", "Street Fighter Alpha 3", "Street Fighter Alpha 2", "Street Fighter Alpha: Warriors' Dreams", "Street Fighter", "Super Puzzle Fighter II Turbo", "Super Gem Fighter Mini Mix", "Mega Man 2: The Power Fighters", "Mega Man: The Power Battle", "CAPTAIN COMMANDO", "FINAL FIGHT", "WARRIORS OF FATE", "Battle Circuit", "Ghouls 'n Ghosts", "Ghosts 'n Goblins", "BIONIC COMMANDO", "1944 - The Loop Master", "19XX - The War Against Destiny", "1943 Kai - Midway Kaisen", "1942", "1941 - Counter Attack", "Progear", "Giga Wing", "COMMANDO", "Three Wonders", "A.K.A Vampire Savior: The Lord of Vampire", "Darkstalkers: The Night Warriors", "Night Warriors: Darkstalkers' Revenge", "CYBERBOTS - FULLMETAL MADNESS", "DYNASTY WARS", "A.K.A Knights of the Round", "A.K.A Magic Sword", "A.K.A The King of Dragons", "Saturday Night Slam Masters", "MEGA TWINS", "Black Tiger", "Tatakai no Banka", "Tiger Road", "Hissatsu Buraiken", "Capcom Sports Club", "Last Duel", "Rally 2011 LED Storm", "The Speed Rumbler", "VARTH - Operation Thunderstorm", "VULGUS", "LEGENDARY WINGS", "FORGOTTEN WORLDS", "Savage Bees", "CARRIER AIR WING", "Senjo no OkamiII", "SECTION Z", "Eco Fighters", "Hyper Dyne Side Arms", "A.K.A Block Block", "Pnickies", "Gan Sumoku", "PIRATE SHIP HIGEMARU", "Powered Gear - Strategic Variant Armor Equipment" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/duo-justice-ace-attorney-and-mega-man",
   "name" : "Duo of Justice: Ace Attorney and Mega Man",
   "endDate" : 1758675600000,
@@ -78,6 +70,25 @@
   }, {
     "price" : 5.13,
     "games" : [ "Phoenix Wright: Ace Attorney Trilogy", "Mega Man X Legacy Collection", "Mega Man Legacy Collection", "Apollo Justice: Ace Attorney Trilogy 50%off Coupon", "Ace Attorney Investigations Collection 25%off Coupon" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/capcom-retro-revival-pack",
+  "name" : "Capcom Retro Revival Pack",
+  "endDate" : 1758650400000,
+  "choices" : [ {
+    "price" : 20.5,
+    "games" : [ "Ghosts N' Goblins Resurrection", "Dungeons & Dragons: Chronicles of Mystara", "Strider", "Capcom Arcade Stadium Complete Pack", "Super Street Fighter II Turbo", "Hyper Street Fighter II: The Anniversary Edition", "STREET FIGHTER II' - Hyper Fighting", "STREET FIGHTER II - The World Warrior", "Street Fighter Alpha 3", "Street Fighter Alpha 2", "Street Fighter Alpha: Warriors' Dreams", "Street Fighter", "Super Puzzle Fighter II Turbo", "Super Gem Fighter Mini Mix", "Mega Man 2: The Power Fighters", "Mega Man: The Power Battle", "CAPTAIN COMMANDO", "FINAL FIGHT", "WARRIORS OF FATE", "Battle Circuit", "Ghouls 'n Ghosts", "Ghosts 'n Goblins", "BIONIC COMMANDO", "1944 - The Loop Master", "19XX - The War Against Destiny", "1943 Kai - Midway Kaisen", "1942", "1941 - Counter Attack", "Progear", "Giga Wing", "COMMANDO", "Three Wonders", "A.K.A Vampire Savior: The Lord of Vampire", "Darkstalkers: The Night Warriors", "Night Warriors: Darkstalkers' Revenge", "CYBERBOTS - FULLMETAL MADNESS", "DYNASTY WARS", "A.K.A Knights of the Round", "A.K.A Magic Sword", "A.K.A The King of Dragons", "Saturday Night Slam Masters", "MEGA TWINS", "Black Tiger", "Tatakai no Banka", "Tiger Road", "Hissatsu Buraiken", "Capcom Sports Club", "Last Duel", "Rally 2011 LED Storm", "The Speed Rumbler", "VARTH - Operation Thunderstorm", "VULGUS", "LEGENDARY WINGS", "FORGOTTEN WORLDS", "Savage Bees", "CARRIER AIR WING", "Senjo no OkamiII", "SECTION Z", "Eco Fighters", "Hyper Dyne Side Arms", "A.K.A Block Block", "Pnickies", "Gan Sumoku", "PIRATE SHIP HIGEMARU", "Powered Gear - Strategic Variant Armor Equipment" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/curve-games-care-package",
+  "name" : "Curve Games Care Package",
+  "endDate" : 1758934800000,
+  "choices" : [ {
+    "price" : 16.56,
+    "games" : [ "Badlands Crew", "Dungeons of Hinterberg Support Pack Bundle", "The Ascent Complete Collection", "Super Loco World - Cozy Train Automation", "Lawn Mowing Simulator Landmark Edition", "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
+  }, {
+    "price" : 8.28,
+    "games" : [ "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/indie-likes-and-lites",
@@ -103,16 +114,5 @@
   }, {
     "price" : 5.25,
     "games" : [ "The Electrifying Incident: A Monster Mini-Expedition", "Sokobond", "Cosmic Express", "A Good Snowman is Hard to Build" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/curve-games-care-package",
-  "name" : "Curve Games Care Package",
-  "endDate" : 1758934800000,
-  "choices" : [ {
-    "price" : 16.56,
-    "games" : [ "Badlands Crew", "Dungeons of Hinterberg Support Pack Bundle", "The Ascent Complete Collection", "Super Loco World - Cozy Train Automation", "Lawn Mowing Simulator Landmark Edition", "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
-  }, {
-    "price" : 8.28,
-    "games" : [ "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
   } ]
 } ]
