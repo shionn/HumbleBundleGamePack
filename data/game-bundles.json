@@ -24,20 +24,6 @@
     "games" : [ "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/critter-chaos-bundle",
-  "name" : "Critter Chaos Bundle",
-  "endDate" : 1759971600000,
-  "choices" : [ {
-    "price" : 14.35,
-    "games" : [ "Temtem", "Fruitbus", "Farewell North", "Meg's Monster", "Cassette Beasts", "Moonstone Island", "Copycat", "Coromon" ]
-  }, {
-    "price" : 10.24,
-    "games" : [ "Meg's Monster", "Cassette Beasts", "Moonstone Island", "Copycat", "Coromon" ]
-  }, {
-    "price" : 8.19,
-    "games" : [ "Copycat", "Coromon" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/lego-worlds-collide-2025",
   "name" : "The Best of Humble Bundle: LEGO Worlds Collide 2025",
   "endDate" : 1758762000000,
@@ -82,7 +68,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/phunky-physics",
   "name" : "Phunky Physics",
-  "endDate" : 1759366800000,
+  "endDate" : 1759971600000,
   "choices" : [ {
     "price" : 13.39,
     "games" : [ "Hardspace: Shipbreaker", "Instruments of Destruction", "Goat Simulator 3", "What the Golf?", "Totally Accurate Battle Simulator", "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
@@ -109,6 +95,20 @@
   }, {
     "price" : 5.13,
     "games" : [ "Phoenix Wright: Ace Attorney Trilogy", "Mega Man X Legacy Collection", "Mega Man Legacy Collection", "Apollo Justice: Ace Attorney Trilogy 50%off Coupon", "Ace Attorney Investigations Collection 25%off Coupon" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/critter-chaos-bundle",
+  "name" : "Critter Chaos Bundle",
+  "endDate" : 1759971600000,
+  "choices" : [ {
+    "price" : 14.35,
+    "games" : [ "Temtem", "Fruitbus", "Farewell North", "Meg's Monster", "Cassette Beasts", "Moonstone Island", "Copycat", "Coromon" ]
+  }, {
+    "price" : 10.24,
+    "games" : [ "Meg's Monster", "Cassette Beasts", "Moonstone Island", "Copycat", "Coromon" ]
+  }, {
+    "price" : 8.19,
+    "games" : [ "Copycat", "Coromon" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/capcom-retro-revival-pack",
