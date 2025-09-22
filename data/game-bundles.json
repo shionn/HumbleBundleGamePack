@@ -13,20 +13,6 @@
     "games" : [ "Max Payne", "Max Payne 2: The Fall of Max Payne", "Death Rally", "Alan Wake's American Nightmare" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle",
-  "name" : "Humbling Soulslike Bundle",
-  "endDate" : 1759539600000,
-  "choices" : [ {
-    "price" : 16.36,
-    "games" : [ "Enotria: The Last Song", "Flintlock: Deluxe Edition", "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  }, {
-    "price" : 10.22,
-    "games" : [ "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  }, {
-    "price" : 6.13,
-    "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/duo-justice-ace-attorney-and-mega-man",
   "name" : "Duo of Justice: Ace Attorney and Mega Man",
   "endDate" : 1758675600000,
@@ -42,6 +28,20 @@
   }, {
     "price" : 5.13,
     "games" : [ "Phoenix Wright: Ace Attorney Trilogy", "Mega Man X Legacy Collection", "Mega Man Legacy Collection", "Apollo Justice: Ace Attorney Trilogy 50%off Coupon", "Ace Attorney Investigations Collection 25%off Coupon" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle",
+  "name" : "Humbling Soulslike Bundle",
+  "endDate" : 1759539600000,
+  "choices" : [ {
+    "price" : 16.36,
+    "games" : [ "Enotria: The Last Song", "Flintlock: Deluxe Edition", "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
+  }, {
+    "price" : 10.22,
+    "games" : [ "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
+  }, {
+    "price" : 6.13,
+    "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/lego-worlds-collide-2025",
