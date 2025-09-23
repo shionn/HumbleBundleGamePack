@@ -52,20 +52,6 @@
     "games" : [ "Ghosts N' Goblins Resurrection", "Dungeons & Dragons: Chronicles of Mystara", "Strider", "Capcom Arcade Stadium Complete Pack", "Super Street Fighter II Turbo", "Hyper Street Fighter II: The Anniversary Edition", "STREET FIGHTER II' - Hyper Fighting", "STREET FIGHTER II - The World Warrior", "Street Fighter Alpha 3", "Street Fighter Alpha 2", "Street Fighter Alpha: Warriors' Dreams", "Street Fighter", "Super Puzzle Fighter II Turbo", "Super Gem Fighter Mini Mix", "Mega Man 2: The Power Fighters", "Mega Man: The Power Battle", "CAPTAIN COMMANDO", "FINAL FIGHT", "WARRIORS OF FATE", "Battle Circuit", "Ghouls 'n Ghosts", "Ghosts 'n Goblins", "BIONIC COMMANDO", "1944 - The Loop Master", "19XX - The War Against Destiny", "1943 Kai - Midway Kaisen", "1942", "1941 - Counter Attack", "Progear", "Giga Wing", "COMMANDO", "Three Wonders", "A.K.A Vampire Savior: The Lord of Vampire", "Darkstalkers: The Night Warriors", "Night Warriors: Darkstalkers' Revenge", "CYBERBOTS - FULLMETAL MADNESS", "DYNASTY WARS", "A.K.A Knights of the Round", "A.K.A Magic Sword", "A.K.A The King of Dragons", "Saturday Night Slam Masters", "MEGA TWINS", "Black Tiger", "Tatakai no Banka", "Tiger Road", "Hissatsu Buraiken", "Capcom Sports Club", "Last Duel", "Rally 2011 LED Storm", "The Speed Rumbler", "VARTH - Operation Thunderstorm", "VULGUS", "LEGENDARY WINGS", "FORGOTTEN WORLDS", "Savage Bees", "CARRIER AIR WING", "Senjo no OkamiII", "SECTION Z", "Eco Fighters", "Hyper Dyne Side Arms", "A.K.A Block Block", "Pnickies", "Gan Sumoku", "PIRATE SHIP HIGEMARU", "Powered Gear - Strategic Variant Armor Equipment" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle",
-  "name" : "Humbling Soulslike Bundle",
-  "endDate" : 1759539600000,
-  "choices" : [ {
-    "price" : 16.36,
-    "games" : [ "Enotria: The Last Song", "Flintlock: Deluxe Edition", "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  }, {
-    "price" : 10.22,
-    "games" : [ "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  }, {
-    "price" : 6.13,
-    "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/phunky-physics",
   "name" : "Phunky Physics",
   "endDate" : 1759971600000,
@@ -78,6 +64,20 @@
   }, {
     "price" : 5.14,
     "games" : [ "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle",
+  "name" : "Humbling Soulslike Bundle",
+  "endDate" : 1759539600000,
+  "choices" : [ {
+    "price" : 16.36,
+    "games" : [ "Enotria: The Last Song", "Flintlock: Deluxe Edition", "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
+  }, {
+    "price" : 10.22,
+    "games" : [ "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
+  }, {
+    "price" : 6.13,
+    "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/critter-chaos-bundle",
