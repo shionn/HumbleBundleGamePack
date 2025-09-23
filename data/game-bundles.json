@@ -1,18 +1,4 @@
 [ {
-  "url" : "https://www.humblebundle.com/games/remedy-games-30th-anniversary-bundle",
-  "name" : "Remedy Games - 30th Anniversary Bundle",
-  "endDate" : 1760144400000,
-  "choices" : [ {
-    "price" : 27.64,
-    "games" : [ "Alan Wake 2 - Deluxe Edition", "COUPON 25% OFF FBC: Firebreak", "Quantum Break", "Control Ultimate Edition", "Alan Wake Remastered", "Alan Wake Collector's Edition", "Max Payne", "Max Payne 2: The Fall of Max Payne", "Death Rally", "Alan Wake's American Nightmare" ]
-  }, {
-    "price" : 12.28,
-    "games" : [ "Quantum Break", "Control Ultimate Edition", "Alan Wake Remastered", "Alan Wake Collector's Edition", "Max Payne", "Max Payne 2: The Fall of Max Payne", "Death Rally", "Alan Wake's American Nightmare" ]
-  }, {
-    "price" : 5.11,
-    "games" : [ "Max Payne", "Max Payne 2: The Fall of Max Payne", "Death Rally", "Alan Wake's American Nightmare" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/duo-justice-ace-attorney-and-mega-man",
   "name" : "Duo of Justice: Ace Attorney and Mega Man",
   "endDate" : 1758675600000,
@@ -28,6 +14,20 @@
   }, {
     "price" : 5.13,
     "games" : [ "Phoenix Wright: Ace Attorney Trilogy", "Mega Man X Legacy Collection", "Mega Man Legacy Collection", "Apollo Justice: Ace Attorney Trilogy 50%off Coupon", "Ace Attorney Investigations Collection 25%off Coupon" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/remedy-games-30th-anniversary-bundle",
+  "name" : "Remedy Games - 30th Anniversary Bundle",
+  "endDate" : 1760144400000,
+  "choices" : [ {
+    "price" : 27.64,
+    "games" : [ "Alan Wake 2 - Deluxe Edition", "COUPON 25% OFF FBC: Firebreak", "Quantum Break", "Control Ultimate Edition", "Alan Wake Remastered", "Alan Wake Collector's Edition", "Max Payne", "Max Payne 2: The Fall of Max Payne", "Death Rally", "Alan Wake's American Nightmare" ]
+  }, {
+    "price" : 12.28,
+    "games" : [ "Quantum Break", "Control Ultimate Edition", "Alan Wake Remastered", "Alan Wake Collector's Edition", "Max Payne", "Max Payne 2: The Fall of Max Payne", "Death Rally", "Alan Wake's American Nightmare" ]
+  }, {
+    "price" : 5.11,
+    "games" : [ "Max Payne", "Max Payne 2: The Fall of Max Payne", "Death Rally", "Alan Wake's American Nightmare" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/capcom-retro-revival-pack",
