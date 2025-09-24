@@ -27,18 +27,15 @@
     "games" : [ "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/phunky-physics",
-  "name" : "Phunky Physics",
-  "endDate" : 1759971600000,
+  "url" : "https://www.humblebundle.com/games/indie-likes-and-lites",
+  "name" : "Indie Likes and Lites",
+  "endDate" : 1758762000000,
   "choices" : [ {
-    "price" : 13.39,
-    "games" : [ "Hardspace: Shipbreaker", "Instruments of Destruction", "Goat Simulator 3", "What the Golf?", "Totally Accurate Battle Simulator", "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
-  }, {
-    "price" : 8.23,
-    "games" : [ "What the Golf?", "Totally Accurate Battle Simulator", "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
+    "price" : 10.29,
+    "games" : [ "Let's! Revolution!", "Shovel Knight Pocket Dungeon", "Going Under", "Crop Rotation", "Meteorfall: Krumit's Tale", "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
   }, {
     "price" : 5.14,
-    "games" : [ "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
+    "games" : [ "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle",
@@ -55,15 +52,18 @@
     "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/indie-likes-and-lites",
-  "name" : "Indie Likes and Lites",
-  "endDate" : 1758762000000,
+  "url" : "https://www.humblebundle.com/games/phunky-physics",
+  "name" : "Phunky Physics",
+  "endDate" : 1759971600000,
   "choices" : [ {
-    "price" : 10.29,
-    "games" : [ "Let's! Revolution!", "Shovel Knight Pocket Dungeon", "Going Under", "Crop Rotation", "Meteorfall: Krumit's Tale", "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
+    "price" : 13.39,
+    "games" : [ "Hardspace: Shipbreaker", "Instruments of Destruction", "Goat Simulator 3", "What the Golf?", "Totally Accurate Battle Simulator", "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
+  }, {
+    "price" : 8.23,
+    "games" : [ "What the Golf?", "Totally Accurate Battle Simulator", "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
   }, {
     "price" : 5.14,
-    "games" : [ "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
+    "games" : [ "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/critter-chaos-bundle",
