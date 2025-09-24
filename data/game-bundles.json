@@ -41,17 +41,6 @@
     "games" : [ "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/indie-likes-and-lites",
-  "name" : "Indie Likes and Lites",
-  "endDate" : 1758762000000,
-  "choices" : [ {
-    "price" : 10.29,
-    "games" : [ "Let's! Revolution!", "Shovel Knight Pocket Dungeon", "Going Under", "Crop Rotation", "Meteorfall: Krumit's Tale", "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
-  }, {
-    "price" : 5.14,
-    "games" : [ "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/lone-survivor-bundle",
   "name" : "Lone Survivor Bundle",
   "endDate" : 1760576400000,
@@ -61,6 +50,17 @@
   }, {
     "price" : 7.15,
     "games" : [ "Breathedge", "Above Snakes", "Force of Nature 2: Ghost Keeper", "State of Decay 2: Juggernaut Edition" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/indie-likes-and-lites",
+  "name" : "Indie Likes and Lites",
+  "endDate" : 1758762000000,
+  "choices" : [ {
+    "price" : 10.29,
+    "games" : [ "Let's! Revolution!", "Shovel Knight Pocket Dungeon", "Going Under", "Crop Rotation", "Meteorfall: Krumit's Tale", "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
+  }, {
+    "price" : 5.14,
+    "games" : [ "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle",
