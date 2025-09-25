@@ -52,17 +52,6 @@
     "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/indie-likes-and-lites",
-  "name" : "Indie Likes and Lites",
-  "endDate" : 1759366800000,
-  "choices" : [ {
-    "price" : 10.29,
-    "games" : [ "Let's! Revolution!", "Shovel Knight Pocket Dungeon", "Going Under", "Crop Rotation", "Meteorfall: Krumit's Tale", "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
-  }, {
-    "price" : 5.14,
-    "games" : [ "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/critter-chaos-bundle",
   "name" : "Critter Chaos Bundle",
   "endDate" : 1759971600000,
@@ -75,6 +64,17 @@
   }, {
     "price" : 8.19,
     "games" : [ "Copycat", "Coromon" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/indie-likes-and-lites",
+  "name" : "Indie Likes and Lites",
+  "endDate" : 1759366800000,
+  "choices" : [ {
+    "price" : 10.29,
+    "games" : [ "Let's! Revolution!", "Shovel Knight Pocket Dungeon", "Going Under", "Crop Rotation", "Meteorfall: Krumit's Tale", "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
+  }, {
+    "price" : 5.14,
+    "games" : [ "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/phunky-physics",
