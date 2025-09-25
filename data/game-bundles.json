@@ -80,17 +80,6 @@
     "games" : [ "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/indie-likes-and-lites",
-  "name" : "Indie Likes and Lites",
-  "endDate" : 1759366800000,
-  "choices" : [ {
-    "price" : 10.29,
-    "games" : [ "Let's! Revolution!", "Shovel Knight Pocket Dungeon", "Going Under", "Crop Rotation", "Meteorfall: Krumit's Tale", "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
-  }, {
-    "price" : 5.14,
-    "games" : [ "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/curve-games-care-package",
   "name" : "Curve Games Care Package",
   "endDate" : 1758934800000,
@@ -100,6 +89,17 @@
   }, {
     "price" : 8.28,
     "games" : [ "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/indie-likes-and-lites",
+  "name" : "Indie Likes and Lites",
+  "endDate" : 1759366800000,
+  "choices" : [ {
+    "price" : 10.29,
+    "games" : [ "Let's! Revolution!", "Shovel Knight Pocket Dungeon", "Going Under", "Crop Rotation", "Meteorfall: Krumit's Tale", "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
+  }, {
+    "price" : 5.14,
+    "games" : [ "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/draknek-and-friends-12th-anniversary-celebration",
