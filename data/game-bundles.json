@@ -66,6 +66,17 @@
     "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/curve-games-care-package",
+  "name" : "Curve Games Care Package",
+  "endDate" : 1758934800000,
+  "choices" : [ {
+    "price" : 16.56,
+    "games" : [ "Badlands Crew", "Dungeons of Hinterberg Support Pack Bundle", "The Ascent Complete Collection", "Super Loco World - Cozy Train Automation", "Lawn Mowing Simulator Landmark Edition", "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
+  }, {
+    "price" : 8.28,
+    "games" : [ "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/phunky-physics",
   "name" : "Phunky Physics",
   "endDate" : 1759971600000,
@@ -78,17 +89,6 @@
   }, {
     "price" : 5.14,
     "games" : [ "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/curve-games-care-package",
-  "name" : "Curve Games Care Package",
-  "endDate" : 1758934800000,
-  "choices" : [ {
-    "price" : 16.56,
-    "games" : [ "Badlands Crew", "Dungeons of Hinterberg Support Pack Bundle", "The Ascent Complete Collection", "Super Loco World - Cozy Train Automation", "Lawn Mowing Simulator Landmark Edition", "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
-  }, {
-    "price" : 8.28,
-    "games" : [ "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/indie-likes-and-lites",
