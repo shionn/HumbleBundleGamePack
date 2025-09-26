@@ -1,13 +1,30 @@
 [ {
-  "url" : "https://www.humblebundle.com/games/lone-survivor-bundle",
-  "name" : "Lone Survivor Bundle",
-  "endDate" : 1760576400000,
+  "url" : "https://www.humblebundle.com/games/stories-from-latin-america",
+  "name" : "Stories from Latin America",
+  "endDate" : 1760749200000,
   "choices" : [ {
-    "price" : 12.26,
-    "games" : [ "Conan Exiles", "Chernobylite Premium Edition", "Forager", "DUCKSIDE", "Starsand", "Breathedge", "Above Snakes", "Force of Nature 2: Ghost Keeper", "State of Decay 2: Juggernaut Edition" ]
+    "price" : 20.34,
+    "games" : [ "Enigma of Fear", "Arco", "Kulebra and the Souls of Limbo", "Keylocker: Turn Based Cyberpunk Action", "despelote", "Tormented Souls", "9 Years of Shadows", "Arranger: A Role-Puzzling Adventure", "Dreamcore", "The Bunny Graveyard", "Tormented Souls 2 5% off coupon" ]
   }, {
-    "price" : 7.15,
-    "games" : [ "Breathedge", "Above Snakes", "Force of Nature 2: Ghost Keeper", "State of Decay 2: Juggernaut Edition" ]
+    "price" : 12.2,
+    "games" : [ "Kulebra and the Souls of Limbo", "Keylocker: Turn Based Cyberpunk Action", "despelote", "Tormented Souls", "9 Years of Shadows", "Arranger: A Role-Puzzling Adventure", "Dreamcore", "The Bunny Graveyard", "Tormented Souls 2 5% off coupon" ]
+  }, {
+    "price" : 8.13,
+    "games" : [ "9 Years of Shadows", "Arranger: A Role-Puzzling Adventure", "Dreamcore", "The Bunny Graveyard", "Tormented Souls 2 5% off coupon" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle",
+  "name" : "Humbling Soulslike Bundle",
+  "endDate" : 1759539600000,
+  "choices" : [ {
+    "price" : 16.36,
+    "games" : [ "Enotria: The Last Song", "Flintlock: Deluxe Edition", "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
+  }, {
+    "price" : 10.22,
+    "games" : [ "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
+  }, {
+    "price" : 6.13,
+    "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/remedy-games-30th-anniversary-bundle",
@@ -38,6 +55,17 @@
     "games" : [ "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/lone-survivor-bundle",
+  "name" : "Lone Survivor Bundle",
+  "endDate" : 1760576400000,
+  "choices" : [ {
+    "price" : 12.26,
+    "games" : [ "Conan Exiles", "Chernobylite Premium Edition", "Forager", "DUCKSIDE", "Starsand", "Breathedge", "Above Snakes", "Force of Nature 2: Ghost Keeper", "State of Decay 2: Juggernaut Edition" ]
+  }, {
+    "price" : 7.15,
+    "games" : [ "Breathedge", "Above Snakes", "Force of Nature 2: Ghost Keeper", "State of Decay 2: Juggernaut Edition" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/critter-chaos-bundle",
   "name" : "Critter Chaos Bundle",
   "endDate" : 1759971600000,
@@ -50,20 +78,6 @@
   }, {
     "price" : 8.19,
     "games" : [ "Copycat", "Coromon" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle",
-  "name" : "Humbling Soulslike Bundle",
-  "endDate" : 1759539600000,
-  "choices" : [ {
-    "price" : 16.36,
-    "games" : [ "Enotria: The Last Song", "Flintlock: Deluxe Edition", "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  }, {
-    "price" : 10.22,
-    "games" : [ "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  }, {
-    "price" : 6.13,
-    "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/draknek-and-friends-12th-anniversary-celebration",
