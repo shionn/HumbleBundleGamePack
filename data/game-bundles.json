@@ -66,6 +66,20 @@
     "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/draknek-and-friends-12th-anniversary-celebration",
+  "name" : "Draknek & Friends: 12 Years of Great Puzzle Games!",
+  "endDate" : 1758934800000,
+  "choices" : [ {
+    "price" : 15.78,
+    "games" : [ "LOK Digital", "A Monster's Expedition", "Sokobond Express", "Bonfire Peaks", "The Electrifying Incident: A Monster Mini-Expedition", "Sokobond", "Cosmic Express", "A Good Snowman is Hard to Build" ]
+  }, {
+    "price" : 10.51,
+    "games" : [ "Sokobond Express", "Bonfire Peaks", "The Electrifying Incident: A Monster Mini-Expedition", "Sokobond", "Cosmic Express", "A Good Snowman is Hard to Build" ]
+  }, {
+    "price" : 5.25,
+    "games" : [ "The Electrifying Incident: A Monster Mini-Expedition", "Sokobond", "Cosmic Express", "A Good Snowman is Hard to Build" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/curve-games-care-package",
   "name" : "Curve Games Care Package",
   "endDate" : 1758934800000,
@@ -86,20 +100,6 @@
   }, {
     "price" : 5.14,
     "games" : [ "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/draknek-and-friends-12th-anniversary-celebration",
-  "name" : "Draknek & Friends: 12 Years of Great Puzzle Games!",
-  "endDate" : 1758934800000,
-  "choices" : [ {
-    "price" : 15.78,
-    "games" : [ "LOK Digital", "A Monster's Expedition", "Sokobond Express", "Bonfire Peaks", "The Electrifying Incident: A Monster Mini-Expedition", "Sokobond", "Cosmic Express", "A Good Snowman is Hard to Build" ]
-  }, {
-    "price" : 10.51,
-    "games" : [ "Sokobond Express", "Bonfire Peaks", "The Electrifying Incident: A Monster Mini-Expedition", "Sokobond", "Cosmic Express", "A Good Snowman is Hard to Build" ]
-  }, {
-    "price" : 5.25,
-    "games" : [ "The Electrifying Incident: A Monster Mini-Expedition", "Sokobond", "Cosmic Express", "A Good Snowman is Hard to Build" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/phunky-physics",
