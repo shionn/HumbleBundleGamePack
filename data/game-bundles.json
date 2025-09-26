@@ -91,17 +91,6 @@
     "games" : [ "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/indie-likes-and-lites",
-  "name" : "Indie Likes and Lites",
-  "endDate" : 1759366800000,
-  "choices" : [ {
-    "price" : 10.29,
-    "games" : [ "Let's! Revolution!", "Shovel Knight Pocket Dungeon", "Going Under", "Crop Rotation", "Meteorfall: Krumit's Tale", "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
-  }, {
-    "price" : 5.14,
-    "games" : [ "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/draknek-and-friends-12th-anniversary-celebration",
   "name" : "Draknek & Friends: 12 Years of Great Puzzle Games!",
   "endDate" : 1758934800000,
@@ -114,5 +103,16 @@
   }, {
     "price" : 5.25,
     "games" : [ "The Electrifying Incident: A Monster Mini-Expedition", "Sokobond", "Cosmic Express", "A Good Snowman is Hard to Build" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/indie-likes-and-lites",
+  "name" : "Indie Likes and Lites",
+  "endDate" : 1759366800000,
+  "choices" : [ {
+    "price" : 10.29,
+    "games" : [ "Let's! Revolution!", "Shovel Knight Pocket Dungeon", "Going Under", "Crop Rotation", "Meteorfall: Krumit's Tale", "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
+  }, {
+    "price" : 5.14,
+    "games" : [ "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
   } ]
 } ]
