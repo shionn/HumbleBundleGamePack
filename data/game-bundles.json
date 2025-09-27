@@ -80,31 +80,6 @@
     "games" : [ "Copycat", "Coromon" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/curve-games-care-package",
-  "name" : "Curve Games Care Package",
-  "endDate" : 1758934800000,
-  "choices" : [ {
-    "price" : 16.56,
-    "games" : [ "Badlands Crew", "Dungeons of Hinterberg Support Pack Bundle", "The Ascent Complete Collection", "Super Loco World - Cozy Train Automation", "Lawn Mowing Simulator Landmark Edition", "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
-  }, {
-    "price" : 8.28,
-    "games" : [ "For The King - Deluxe Edition", "KitHack Model Club", "I Am Fish", "You Suck at Parking® - Complete Edition", "Bomber Crew - Deluxe Edition", "COUPON 60% OFF For The King II", "COUPON 15% OFF Lawn Mowing Simulator - Heritage Park" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/draknek-and-friends-12th-anniversary-celebration",
-  "name" : "Draknek & Friends: 12 Years of Great Puzzle Games!",
-  "endDate" : 1758934800000,
-  "choices" : [ {
-    "price" : 15.78,
-    "games" : [ "LOK Digital", "A Monster's Expedition", "Sokobond Express", "Bonfire Peaks", "The Electrifying Incident: A Monster Mini-Expedition", "Sokobond", "Cosmic Express", "A Good Snowman is Hard to Build" ]
-  }, {
-    "price" : 10.51,
-    "games" : [ "Sokobond Express", "Bonfire Peaks", "The Electrifying Incident: A Monster Mini-Expedition", "Sokobond", "Cosmic Express", "A Good Snowman is Hard to Build" ]
-  }, {
-    "price" : 5.25,
-    "games" : [ "The Electrifying Incident: A Monster Mini-Expedition", "Sokobond", "Cosmic Express", "A Good Snowman is Hard to Build" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/phunky-physics",
   "name" : "Phunky Physics",
   "endDate" : 1759971600000,
