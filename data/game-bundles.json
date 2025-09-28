@@ -27,6 +27,17 @@
     "games" : [ "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/lone-survivor-bundle",
+  "name" : "Lone Survivor Bundle",
+  "endDate" : 1760576400000,
+  "choices" : [ {
+    "price" : 12.26,
+    "games" : [ "Conan Exiles", "Chernobylite Premium Edition", "Forager", "DUCKSIDE", "Starsand", "Breathedge", "Above Snakes", "Force of Nature 2: Ghost Keeper", "State of Decay 2: Juggernaut Edition" ]
+  }, {
+    "price" : 7.15,
+    "games" : [ "Breathedge", "Above Snakes", "Force of Nature 2: Ghost Keeper", "State of Decay 2: Juggernaut Edition" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/stories-from-latin-america",
   "name" : "Stories from Latin America",
   "endDate" : 1760749200000,
@@ -39,17 +50,6 @@
   }, {
     "price" : 8.13,
     "games" : [ "9 Years of Shadows", "Arranger: A Role-Puzzling Adventure", "Dreamcore", "The Bunny Graveyard", "Tormented Souls 2 5% off coupon" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/lone-survivor-bundle",
-  "name" : "Lone Survivor Bundle",
-  "endDate" : 1760576400000,
-  "choices" : [ {
-    "price" : 12.26,
-    "games" : [ "Conan Exiles", "Chernobylite Premium Edition", "Forager", "DUCKSIDE", "Starsand", "Breathedge", "Above Snakes", "Force of Nature 2: Ghost Keeper", "State of Decay 2: Juggernaut Edition" ]
-  }, {
-    "price" : 7.15,
-    "games" : [ "Breathedge", "Above Snakes", "Force of Nature 2: Ghost Keeper", "State of Decay 2: Juggernaut Edition" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle",
