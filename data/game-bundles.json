@@ -24,6 +24,20 @@
     "games" : [ "Breathedge", "Above Snakes", "Force of Nature 2: Ghost Keeper", "State of Decay 2: Juggernaut Edition" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle",
+  "name" : "Humbling Soulslike Bundle",
+  "endDate" : 1759539600000,
+  "choices" : [ {
+    "price" : 16.36,
+    "games" : [ "Enotria: The Last Song", "Flintlock: Deluxe Edition", "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
+  }, {
+    "price" : 10.22,
+    "games" : [ "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
+  }, {
+    "price" : 6.13,
+    "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/remedy-games-30th-anniversary-bundle",
   "name" : "Remedy Games - 30th Anniversary Bundle",
   "endDate" : 1760144400000,
@@ -50,20 +64,6 @@
   }, {
     "price" : 8.13,
     "games" : [ "9 Years of Shadows", "Arranger: A Role-Puzzling Adventure", "Dreamcore", "The Bunny Graveyard", "Tormented Souls 2 5% off coupon" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle",
-  "name" : "Humbling Soulslike Bundle",
-  "endDate" : 1759539600000,
-  "choices" : [ {
-    "price" : 16.36,
-    "games" : [ "Enotria: The Last Song", "Flintlock: Deluxe Edition", "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  }, {
-    "price" : 10.22,
-    "games" : [ "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  }, {
-    "price" : 6.13,
-    "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/phunky-physics",
