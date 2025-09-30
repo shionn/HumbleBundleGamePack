@@ -1,4 +1,18 @@
 [ {
+  "url" : "https://www.humblebundle.com/games/critter-chaos-bundle",
+  "name" : "Critter Chaos Bundle",
+  "endDate" : 1759971600000,
+  "choices" : [ {
+    "price" : 14.35,
+    "games" : [ "Temtem", "Fruitbus", "Farewell North", "Meg's Monster", "Cassette Beasts", "Moonstone Island", "Copycat", "Coromon" ]
+  }, {
+    "price" : 10.24,
+    "games" : [ "Meg's Monster", "Cassette Beasts", "Moonstone Island", "Copycat", "Coromon" ]
+  }, {
+    "price" : 8.19,
+    "games" : [ "Copycat", "Coromon" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle",
   "name" : "Humbling Soulslike Bundle",
   "endDate" : 1759539600000,
@@ -13,32 +27,15 @@
     "games" : [ "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/lego-worlds-collide-2025",
-  "name" : "The Best of Humble Bundle: LEGO Worlds Collide 2025",
+  "url" : "https://www.humblebundle.com/games/indie-likes-and-lites",
+  "name" : "Indie Likes and Lites",
   "endDate" : 1759366800000,
   "choices" : [ {
-    "price" : 15.51,
-    "games" : [ "LEGO Star Wars: The Skywalker Saga - Deluxe Edition", "LEGO® Marvel Super Heroes 2 DELUXE EDITION", "LEGO® DC Super-Villains DELUXE EDITION", "LEGO® Batman™ 3: Beyond Gotham PREMIUM EDITION", "LEGO® Star Wars™: The Force Awakens DELUXE EDITION", "LEGO® Jurassic World™", "LEGO® Worlds", "LEGO® Disney•Pixar's The Incredibles", "The LEGO Movie 2 Videogame", "LEGO® MARVEL's Avengers DELUXE EDITION", "The LEGO NINJAGO Movie Video Game", "LEGO® The Lord of the Rings", "LEGO® Batman™ 2: DC Super Heroes", "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
+    "price" : 10.29,
+    "games" : [ "Let's! Revolution!", "Shovel Knight Pocket Dungeon", "Going Under", "Crop Rotation", "Meteorfall: Krumit's Tale", "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
   }, {
-    "price" : 10.34,
-    "games" : [ "LEGO® MARVEL's Avengers DELUXE EDITION", "The LEGO NINJAGO Movie Video Game", "LEGO® The Lord of the Rings", "LEGO® Batman™ 2: DC Super Heroes", "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
-  }, {
-    "price" : 5.17,
-    "games" : [ "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/remedy-games-30th-anniversary-bundle",
-  "name" : "Remedy Games - 30th Anniversary Bundle",
-  "endDate" : 1760144400000,
-  "choices" : [ {
-    "price" : 27.64,
-    "games" : [ "Alan Wake 2 - Deluxe Edition", "COUPON 25% OFF FBC: Firebreak", "Quantum Break", "Control Ultimate Edition", "Alan Wake Remastered", "Alan Wake Collector's Edition", "Max Payne", "Max Payne 2: The Fall of Max Payne", "Death Rally", "Alan Wake's American Nightmare" ]
-  }, {
-    "price" : 12.28,
-    "games" : [ "Quantum Break", "Control Ultimate Edition", "Alan Wake Remastered", "Alan Wake Collector's Edition", "Max Payne", "Max Payne 2: The Fall of Max Payne", "Death Rally", "Alan Wake's American Nightmare" ]
-  }, {
-    "price" : 5.11,
-    "games" : [ "Max Payne", "Max Payne 2: The Fall of Max Payne", "Death Rally", "Alan Wake's American Nightmare" ]
+    "price" : 5.14,
+    "games" : [ "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/lone-survivor-bundle",
@@ -50,20 +47,6 @@
   }, {
     "price" : 7.15,
     "games" : [ "Breathedge", "Above Snakes", "Force of Nature 2: Ghost Keeper", "State of Decay 2: Juggernaut Edition" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/stories-from-latin-america",
-  "name" : "Stories from Latin America",
-  "endDate" : 1760749200000,
-  "choices" : [ {
-    "price" : 20.34,
-    "games" : [ "Enigma of Fear", "Arco", "Kulebra and the Souls of Limbo", "Keylocker: Turn Based Cyberpunk Action", "despelote", "Tormented Souls", "9 Years of Shadows", "Arranger: A Role-Puzzling Adventure", "Dreamcore", "The Bunny Graveyard", "Tormented Souls 2 5% off coupon" ]
-  }, {
-    "price" : 12.2,
-    "games" : [ "Kulebra and the Souls of Limbo", "Keylocker: Turn Based Cyberpunk Action", "despelote", "Tormented Souls", "9 Years of Shadows", "Arranger: A Role-Puzzling Adventure", "Dreamcore", "The Bunny Graveyard", "Tormented Souls 2 5% off coupon" ]
-  }, {
-    "price" : 8.13,
-    "games" : [ "9 Years of Shadows", "Arranger: A Role-Puzzling Adventure", "Dreamcore", "The Bunny Graveyard", "Tormented Souls 2 5% off coupon" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/phunky-physics",
@@ -80,28 +63,45 @@
     "games" : [ "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight: The Game" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/critter-chaos-bundle",
-  "name" : "Critter Chaos Bundle",
-  "endDate" : 1759971600000,
+  "url" : "https://www.humblebundle.com/games/remedy-games-30th-anniversary-bundle",
+  "name" : "Remedy Games - 30th Anniversary Bundle",
+  "endDate" : 1760144400000,
   "choices" : [ {
-    "price" : 14.35,
-    "games" : [ "Temtem", "Fruitbus", "Farewell North", "Meg's Monster", "Cassette Beasts", "Moonstone Island", "Copycat", "Coromon" ]
+    "price" : 27.64,
+    "games" : [ "Alan Wake 2 - Deluxe Edition", "COUPON 25% OFF FBC: Firebreak", "Quantum Break", "Control Ultimate Edition", "Alan Wake Remastered", "Alan Wake Collector's Edition", "Max Payne", "Max Payne 2: The Fall of Max Payne", "Death Rally", "Alan Wake's American Nightmare" ]
   }, {
-    "price" : 10.24,
-    "games" : [ "Meg's Monster", "Cassette Beasts", "Moonstone Island", "Copycat", "Coromon" ]
+    "price" : 12.28,
+    "games" : [ "Quantum Break", "Control Ultimate Edition", "Alan Wake Remastered", "Alan Wake Collector's Edition", "Max Payne", "Max Payne 2: The Fall of Max Payne", "Death Rally", "Alan Wake's American Nightmare" ]
   }, {
-    "price" : 8.19,
-    "games" : [ "Copycat", "Coromon" ]
+    "price" : 5.11,
+    "games" : [ "Max Payne", "Max Payne 2: The Fall of Max Payne", "Death Rally", "Alan Wake's American Nightmare" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/indie-likes-and-lites",
-  "name" : "Indie Likes and Lites",
+  "url" : "https://www.humblebundle.com/games/stories-from-latin-america",
+  "name" : "Stories from Latin America",
+  "endDate" : 1760749200000,
+  "choices" : [ {
+    "price" : 20.34,
+    "games" : [ "Enigma of Fear", "Arco", "Kulebra and the Souls of Limbo", "Keylocker: Turn Based Cyberpunk Action", "despelote", "Tormented Souls", "9 Years of Shadows", "Arranger: A Role-Puzzling Adventure", "Dreamcore", "The Bunny Graveyard", "Tormented Souls 2 5% off coupon" ]
+  }, {
+    "price" : 12.2,
+    "games" : [ "Kulebra and the Souls of Limbo", "Keylocker: Turn Based Cyberpunk Action", "despelote", "Tormented Souls", "9 Years of Shadows", "Arranger: A Role-Puzzling Adventure", "Dreamcore", "The Bunny Graveyard", "Tormented Souls 2 5% off coupon" ]
+  }, {
+    "price" : 8.13,
+    "games" : [ "9 Years of Shadows", "Arranger: A Role-Puzzling Adventure", "Dreamcore", "The Bunny Graveyard", "Tormented Souls 2 5% off coupon" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/lego-worlds-collide-2025",
+  "name" : "The Best of Humble Bundle: LEGO Worlds Collide 2025",
   "endDate" : 1759366800000,
   "choices" : [ {
-    "price" : 10.29,
-    "games" : [ "Let's! Revolution!", "Shovel Knight Pocket Dungeon", "Going Under", "Crop Rotation", "Meteorfall: Krumit's Tale", "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
+    "price" : 15.51,
+    "games" : [ "LEGO Star Wars: The Skywalker Saga - Deluxe Edition", "LEGO® Marvel Super Heroes 2 DELUXE EDITION", "LEGO® DC Super-Villains DELUXE EDITION", "LEGO® Batman™ 3: Beyond Gotham PREMIUM EDITION", "LEGO® Star Wars™: The Force Awakens DELUXE EDITION", "LEGO® Jurassic World™", "LEGO® Worlds", "LEGO® Disney•Pixar's The Incredibles", "The LEGO Movie 2 Videogame", "LEGO® MARVEL's Avengers DELUXE EDITION", "The LEGO NINJAGO Movie Video Game", "LEGO® The Lord of the Rings", "LEGO® Batman™ 2: DC Super Heroes", "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
   }, {
-    "price" : 5.14,
-    "games" : [ "The Ouroboros King", "Rack and Slay", "Luck Be A Landlord", "Rogue Heroes: Ruins of Tasos" ]
+    "price" : 10.34,
+    "games" : [ "LEGO® MARVEL's Avengers DELUXE EDITION", "The LEGO NINJAGO Movie Video Game", "LEGO® The Lord of the Rings", "LEGO® Batman™ 2: DC Super Heroes", "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
+  }, {
+    "price" : 5.17,
+    "games" : [ "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
   } ]
 } ]
