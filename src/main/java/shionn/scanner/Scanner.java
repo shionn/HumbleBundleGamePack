@@ -46,6 +46,7 @@ public class Scanner {
 				Bundle bundle = parseBundle(driver, ROOT_URL + url);
 				bundles.add(bundle);
 			}
+			bundles.sort((a, b) -> a.getName().compareTo(b.getName()));
 			return bundles;
 		} finally {
 			driver.close();
