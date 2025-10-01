@@ -104,4 +104,15 @@
     "price" : 5.17,
     "games" : [ "LEGO® Batman™: The Videogame", "LEGO® The Hobbit™", "LEGO® Marvel™ Super Heroes", "The LEGO® Movie - Videogame" ]
   } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/waaaghtober-warhammer-bundle",
+  "name" : "WAAAGHtober! A Warhammer Bundle",
+  "endDate" : 1761786000000,
+  "choices" : [ {
+    "price" : 12.27,
+    "games" : [ "Warhammer 40,000: Space Marine - Anniversary Edition", "Warhammer 40,000: Battlesector", "Warhammer 40,000: Battlesector - Blood Angels Elite", "Warhammer 40,000: Battlesector - Tyranid Elites", "Warhammer 40,000: Inquisitor - Martyr", "Warhammer 40,000: Shootas, Blood & Teef", "Warhammer: Vermintide 2", "Warhammer 40,000: Inquisitor - Prophecy", "Warhammer: End Times - Vermintide", "Warhammer 40,000: Dakka Squadron - Flyboyz Edition", "Warhammer 40,000: Mechanicus", "Warhammer: Chaosbane" ]
+  }, {
+    "price" : 6.13,
+    "games" : [ "Warhammer: Vermintide 2", "Warhammer 40,000: Inquisitor - Prophecy", "Warhammer: End Times - Vermintide", "Warhammer 40,000: Dakka Squadron - Flyboyz Edition", "Warhammer 40,000: Mechanicus", "Warhammer: Chaosbane" ]
+  } ]
 } ]
