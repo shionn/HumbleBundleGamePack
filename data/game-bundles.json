@@ -13,6 +13,20 @@
     "games" : [ "Chronicon", "Dungeons of Sundaria" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/cosmic-mysteries-noir-realities",
+  "name" : "Cosmic Mysteries & Noir Realities",
+  "endDate" : 1761958800000,
+  "choices" : [ {
+    "price" : 10.27,
+    "games" : [ "Chicken Police - Paint it RED", "Strangeland", "Norco", "The Excavation of Hob's Barrow", "Disco Elysium - The Final Cut", "Glitchhikers: The Spaces Between", "Genesis Noir", "Tales of the Neon Sea" ]
+  }, {
+    "price" : 6.15,
+    "games" : [ "Disco Elysium - The Final Cut", "Glitchhikers: The Spaces Between", "Genesis Noir", "Tales of the Neon Sea" ]
+  }, {
+    "price" : 3.07,
+    "games" : [ "Genesis Noir", "Tales of the Neon Sea" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle",
   "name" : "Humbling Soulslike Bundle",
   "endDate" : 1760144400000,
