@@ -27,6 +27,14 @@
     "games" : [ "Genesis Noir", "Tales of the Neon Sea" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/avatar-legends-20th-anniversary-physical-rpg-bundle",
+  "name" : "Humble Physical Tabletop Game Bundle: Avatar Legends 20th Anniversary Physical RPG Bundle",
+  "endDate" : 1762020000000,
+  "choices" : [ {
+    "price" : 43.97,
+    "games" : [ "Avatar Legends: The Roleplaying Game Starter Set", "Dice Pack (Avatar Legends)", "Cloth Map & Pai Sho Tile (Avatar Legends)", "Deluxe Dice Bag (Avatar Legends)", "GM Screen (Avatar Legends)", "Journal Pack (Avatar Legends)" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/lone-survivor-bundle",
   "name" : "Lone Survivor Bundle",
   "endDate" : 1760576400000,
