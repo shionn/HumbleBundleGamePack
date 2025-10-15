@@ -27,6 +27,20 @@
     "games" : [ "Genesis Noir", "Tales of the Neon Sea" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/empires-and-engines-return-to-tropico-more-from-kalypso",
+  "name" : "Empires and Engines: Return to Tropico & More from Kalypso!",
+  "endDate" : 1762394400000,
+  "choices" : [ {
+    "price" : 12.39,
+    "games" : [ "Tropico 6 - El Prez Edition", "Tropico 6 - Going Viral", "Tropico 6 - New Frontiers", "Tropico 6 - Festival", "Tropico 6 - Caribbean Skies", "Tropico 6 - Lobbyistico", "Tropico 6 - Spitter", "Tropico 6 - The Llama of Wall Street", "Railway Empire", "Railway Empire - Japan", "Railway Empire - Germany", "Railway Empire - Northern Europe", "Railway Empire - Down Under", "Railway Empire - France", "Railway Empire - Great Britain & Ireland", "Railway Empire - Crossing the Andes", "Railway Empire - The Great Lakes", "Railway Empire - Mexico", "Tropico 5 - Complete Collection", "Port Royale 4 Extended Edition", "Tropico 4: Collectors Bundle", "Port Royale 3 - Gold Edition", "Tropico 3: Gold Edition", "Railway Empire 2 - 45% Off Coupon" ]
+  }, {
+    "price" : 8.26,
+    "games" : [ "Tropico 5 - Complete Collection", "Port Royale 4 Extended Edition", "Tropico 4: Collectors Bundle", "Port Royale 3 - Gold Edition", "Tropico 3: Gold Edition", "Railway Empire 2 - 45% Off Coupon" ]
+  }, {
+    "price" : 5.16,
+    "games" : [ "Tropico 4: Collectors Bundle", "Port Royale 3 - Gold Edition", "Tropico 3: Gold Edition", "Railway Empire 2 - 45% Off Coupon" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/avatar-legends-20th-anniversary-physical-rpg-bundle",
   "name" : "Humble Physical Tabletop Game Bundle: Avatar Legends 20th Anniversary Physical RPG Bundle",
   "endDate" : 1762020000000,
