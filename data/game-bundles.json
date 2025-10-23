@@ -80,17 +80,6 @@
     "games" : [ "Invincible Presents: Atom Eve", "TerraTech", "Predator: Hunting Grounds" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/lone-survivor-bundle",
-  "name" : "Lone Survivor Bundle",
-  "endDate" : 1761181200000,
-  "choices" : [ {
-    "price" : 12.26,
-    "games" : [ "Conan Exiles", "Chernobylite Premium Edition", "Forager", "DUCKSIDE", "Starsand", "Breathedge", "Above Snakes", "Force of Nature 2: Ghost Keeper", "State of Decay 2: Juggernaut Edition" ]
-  }, {
-    "price" : 7.15,
-    "games" : [ "Breathedge", "Above Snakes", "Force of Nature 2: Ghost Keeper", "State of Decay 2: Juggernaut Edition" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/momcore-games-for-busy-life",
   "name" : "Momcore: Games For a Busy Life",
   "endDate" : 1762567200000,
