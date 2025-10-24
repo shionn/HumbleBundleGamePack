@@ -80,6 +80,20 @@
     "games" : [ "Invincible Presents: Atom Eve", "TerraTech", "Predator: Hunting Grounds" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/kingdom-10th-anniversary-bundle",
+  "name" : "Kingdom: 10th Anniversary Bundle",
+  "endDate" : 1763172000000,
+  "choices" : [ {
+    "price" : 15.48,
+    "games" : [ "Kingdom Two Crowns: Call of Olympus", "Kingdom Two Crowns: Norse Lands", "Kingdom Two Crowns", "Kingdom Two Crowns: OST", "Kingdom Two Crowns: Regent's Royal Wardrobe", "Kingdom Two Crowns: Archon's Royal Wardrobe", "Kingdom Eighties", "Kingdom: New Lands Royal Edition" ]
+  }, {
+    "price" : 13.41,
+    "games" : [ "Kingdom Two Crowns", "Kingdom Two Crowns: OST", "Kingdom Two Crowns: Regent's Royal Wardrobe", "Kingdom Two Crowns: Archon's Royal Wardrobe", "Kingdom Eighties", "Kingdom: New Lands Royal Edition" ]
+  }, {
+    "price" : 5.16,
+    "games" : [ "Kingdom Eighties", "Kingdom: New Lands Royal Edition" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/momcore-games-for-busy-life",
   "name" : "Momcore: Games For a Busy Life",
   "endDate" : 1762567200000,
