@@ -16,20 +16,6 @@
     "games" : [ "The Dark Pictures Anthology: Little Hope", "The Dark Pictures Anthology: Man of Medan" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/close-combat-collection",
-  "name" : "Close Combat Collection",
-  "endDate" : 1761354000000,
-  "choices" : [ {
-    "price" : 12.27,
-    "games" : [ "BloodRayne: Terminal Cut", "The Last Soldier of the Ming Dynasty", "Ghostlore", "Dwarven Realms", "Blossom Tales II: The Minotaur Prince", "Into the Necrovale", "Chronicon", "Dungeons of Sundaria" ]
-  }, {
-    "price" : 8.18,
-    "games" : [ "Dwarven Realms", "Blossom Tales II: The Minotaur Prince", "Into the Necrovale", "Chronicon", "Dungeons of Sundaria" ]
-  }, {
-    "price" : 5.11,
-    "games" : [ "Chronicon", "Dungeons of Sundaria" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/cosmic-mysteries-noir-realities",
   "name" : "Cosmic Mysteries & Noir Realities",
   "endDate" : 1761958800000,
