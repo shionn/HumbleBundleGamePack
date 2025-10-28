@@ -108,6 +108,17 @@
     "games" : [ "Coupon 10% OFF Life is Strange Double Exposure", "Life is Strange Remastered Collection" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/myst-and-riven-complete-collection-2025",
+  "name" : "The Myst and Riven Complete Collection 2025",
+  "endDate" : 1762974000000,
+  "choices" : [ {
+    "price" : 20.59,
+    "games" : [ "Riven (2024 Remaster)", "Myst (2021)", "URU: Complete Chronicles", "realMyst: Masterpiece Edition", "Myst V: End of Ages", "Myst IV: Revelation", "Myst III: Exile", "Riven (1997)", "Myst: Masterpiece Edition" ]
+  }, {
+    "price" : 8.23,
+    "games" : [ "URU: Complete Chronicles", "realMyst: Masterpiece Edition", "Myst V: End of Ages", "Myst IV: Revelation", "Myst III: Exile", "Riven (1997)", "Myst: Masterpiece Edition" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/waaaghtober-warhammer-bundle",
   "name" : "WAAAGHtober! A Warhammer Bundle",
   "endDate" : 1761786000000,
