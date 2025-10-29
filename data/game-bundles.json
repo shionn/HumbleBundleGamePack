@@ -129,18 +129,4 @@
     "price" : 6.13,
     "games" : [ "Warhammer: Vermintide 2", "Warhammer 40,000: Inquisitor - Prophecy", "Warhammer: End Times - Vermintide", "Warhammer 40,000: Dakka Squadron - Flyboyz Edition", "Warhammer 40,000: Mechanicus", "Warhammer: Chaosbane" ]
   } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/wireds-safe-in-our-world-anniversary-bundle",
-  "name" : "Wired's Safe In Our World Anniversary Bundle",
-  "endDate" : 1761699600000,
-  "choices" : [ {
-    "price" : 20.42,
-    "games" : [ "Gori: Cuddly Carnage", "Bulwark Evolution: Falconeer Chronicles", "Martha is Dead", "Deliver Us the Moon", "GRIP: Combat Racing", "Arcade Paradise", "Aaero 2", "The Falconeer", "Those Who Remain", "Fractured Minds", "Tin Hearts", "The Last Worker", "Tiny Troopers: Global Ops" ]
-  }, {
-    "price" : 15.32,
-    "games" : [ "GRIP: Combat Racing", "Arcade Paradise", "Aaero 2", "The Falconeer", "Those Who Remain", "Fractured Minds", "Tin Hearts", "The Last Worker", "Tiny Troopers: Global Ops" ]
-  }, {
-    "price" : 8.17,
-    "games" : [ "Those Who Remain", "Fractured Minds", "Tin Hearts", "The Last Worker", "Tiny Troopers: Global Ops" ]
-  } ]
 } ]
