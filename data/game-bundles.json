@@ -80,6 +80,20 @@
     "games" : [ "Kingdom Eighties", "Kingdom: New Lands Royal Edition" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/microids-mega-mix-2025",
+  "name" : "Microids Mega Mix 2025",
+  "endDate" : 1763604000000,
+  "choices" : [ {
+    "price" : 20.71,
+    "games" : [ "Amerzone - The Explorer's Legacy", "Little Big Adventure Twinsens Quest", "UFO ROBOT GRENDIZER The Feast of the Wolves", "Totally Spies! - Cyber Mission", "Flint - Treasure of Oblivion", "Flashback 2", "Noob - The Factionless", "Agatha Christie - Murder on the Orient Express", "Syberia: The World Before", "Horse Tales: Emerald Valley Ranch", "The Smurfs 2 - The Prisoner of the Green Stone", "Garfield Lasagna Party", "The Smurfs - Village Party", "Operation Wolf Returns: First Mission", "Asterix & Obelix Slap Them All! 2", "Grand Mountain Adventure: Wonderlands", "Gear.Club Unlimited 2 - Ultimate Edition", "MARSUPILAMI - HOOBADVENTURE", "Syberia 3", "Syberia II", "Syberia", "Arkanoid - Eternal Battle", "Coupon 15% OFF Syberia - Remastered" ]
+  }, {
+    "price" : 12.42,
+    "games" : [ "Noob - The Factionless", "Agatha Christie - Murder on the Orient Express", "Syberia: The World Before", "Horse Tales: Emerald Valley Ranch", "The Smurfs 2 - The Prisoner of the Green Stone", "Garfield Lasagna Party", "The Smurfs - Village Party", "Operation Wolf Returns: First Mission", "Asterix & Obelix Slap Them All! 2", "Grand Mountain Adventure: Wonderlands", "Gear.Club Unlimited 2 - Ultimate Edition", "MARSUPILAMI - HOOBADVENTURE", "Syberia 3", "Syberia II", "Syberia", "Arkanoid - Eternal Battle", "Coupon 15% OFF Syberia - Remastered" ]
+  }, {
+    "price" : 5.17,
+    "games" : [ "Operation Wolf Returns: First Mission", "Asterix & Obelix Slap Them All! 2", "Grand Mountain Adventure: Wonderlands", "Gear.Club Unlimited 2 - Ultimate Edition", "MARSUPILAMI - HOOBADVENTURE", "Syberia 3", "Syberia II", "Syberia", "Arkanoid - Eternal Battle", "Coupon 15% OFF Syberia - Remastered" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/momcore-games-for-busy-life",
   "name" : "Momcore: Games For a Busy Life",
   "endDate" : 1762567200000,
