@@ -66,6 +66,14 @@
     "games" : [ "Invincible Presents: Atom Eve", "TerraTech", "Predator: Hunting Grounds" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/indie-fears-bundle",
+  "name" : "Indie Fears Bundle",
+  "endDate" : 1763776800000,
+  "choices" : [ {
+    "price" : 13.39,
+    "games" : [ "Mouthwashing", "Buckshot Roulette", "Arctic Eggs", "Who's Lila?", "THRESHOLD", "ORDER 13", "NO-SKIN", "Kiosk", "Adios", "The Boba Teashop", "Daemonologie", "Massacre At The Mirage", "Terror At Oakheart" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/kingdom-10th-anniversary-bundle",
   "name" : "Kingdom: 10th Anniversary Bundle",
   "endDate" : 1763172000000,
