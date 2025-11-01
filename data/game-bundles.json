@@ -30,20 +30,6 @@
     "games" : [ "The Dark Pictures Anthology: Little Hope", "The Dark Pictures Anthology: Man of Medan" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/cosmic-mysteries-noir-realities",
-  "name" : "Cosmic Mysteries & Noir Realities",
-  "endDate" : 1761958800000,
-  "choices" : [ {
-    "price" : 10.27,
-    "games" : [ "Chicken Police - Paint it RED", "Strangeland", "Norco", "The Excavation of Hob's Barrow", "Disco Elysium - The Final Cut", "Glitchhikers: The Spaces Between", "Genesis Noir", "Tales of the Neon Sea" ]
-  }, {
-    "price" : 6.15,
-    "games" : [ "Disco Elysium - The Final Cut", "Glitchhikers: The Spaces Between", "Genesis Noir", "Tales of the Neon Sea" ]
-  }, {
-    "price" : 3.07,
-    "games" : [ "Genesis Noir", "Tales of the Neon Sea" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/empires-and-engines-return-to-tropico-more-from-kalypso",
   "name" : "Empires and Engines: Return to Tropico & More from Kalypso!",
   "endDate" : 1762394400000,
