@@ -61,20 +61,6 @@
     "games" : [ "Choo-Choo Charles", "Bendy and the Dark Revival", "Bendy and the Ink Machine" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/ign-fan-fest-2025-fall-edition",
-  "name" : "IGN Fan Fest 2025: Fall Edition",
-  "endDate" : 1762221600000,
-  "choices" : [ {
-    "price" : 25.56,
-    "games" : [ "Warhammer 40,000: Rogue Trader", "Train Sim World 6: Free Starter Pack", "Train Sim World 6: MBTA Commuter: Boston - Framingham/Worcester Line Route Add-On", "Train Sim World 6: MBTA Providence/Stoughton Line HSP46 Add-On", "Train Sim World 6: Sand Patch Grade Route Add-On", "Train Sim World 6: Maintalbahn: Aschaffenburg - Miltenberg Route Add-On", "Wandering Sword", "SpongeBob SquarePants: The Cosmic Shake", "Koira", "Invincible Presents: Atom Eve", "TerraTech", "Predator: Hunting Grounds" ]
-  }, {
-    "price" : 15.33,
-    "games" : [ "Wandering Sword", "SpongeBob SquarePants: The Cosmic Shake", "Koira", "Invincible Presents: Atom Eve", "TerraTech", "Predator: Hunting Grounds" ]
-  }, {
-    "price" : 10.22,
-    "games" : [ "Invincible Presents: Atom Eve", "TerraTech", "Predator: Hunting Grounds" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/indie-fears-bundle",
   "name" : "Indie Fears Bundle",
   "endDate" : 1763776800000,
