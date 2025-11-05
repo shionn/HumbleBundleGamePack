@@ -30,17 +30,6 @@
     "games" : [ "The Dark Pictures Anthology: Little Hope", "The Dark Pictures Anthology: Man of Medan" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/devil-may-cry-devil-trigger-enhanced-collection",
-  "name" : "Devil May Cry: Devil Trigger Enhanced Collection",
-  "endDate" : 1764208800000,
-  "choices" : [ {
-    "price" : 18.79,
-    "games" : [ "Devil May Cry 5 (Deluxe Version) + Vergil Pack", "Devil May Cry 4 Special Edition", "Devil May Cry HD Collection", "Devil May Cry" ]
-  }, {
-    "price" : 9.39,
-    "games" : [ "Devil May Cry HD Collection", "Devil May Cry" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/empires-and-engines-return-to-tropico-more-from-kalypso",
   "name" : "Empires and Engines: Return to Tropico & More from Kalypso!",
   "endDate" : 1762394400000,
