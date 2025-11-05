@@ -122,6 +122,26 @@
     "games" : [ "We should talk", "Beasts of Maravilla Island", "BOMBFEST", "Where the Bees Make Honey", "Beans: The Coffee Shop Simulator" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/monster-hunter-fall-hunting-collection",
+  "name" : "Monster Hunter Series Collection",
+  "endDate" : 1764208800000,
+  "choices" : [ {
+    "price" : 41.76,
+    "games" : [ "Monster Hunter Stories 2: Wings of Ruin", "Monster Hunter Stories", "Monster Hunter Wilds Coupon - 30% Off Coupon", "Monster Hunter World: Iceborne", "Monster Hunter World: Iceborne Deluxe Kit", "MONSTER HUNTER: WORLD", "Monster Hunter: World - Deluxe Kit", "Monster Hunter Rise: Sunbreak", "Monster Hunter Rise: Sunbreak Deluxe Kit", "MONSTER HUNTER RISE", "MONSTER HUNTER RISE Deluxe Kit" ]
+  }, {
+    "price" : 26.1,
+    "games" : [ "Monster Hunter World: Iceborne", "Monster Hunter World: Iceborne Deluxe Kit", "MONSTER HUNTER: WORLD", "Monster Hunter: World - Deluxe Kit", "Monster Hunter Rise: Sunbreak", "Monster Hunter Rise: Sunbreak Deluxe Kit", "MONSTER HUNTER RISE", "MONSTER HUNTER RISE Deluxe Kit" ]
+  }, {
+    "price" : 20.88,
+    "games" : [ "MONSTER HUNTER: WORLD", "Monster Hunter: World - Deluxe Kit", "Monster Hunter Rise: Sunbreak", "Monster Hunter Rise: Sunbreak Deluxe Kit", "MONSTER HUNTER RISE", "MONSTER HUNTER RISE Deluxe Kit" ]
+  }, {
+    "price" : 15.66,
+    "games" : [ "Monster Hunter Rise: Sunbreak", "Monster Hunter Rise: Sunbreak Deluxe Kit", "MONSTER HUNTER RISE", "MONSTER HUNTER RISE Deluxe Kit" ]
+  }, {
+    "price" : 10.44,
+    "games" : [ "MONSTER HUNTER RISE", "MONSTER HUNTER RISE Deluxe Kit" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/square-enix-life-is-strange-true-colors-bundle",
   "name" : "Square Enix - Life is Strange True Colors Bundle",
   "endDate" : 1762567200000,
