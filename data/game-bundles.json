@@ -72,6 +72,14 @@
     "games" : [ "Choo-Choo Charles", "Bendy and the Dark Revival", "Bendy and the Ink Machine" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/telltale-collection",
+  "name" : "Humble Bundle: The Telltale Collection",
+  "endDate" : 1764381600000,
+  "choices" : [ {
+    "price" : 10.38,
+    "games" : [ "The Expanse: A Telltale Series", "The Walking Dead", "The Walking Dead: 400 Days", "The Wolf Among Us", "Batman: The Enemy Within - The Telltale Series", "Batman - The Enemy Within Shadows Mode", "Batman - The Telltale Series", "Batman - The Telltale Series Shadows Mode", "Tales of Monkey Island: Complete Season" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/indie-fears-bundle",
   "name" : "Indie Fears Bundle",
   "endDate" : 1763776800000,
