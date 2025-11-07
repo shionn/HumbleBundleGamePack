@@ -55,6 +55,20 @@
     "games" : [ "Tropico 4: Collectors Bundle", "Port Royale 3 - Gold Edition", "Tropico 3: Gold Edition", "Railway Empire 2 Deluxe Edition- 40% Off Coupon" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/frogwares-lovecraft-and-sherlock-classics",
+  "name" : "Frogwares: Lovecraft and Sherlock Classics",
+  "endDate" : 1764381600000,
+  "choices" : [ {
+    "price" : 12.36,
+    "games" : [ "The Sinking City Remastered", "Sherlock Holmes The Awakened", "Sherlock Holmes Chapter One", "Sherlock Holmes: Crimes and Punishments", "The Testament of Sherlock Holmes", "Sherlock Holmes: The Devil's Daughter", "Sherlock Holmes and the Hound of the Baskervilles", "Sherlock Holmes versus Jack the Ripper", "Sherlock Holmes: Nemesis", "Sherlock Holmes: The Awakened -2008", "Sherlock Holmes: The Mystery of the Persian Carpet", "Sherlock Holmes: The Secret of the Silver Earring" ]
+  }, {
+    "price" : 7.21,
+    "games" : [ "Sherlock Holmes: Crimes and Punishments", "The Testament of Sherlock Holmes", "Sherlock Holmes: The Devil's Daughter", "Sherlock Holmes and the Hound of the Baskervilles", "Sherlock Holmes versus Jack the Ripper", "Sherlock Holmes: Nemesis", "Sherlock Holmes: The Awakened -2008", "Sherlock Holmes: The Mystery of the Persian Carpet", "Sherlock Holmes: The Secret of the Silver Earring" ]
+  }, {
+    "price" : 5.14,
+    "games" : [ "Sherlock Holmes and the Hound of the Baskervilles", "Sherlock Holmes versus Jack the Ripper", "Sherlock Holmes: Nemesis", "Sherlock Holmes: The Awakened -2008", "Sherlock Holmes: The Mystery of the Persian Carpet", "Sherlock Holmes: The Secret of the Silver Earring" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/horror-icons-showcase",
   "name" : "Horror Icons Showcase",
   "endDate" : 1763690400000,
