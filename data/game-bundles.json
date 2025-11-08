@@ -130,20 +130,6 @@
     "games" : [ "Operation Wolf Returns: First Mission", "Asterix & Obelix Slap Them All! 2", "Grand Mountain Adventure: Wonderlands", "Gear.Club Unlimited 2 - Ultimate Edition", "MARSUPILAMI - HOOBADVENTURE", "Syberia 3", "Syberia II", "Syberia", "Arkanoid - Eternal Battle", "Coupon 15% OFF Syberia - Remastered" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/momcore-games-for-busy-life",
-  "name" : "Momcore: Games For a Busy Life",
-  "endDate" : 1762567200000,
-  "choices" : [ {
-    "price" : 10.15,
-    "games" : [ "Lake", "Lake: Seasons Greetings DLC", "Calico", "Calico: Neat things DLC", "APICO", "Kana Quest", "Onsen Master", "We should talk", "Beasts of Maravilla Island", "BOMBFEST", "Where the Bees Make Honey", "Beans: The Coffee Shop Simulator" ]
-  }, {
-    "price" : 7.1,
-    "games" : [ "Kana Quest", "Onsen Master", "We should talk", "Beasts of Maravilla Island", "BOMBFEST", "Where the Bees Make Honey", "Beans: The Coffee Shop Simulator" ]
-  }, {
-    "price" : 4.05,
-    "games" : [ "We should talk", "Beasts of Maravilla Island", "BOMBFEST", "Where the Bees Make Honey", "Beans: The Coffee Shop Simulator" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/monster-hunter-fall-hunting-collection",
   "name" : "Monster Hunter Series Collection",
   "endDate" : 1764208800000,
@@ -162,20 +148,6 @@
   }, {
     "price" : 10.44,
     "games" : [ "MONSTER HUNTER RISE", "MONSTER HUNTER RISE Deluxe Kit" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/square-enix-life-is-strange-true-colors-bundle",
-  "name" : "Square Enix - Life is Strange True Colors Bundle",
-  "endDate" : 1762567200000,
-  "choices" : [ {
-    "price" : 22.84,
-    "games" : [ "Life is Strange: True Colors - Deluxe Upgrade", "Life is Strange: True Colors", "Coupon 10% OFF Life is Strange Double Exposure", "Life is Strange Remastered Collection" ]
-  }, {
-    "price" : 18.69,
-    "games" : [ "Life is Strange: True Colors", "Coupon 10% OFF Life is Strange Double Exposure", "Life is Strange Remastered Collection" ]
-  }, {
-    "price" : 15.57,
-    "games" : [ "Coupon 10% OFF Life is Strange Double Exposure", "Life is Strange Remastered Collection" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/myst-and-riven-complete-collection-2025",
