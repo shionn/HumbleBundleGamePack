@@ -15,7 +15,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/bandai-namco-dark-pictures-little-nightmares-bundle",
   "name" : "Bandai Namco - Dark Pictures & Little Nightmares Bundle",
-  "endDate" : 1763085600000,
+  "endDate" : 1763517600000,
   "choices" : [ {
     "price" : 15.55,
     "games" : [ "The Dark Pictures Anthology: The Devil in Me", "Little Nightmares II Deluxe Edition", "The Dark Pictures Anthology: House of Ashes", "Little Nightmares", "Little Nightmares (Enhanced Edition) - Secrets of The Maw Expansion Pass", "The Dark Pictures Anthology: Little Hope", "The Dark Pictures Anthology: Man of Medan" ]
@@ -30,6 +30,20 @@
     "games" : [ "The Dark Pictures Anthology: Little Hope", "The Dark Pictures Anthology: Man of Medan" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/beyond-virtual-realities-bundle",
+  "name" : "Beyond Virtual Realities Bundle",
+  "endDate" : 1764986400000,
+  "choices" : [ {
+    "price" : 15.55,
+    "games" : [ "The Break-In", "Dragon Fist: VR Kung Fu", "Drunkn Bar Fight", "Plastic Battlegrounds", "Sail", "Frenzy VR", "Pixel Ripped 1978: An Atari Adventure", "Venture's Gauntlet: The Ultimate VR Fitness Obstacle Course", "Arcaxer", "Elements Divided" ]
+  }, {
+    "price" : 11.4,
+    "games" : [ "Drunkn Bar Fight", "Plastic Battlegrounds", "Sail", "Frenzy VR", "Pixel Ripped 1978: An Atari Adventure", "Venture's Gauntlet: The Ultimate VR Fitness Obstacle Course", "Arcaxer", "Elements Divided" ]
+  }, {
+    "price" : 8.29,
+    "games" : [ "Frenzy VR", "Pixel Ripped 1978: An Atari Adventure", "Venture's Gauntlet: The Ultimate VR Fitness Obstacle Course", "Arcaxer", "Elements Divided" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/devil-may-cry-devil-trigger-enhanced-collection",
   "name" : "Devil May Cry: Devil Trigger Enhanced Collection",
   "endDate" : 1764208800000,
@@ -39,20 +53,6 @@
   }, {
     "price" : 10.44,
     "games" : [ "Devil May Cry HD Collection", "DmC: Devil May Cry" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/empires-and-engines-return-to-tropico-more-from-kalypso",
-  "name" : "Empires and Engines: Return to Tropico & More from Kalypso!",
-  "endDate" : 1762999200000,
-  "choices" : [ {
-    "price" : 12.39,
-    "games" : [ "Tropico 6 - El Prez Edition", "Tropico 6 - Going Viral", "Tropico 6 - New Frontiers", "Tropico 6 - Festival", "Tropico 6 - Caribbean Skies", "Tropico 6 - Lobbyistico", "Tropico 6 - Spitter", "Tropico 6 - The Llama of Wall Street", "Railway Empire", "Railway Empire - Japan", "Railway Empire - Germany", "Railway Empire - Northern Europe", "Railway Empire - Down Under", "Railway Empire - France", "Railway Empire - Great Britain & Ireland", "Railway Empire - Crossing the Andes", "Railway Empire - The Great Lakes", "Railway Empire - Mexico", "Tropico 5 - Complete Collection", "Port Royale 4 Extended Edition", "Tropico 4: Collectors Bundle", "Port Royale 3 - Gold Edition", "Tropico 3: Gold Edition", "Railway Empire 2 Deluxe Edition- 40% Off Coupon" ]
-  }, {
-    "price" : 8.26,
-    "games" : [ "Tropico 5 - Complete Collection", "Port Royale 4 Extended Edition", "Tropico 4: Collectors Bundle", "Port Royale 3 - Gold Edition", "Tropico 3: Gold Edition", "Railway Empire 2 Deluxe Edition- 40% Off Coupon" ]
-  }, {
-    "price" : 5.16,
-    "games" : [ "Tropico 4: Collectors Bundle", "Port Royale 3 - Gold Edition", "Tropico 3: Gold Edition", "Railway Empire 2 Deluxe Edition- 40% Off Coupon" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/frogwares-lovecraft-and-sherlock-classics",
@@ -102,18 +102,18 @@
     "games" : [ "Mouthwashing", "Buckshot Roulette", "Arctic Eggs", "Who's Lila?", "THRESHOLD", "ORDER 13", "NO-SKIN", "Kiosk", "Adios", "The Boba Teashop", "Daemonologie", "Massacre At The Mirage", "Terror At Oakheart" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/kingdom-10th-anniversary-bundle",
-  "name" : "Kingdom: 10th Anniversary Bundle",
-  "endDate" : 1763172000000,
+  "url" : "https://www.humblebundle.com/games/indieio-single-publisher-bundle",
+  "name" : "Indie Game Favorites",
+  "endDate" : 1764813600000,
   "choices" : [ {
-    "price" : 15.48,
-    "games" : [ "Kingdom Two Crowns: Call of Olympus", "Kingdom Two Crowns: Norse Lands", "Kingdom Two Crowns", "Kingdom Two Crowns: OST", "Kingdom Two Crowns: Regent's Royal Wardrobe", "Kingdom Two Crowns: Archon's Royal Wardrobe", "Kingdom Eighties", "Kingdom: New Lands Royal Edition" ]
+    "price" : 16.6,
+    "games" : [ "G.I. JOE: WRATH OF COBRA", "Cat Cafe Manager", "Hauntsville", "Forgotten Seas", "Echoes of the Plum Grove", "Immortal Hunters", "Broken Pieces", "Retreat to Enen", "Airborne Kingdom", "Everwarder", "Troublemaker", "To The Rescue!", "One More Island", "Dark Deity 2; 30% Off Coupon", "SCP: Fragmented Minds; 30% Off Coupon", "Troublemaker 2; 30% Off Coupon" ]
   }, {
-    "price" : 13.41,
-    "games" : [ "Kingdom Two Crowns", "Kingdom Two Crowns: OST", "Kingdom Two Crowns: Regent's Royal Wardrobe", "Kingdom Two Crowns: Archon's Royal Wardrobe", "Kingdom Eighties", "Kingdom: New Lands Royal Edition" ]
+    "price" : 12.45,
+    "games" : [ "Echoes of the Plum Grove", "Immortal Hunters", "Broken Pieces", "Retreat to Enen", "Airborne Kingdom", "Everwarder", "Troublemaker", "To The Rescue!", "One More Island", "Dark Deity 2; 30% Off Coupon", "SCP: Fragmented Minds; 30% Off Coupon", "Troublemaker 2; 30% Off Coupon" ]
   }, {
-    "price" : 5.16,
-    "games" : [ "Kingdom Eighties", "Kingdom: New Lands Royal Edition" ]
+    "price" : 8.3,
+    "games" : [ "Airborne Kingdom", "Everwarder", "Troublemaker", "To The Rescue!", "One More Island", "Dark Deity 2; 30% Off Coupon", "SCP: Fragmented Minds; 30% Off Coupon", "Troublemaker 2; 30% Off Coupon" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/microids-mega-mix-2025",
@@ -148,16 +148,5 @@
   }, {
     "price" : 10.44,
     "games" : [ "MONSTER HUNTER RISE", "MONSTER HUNTER RISE Deluxe Kit" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/myst-and-riven-complete-collection-2025",
-  "name" : "The Myst and Riven Complete Collection 2025",
-  "endDate" : 1762974000000,
-  "choices" : [ {
-    "price" : 20.59,
-    "games" : [ "Riven (2024 Remaster)", "Myst (2021)", "URU: Complete Chronicles", "realMyst: Masterpiece Edition", "Myst V: End of Ages", "Myst IV: Revelation", "Myst III: Exile", "Riven (1997)", "Myst: Masterpiece Edition" ]
-  }, {
-    "price" : 8.23,
-    "games" : [ "URU: Complete Chronicles", "realMyst: Masterpiece Edition", "Myst V: End of Ages", "Myst IV: Revelation", "Myst III: Exile", "Riven (1997)", "Myst: Masterpiece Edition" ]
   } ]
 } ]
