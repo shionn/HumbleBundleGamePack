@@ -13,23 +13,6 @@
     "games" : [ "GemCraft - Chasing Shadows", "Crush the Castle Legacy Collection", "Infectonator 3: Apocalypse", "Itta", "Nauticrawl", "Don't Escape Trilogy", "Deep Sleep Trilogy" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/bandai-namco-dark-pictures-little-nightmares-bundle",
-  "name" : "Bandai Namco - Dark Pictures & Little Nightmares Bundle",
-  "endDate" : 1763517600000,
-  "choices" : [ {
-    "price" : 15.55,
-    "games" : [ "The Dark Pictures Anthology: The Devil in Me", "Little Nightmares II Deluxe Edition", "The Dark Pictures Anthology: House of Ashes", "Little Nightmares", "Little Nightmares (Enhanced Edition) - Secrets of The Maw Expansion Pass", "The Dark Pictures Anthology: Little Hope", "The Dark Pictures Anthology: Man of Medan" ]
-  }, {
-    "price" : 13.47,
-    "games" : [ "Little Nightmares II Deluxe Edition", "The Dark Pictures Anthology: House of Ashes", "Little Nightmares", "Little Nightmares (Enhanced Edition) - Secrets of The Maw Expansion Pass", "The Dark Pictures Anthology: Little Hope", "The Dark Pictures Anthology: Man of Medan" ]
-  }, {
-    "price" : 10.36,
-    "games" : [ "Little Nightmares", "Little Nightmares (Enhanced Edition) - Secrets of The Maw Expansion Pass", "The Dark Pictures Anthology: Little Hope", "The Dark Pictures Anthology: Man of Medan" ]
-  }, {
-    "price" : 5.18,
-    "games" : [ "The Dark Pictures Anthology: Little Hope", "The Dark Pictures Anthology: Man of Medan" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/beyond-virtual-realities-bundle",
   "name" : "Beyond Virtual Realities Bundle",
   "endDate" : 1764986400000,
