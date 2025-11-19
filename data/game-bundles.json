@@ -52,6 +52,17 @@
     "games" : [ "Sherlock Holmes and the Hound of the Baskervilles", "Sherlock Holmes versus Jack the Ripper", "Sherlock Holmes: Nemesis", "Sherlock Holmes: The Awakened -2008", "Sherlock Holmes: The Mystery of the Persian Carpet", "Sherlock Holmes: The Secret of the Silver Earring" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/headup-games-brilliant-bargains",
+  "name" : "Headup Games: Brilliant Bargains",
+  "endDate" : 1765418400000,
+  "choices" : [ {
+    "price" : 10.35,
+    "games" : [ "Soulslinger (Envoy of Death)", "Pumpkin Jack", "Hell Pie", "Ben and Ed Blood Party", "The Textorcist: The Story of Ray Bibbia", "Industria", "Tinkertown", "Dr. Fetus - Mean Meat Machine", "Bridge Constructor Portal", "Inner World: The Last Wind Monk" ]
+  }, {
+    "price" : 5.17,
+    "games" : [ "Industria", "Tinkertown", "Dr. Fetus - Mean Meat Machine", "Bridge Constructor Portal", "Inner World: The Last Wind Monk" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/horror-icons-showcase",
   "name" : "Horror Icons Showcase",
   "endDate" : 1763690400000,
