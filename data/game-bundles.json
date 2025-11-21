@@ -38,6 +38,23 @@
     "games" : [ "Devil May Cry HD Collection", "DmC: Devil May Cry" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/devious-deckbuilders-2",
+  "name" : "Devious Deckbuilders 2",
+  "endDate" : 1765591200000,
+  "choices" : [ {
+    "price" : 15.52,
+    "games" : [ "Demonic Mahjong", "Breach Wanderers", "Vault of the Void", "Deepest Chamber: Resurrection", "Roguebook", "Heretic's Fork", "Ring of Pain", "Evolings" ]
+  }, {
+    "price" : 9.31,
+    "games" : [ "Breach Wanderers", "Vault of the Void", "Deepest Chamber: Resurrection", "Roguebook", "Heretic's Fork", "Ring of Pain", "Evolings" ]
+  }, {
+    "price" : 7.24,
+    "games" : [ "Deepest Chamber: Resurrection", "Roguebook", "Heretic's Fork", "Ring of Pain", "Evolings" ]
+  }, {
+    "price" : 4.14,
+    "games" : [ "Ring of Pain", "Evolings" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/frogwares-lovecraft-and-sherlock-classics",
   "name" : "Frogwares: Lovecraft and Sherlock Classics",
   "endDate" : 1764381600000,
@@ -142,5 +159,13 @@
   }, {
     "price" : 10.44,
     "games" : [ "MONSTER HUNTER RISE", "MONSTER HUNTER RISE Deluxe Kit" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/narratives-and-stories-from-assemble-entertainment",
+  "name" : "Stories from Assemble Entertainment",
+  "endDate" : 1765591200000,
+  "choices" : [ {
+    "price" : 10.41,
+    "games" : [ "A Juggler's Tale", "Minute of Islands", "FAR: Lone Sails", "Sticky Business", "Fall of Porcupine", "Hauma - A Detective Noir Story", "Monolith", "Windy Meadow Remaster", "Verne: The Shape of Fantasy", "Leisure Suit Larry - Wet Dreams Don't Dry", "Interrogation: You will be deceived", "Leisure Suit Larry - Wet Dreams Dry Twice", "ENCODYA", "In Between", "Plan B from Outer Space: A Bavarian Odyssey", "The Innsmouth Case", "Three Minutes To Eight", "Jessika" ]
   } ]
 } ]
