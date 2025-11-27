@@ -35,17 +35,6 @@
     "games" : [ "Frenzy VR", "Pixel Ripped 1978: An Atari Adventure", "Venture's Gauntlet: The Ultimate VR Fitness Obstacle Course", "Arcaxer", "Elements Divided" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/devil-may-cry-devil-trigger-enhanced-collection",
-  "name" : "Devil May Cry: Devil Trigger Enhanced Collection",
-  "endDate" : 1764208800000,
-  "choices" : [ {
-    "price" : 20.88,
-    "games" : [ "Devil May Cry 5 (Deluxe Version) + Vergil Pack", "Devil May Cry 4 Special Edition", "Devil May Cry HD Collection", "DmC: Devil May Cry" ]
-  }, {
-    "price" : 10.44,
-    "games" : [ "Devil May Cry HD Collection", "DmC: Devil May Cry" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/devious-deckbuilders-2",
   "name" : "Devious Deckbuilders 2",
   "endDate" : 1765591200000,
@@ -133,40 +122,6 @@
   }, {
     "price" : 8.3,
     "games" : [ "Airborne Kingdom", "Everwarder", "Troublemaker", "To The Rescue!", "One More Island", "Dark Deity 2; 30% Off Coupon", "SCP: Fragmented Minds; 30% Off Coupon", "Troublemaker 2; 30% Off Coupon" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/microids-mega-mix-2025",
-  "name" : "Microids Mega Mix 2025",
-  "endDate" : 1764208800000,
-  "choices" : [ {
-    "price" : 20.71,
-    "games" : [ "Amerzone - The Explorer's Legacy", "Little Big Adventure Twinsens Quest", "UFO ROBOT GRENDIZER The Feast of the Wolves", "Totally Spies! - Cyber Mission", "Flint - Treasure of Oblivion", "Flashback 2", "Noob - The Factionless", "Agatha Christie - Murder on the Orient Express", "Syberia: The World Before", "Horse Tales: Emerald Valley Ranch", "The Smurfs 2 - The Prisoner of the Green Stone", "Garfield Lasagna Party", "The Smurfs - Village Party", "Operation Wolf Returns: First Mission", "Asterix & Obelix Slap Them All! 2", "Grand Mountain Adventure: Wonderlands", "Gear.Club Unlimited 2 - Ultimate Edition", "MARSUPILAMI - HOOBADVENTURE", "Syberia 3", "Syberia II", "Syberia", "Arkanoid - Eternal Battle", "Coupon 15% OFF Syberia - Remastered" ]
-  }, {
-    "price" : 12.42,
-    "games" : [ "Noob - The Factionless", "Agatha Christie - Murder on the Orient Express", "Syberia: The World Before", "Horse Tales: Emerald Valley Ranch", "The Smurfs 2 - The Prisoner of the Green Stone", "Garfield Lasagna Party", "The Smurfs - Village Party", "Operation Wolf Returns: First Mission", "Asterix & Obelix Slap Them All! 2", "Grand Mountain Adventure: Wonderlands", "Gear.Club Unlimited 2 - Ultimate Edition", "MARSUPILAMI - HOOBADVENTURE", "Syberia 3", "Syberia II", "Syberia", "Arkanoid - Eternal Battle", "Coupon 15% OFF Syberia - Remastered" ]
-  }, {
-    "price" : 5.17,
-    "games" : [ "Operation Wolf Returns: First Mission", "Asterix & Obelix Slap Them All! 2", "Grand Mountain Adventure: Wonderlands", "Gear.Club Unlimited 2 - Ultimate Edition", "MARSUPILAMI - HOOBADVENTURE", "Syberia 3", "Syberia II", "Syberia", "Arkanoid - Eternal Battle", "Coupon 15% OFF Syberia - Remastered" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/monster-hunter-fall-hunting-collection",
-  "name" : "Monster Hunter Series Collection",
-  "endDate" : 1764208800000,
-  "choices" : [ {
-    "price" : 41.76,
-    "games" : [ "Monster Hunter Stories 2: Wings of Ruin", "Monster Hunter Stories", "Monster Hunter Wilds Coupon - 30% Off Coupon", "Monster Hunter World: Iceborne", "Monster Hunter World: Iceborne Deluxe Kit", "MONSTER HUNTER: WORLD", "Monster Hunter: World - Deluxe Kit", "Monster Hunter Rise: Sunbreak", "Monster Hunter Rise: Sunbreak Deluxe Kit", "MONSTER HUNTER RISE", "MONSTER HUNTER RISE Deluxe Kit" ]
-  }, {
-    "price" : 26.1,
-    "games" : [ "Monster Hunter World: Iceborne", "Monster Hunter World: Iceborne Deluxe Kit", "MONSTER HUNTER: WORLD", "Monster Hunter: World - Deluxe Kit", "Monster Hunter Rise: Sunbreak", "Monster Hunter Rise: Sunbreak Deluxe Kit", "MONSTER HUNTER RISE", "MONSTER HUNTER RISE Deluxe Kit" ]
-  }, {
-    "price" : 20.88,
-    "games" : [ "MONSTER HUNTER: WORLD", "Monster Hunter: World - Deluxe Kit", "Monster Hunter Rise: Sunbreak", "Monster Hunter Rise: Sunbreak Deluxe Kit", "MONSTER HUNTER RISE", "MONSTER HUNTER RISE Deluxe Kit" ]
-  }, {
-    "price" : 15.66,
-    "games" : [ "Monster Hunter Rise: Sunbreak", "Monster Hunter Rise: Sunbreak Deluxe Kit", "MONSTER HUNTER RISE", "MONSTER HUNTER RISE Deluxe Kit" ]
-  }, {
-    "price" : 10.44,
-    "games" : [ "MONSTER HUNTER RISE", "MONSTER HUNTER RISE Deluxe Kit" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/narratives-and-stories-from-assemble-entertainment",
