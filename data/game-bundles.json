@@ -124,6 +124,20 @@
     "games" : [ "Airborne Kingdom", "Everwarder", "Troublemaker", "To The Rescue!", "One More Island", "Dark Deity 2; 30% Off Coupon", "SCP: Fragmented Minds; 30% Off Coupon", "Troublemaker 2; 30% Off Coupon" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/maximum-entertainment-full-send-bundle",
+  "name" : "Maximum Entertainment: Full Send Bundle!",
+  "endDate" : 1766196000000,
+  "choices" : [ {
+    "price" : 13.5,
+    "games" : [ "SunnySide", "Double Dragon Gaiden: Rise of the Dragons", "Morbid: The Lords of Ire", "Soulstice", "In Sound Mind", "Hammerwatch II", "Hammerwatch Anniversary Edition", "In Nightmare", "AfterImage", "Bramble: The Mountain King", "Sclash" ]
+  }, {
+    "price" : 10.38,
+    "games" : [ "Soulstice", "In Sound Mind", "Hammerwatch II", "Hammerwatch Anniversary Edition", "In Nightmare", "AfterImage", "Bramble: The Mountain King", "Sclash" ]
+  }, {
+    "price" : 5.18,
+    "games" : [ "Hammerwatch Anniversary Edition", "In Nightmare", "AfterImage", "Bramble: The Mountain King", "Sclash" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/narratives-and-stories-from-assemble-entertainment",
   "name" : "Stories from Assemble Entertainment",
   "endDate" : 1765591200000,
