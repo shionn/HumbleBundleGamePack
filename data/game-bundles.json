@@ -54,7 +54,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/frogwares-lovecraft-and-sherlock-classics",
   "name" : "Frogwares: Lovecraft and Sherlock Classics",
-  "endDate" : 1764381600000,
+  "endDate" : 1764986400000,
   "choices" : [ {
     "price" : 12.36,
     "games" : [ "The Sinking City Remastered", "Sherlock Holmes The Awakened", "Sherlock Holmes Chapter One", "Sherlock Holmes: Crimes and Punishments", "The Testament of Sherlock Holmes", "Sherlock Holmes: The Devil's Daughter", "Sherlock Holmes and the Hound of the Baskervilles", "Sherlock Holmes versus Jack the Ripper", "Sherlock Holmes: Nemesis", "Sherlock Holmes: The Awakened -2008", "Sherlock Holmes: The Mystery of the Persian Carpet", "Sherlock Holmes: The Secret of the Silver Earring" ]
@@ -75,39 +75,6 @@
   }, {
     "price" : 5.17,
     "games" : [ "Industria", "Tinkertown", "Dr. Fetus - Mean Meat Machine", "Bridge Constructor Portal", "Inner World: The Last Wind Monk" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/horror-icons-showcase",
-  "name" : "Horror Icons Showcase",
-  "endDate" : 1764381600000,
-  "choices" : [ {
-    "price" : 20.66,
-    "games" : [ "Bendy: Lone Wolf", "The Thing: Remastered", "The Mortuary Assistant - Definitive Edition", "The Axis Unseen", "Scorn", "STASIS: Bone Totem", "Choo-Choo Charles", "Bendy and the Dark Revival", "Bendy and the Ink Machine" ]
-  }, {
-    "price" : 15.49,
-    "games" : [ "The Mortuary Assistant - Definitive Edition", "The Axis Unseen", "Scorn", "STASIS: Bone Totem", "Choo-Choo Charles", "Bendy and the Dark Revival", "Bendy and the Ink Machine" ]
-  }, {
-    "price" : 10.33,
-    "games" : [ "Scorn", "STASIS: Bone Totem", "Choo-Choo Charles", "Bendy and the Dark Revival", "Bendy and the Ink Machine" ]
-  }, {
-    "price" : 5.16,
-    "games" : [ "Choo-Choo Charles", "Bendy and the Dark Revival", "Bendy and the Ink Machine" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/telltale-collection",
-  "name" : "Humble Bundle: The Telltale Collection",
-  "endDate" : 1764381600000,
-  "choices" : [ {
-    "price" : 10.38,
-    "games" : [ "The Expanse: A Telltale Series", "The Walking Dead", "The Walking Dead: 400 Days", "The Wolf Among Us", "Batman: The Enemy Within - The Telltale Series", "Batman - The Enemy Within Shadows Mode", "Batman - The Telltale Series", "Batman - The Telltale Series Shadows Mode", "Tales of Monkey Island: Complete Season" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/indie-fears-bundle",
-  "name" : "Indie Fears Bundle",
-  "endDate" : 1764381600000,
-  "choices" : [ {
-    "price" : 13.39,
-    "games" : [ "Mouthwashing", "Buckshot Roulette", "Arctic Eggs", "Who's Lila?", "THRESHOLD", "ORDER 13", "NO-SKIN", "Kiosk", "Adios", "The Boba Teashop", "Daemonologie", "Massacre At The Mirage", "Terror At Oakheart" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/indieio-single-publisher-bundle",
