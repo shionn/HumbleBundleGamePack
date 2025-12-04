@@ -1,24 +1,10 @@
 [ {
   "url" : "https://www.humblebundle.com/games/15-for-15-black-friday-bundle",
   "name" : "15 for $15 Black Friday Bundle",
-  "endDate" : 1764813600000,
+  "endDate" : 1765418400000,
   "choices" : [ {
     "price" : 15.54,
     "games" : [ "Endling - Extinction is Forever", "Creaks", "Trinity Fusion", "Turbo Kid", "Yellow Taxi Goes Vroom", "Happy's Humble Burger Farm", "Degrees of Separation", "Eternal Threads", "Brewmaster: Beer Brewing Simulator", "One Hand Clapping", "Castle of Alchemists", "SILT", "Due Process", "FORWARD: Escape the Fold - Ultimate Edition", "Townsmen - A Kingdom Rebuilt" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/armor-games-the-retro-and-reborn-collection",
-  "name" : "Armor Games: The Retro & Reborn Collection",
-  "endDate" : 1764813600000,
-  "choices" : [ {
-    "price" : 15.55,
-    "games" : [ "The Last Stand: Aftermath", "Swords & Souls Legacy Collection", "Defender's Quest 2: Mists of Ruin", "The Spirit and the Mouse", "The Elephant Collection", "Bilkins' Folly", "Decision Legacy Collection", "GemCraft - Chasing Shadows", "Crush the Castle Legacy Collection", "Infectonator 3: Apocalypse", "Itta", "Nauticrawl", "Don't Escape Trilogy", "Deep Sleep Trilogy" ]
-  }, {
-    "price" : 10.36,
-    "games" : [ "The Spirit and the Mouse", "The Elephant Collection", "Bilkins' Folly", "Decision Legacy Collection", "GemCraft - Chasing Shadows", "Crush the Castle Legacy Collection", "Infectonator 3: Apocalypse", "Itta", "Nauticrawl", "Don't Escape Trilogy", "Deep Sleep Trilogy" ]
-  }, {
-    "price" : 7.26,
-    "games" : [ "GemCraft - Chasing Shadows", "Crush the Castle Legacy Collection", "Infectonator 3: Apocalypse", "Itta", "Nauticrawl", "Don't Escape Trilogy", "Deep Sleep Trilogy" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/beyond-virtual-realities-bundle",
@@ -75,20 +61,6 @@
   }, {
     "price" : 5.17,
     "games" : [ "Industria", "Tinkertown", "Dr. Fetus - Mean Meat Machine", "Bridge Constructor Portal", "Inner World: The Last Wind Monk" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/indieio-single-publisher-bundle",
-  "name" : "Indie Game Favorites",
-  "endDate" : 1764813600000,
-  "choices" : [ {
-    "price" : 16.6,
-    "games" : [ "G.I. JOE: WRATH OF COBRA", "Cat Cafe Manager", "Hauntsville", "Forgotten Seas", "Echoes of the Plum Grove", "Immortal Hunters", "Broken Pieces", "Retreat to Enen", "Airborne Kingdom", "Everwarder", "Troublemaker", "To The Rescue!", "One More Island", "Dark Deity 2; 30% Off Coupon", "SCP: Fragmented Minds; 30% Off Coupon", "Troublemaker 2; 30% Off Coupon" ]
-  }, {
-    "price" : 12.45,
-    "games" : [ "Echoes of the Plum Grove", "Immortal Hunters", "Broken Pieces", "Retreat to Enen", "Airborne Kingdom", "Everwarder", "Troublemaker", "To The Rescue!", "One More Island", "Dark Deity 2; 30% Off Coupon", "SCP: Fragmented Minds; 30% Off Coupon", "Troublemaker 2; 30% Off Coupon" ]
-  }, {
-    "price" : 8.3,
-    "games" : [ "Airborne Kingdom", "Everwarder", "Troublemaker", "To The Rescue!", "One More Island", "Dark Deity 2; 30% Off Coupon", "SCP: Fragmented Minds; 30% Off Coupon", "Troublemaker 2; 30% Off Coupon" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/maximum-entertainment-full-send-bundle",
