@@ -110,6 +110,17 @@
     "games" : [ "A Juggler's Tale", "Minute of Islands", "FAR: Lone Sails", "Sticky Business", "Fall of Porcupine", "Hauma - A Detective Noir Story", "Monolith", "Windy Meadow Remaster", "Verne: The Shape of Fantasy", "Leisure Suit Larry - Wet Dreams Don't Dry", "Interrogation: You will be deceived", "Leisure Suit Larry - Wet Dreams Dry Twice", "ENCODYA", "In Between", "Plan B from Outer Space: A Bavarian Odyssey", "The Innsmouth Case", "Three Minutes To Eight", "Jessika" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/upload-vr-winter-2025-bundle",
+  "name" : "Upload VR Winter 2025 Bundle",
+  "endDate" : 1766800800000,
+  "choices" : [ {
+    "price" : 17.55,
+    "games" : [ "Hellsweeper VR", "Ghosts of Tabor", "I Expect You To Die 3: Cog in the Machine", "Z.O.N.A: Origin", "Metal: Hellsinger VR", "After the Fall: Deluxe Edition", "Guardians: Frontline", "The Walking Dead: Saints & Sinners", "A Fisherman's Tale 2" ]
+  }, {
+    "price" : 10.33,
+    "games" : [ "After the Fall: Deluxe Edition", "Guardians: Frontline", "The Walking Dead: Saints & Sinners", "A Fisherman's Tale 2" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/worms-30th-anniversary-celebration",
   "name" : "Worms 30th Anniversary Celebration",
   "endDate" : 1766023200000,
