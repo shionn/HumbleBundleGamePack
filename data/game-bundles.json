@@ -17,7 +17,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/beyond-virtual-realities-bundle",
   "name" : "Beyond Virtual Realities Bundle",
-  "endDate" : 1764986400000,
+  "endDate" : 1765591200000,
   "choices" : [ {
     "price" : 15.55,
     "games" : [ "The Break-In", "Dragon Fist: VR Kung Fu", "Drunkn Bar Fight", "Plastic Battlegrounds", "Sail", "Frenzy VR", "Pixel Ripped 1978: An Atari Adventure", "Venture's Gauntlet: The Ultimate VR Fitness Obstacle Course", "Arcaxer", "Elements Divided" ]
@@ -44,20 +44,6 @@
   }, {
     "price" : 4.14,
     "games" : [ "Ring of Pain", "Evolings" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/frogwares-lovecraft-and-sherlock-classics",
-  "name" : "Frogwares: Lovecraft and Sherlock Classics",
-  "endDate" : 1764986400000,
-  "choices" : [ {
-    "price" : 12.36,
-    "games" : [ "The Sinking City Remastered", "Sherlock Holmes The Awakened", "Sherlock Holmes Chapter One", "Sherlock Holmes: Crimes and Punishments", "The Testament of Sherlock Holmes", "Sherlock Holmes: The Devil's Daughter", "Sherlock Holmes and the Hound of the Baskervilles", "Sherlock Holmes versus Jack the Ripper", "Sherlock Holmes: Nemesis", "Sherlock Holmes: The Awakened -2008", "Sherlock Holmes: The Mystery of the Persian Carpet", "Sherlock Holmes: The Secret of the Silver Earring" ]
-  }, {
-    "price" : 7.21,
-    "games" : [ "Sherlock Holmes: Crimes and Punishments", "The Testament of Sherlock Holmes", "Sherlock Holmes: The Devil's Daughter", "Sherlock Holmes and the Hound of the Baskervilles", "Sherlock Holmes versus Jack the Ripper", "Sherlock Holmes: Nemesis", "Sherlock Holmes: The Awakened -2008", "Sherlock Holmes: The Mystery of the Persian Carpet", "Sherlock Holmes: The Secret of the Silver Earring" ]
-  }, {
-    "price" : 5.14,
-    "games" : [ "Sherlock Holmes and the Hound of the Baskervilles", "Sherlock Holmes versus Jack the Ripper", "Sherlock Holmes: Nemesis", "Sherlock Holmes: The Awakened -2008", "Sherlock Holmes: The Mystery of the Persian Carpet", "Sherlock Holmes: The Secret of the Silver Earring" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/headup-games-brilliant-bargains",
