@@ -88,6 +88,14 @@
     "games" : [ "Friends vs Friends: Deluxe Edition", "Pizza Possum", "Blue Prince Coupon 30%", "Ballionaire Coupon 45%", "Cassette Beasts Coupon 60%" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/sniper-elite-classics-collection-encore",
+  "name" : "Sniper Elite: Classics Collection Encore",
+  "endDate" : 1765332000000,
+  "choices" : [ {
+    "price" : 14.58,
+    "games" : [ "Sniper Elite 5", "Sniper Elite 4: Deluxe Edition", "Sniper Elite 3", "Sniper Elite 3 - Season Pass", "Sniper Elite V2 Remastered", "Sniper Elite" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/narratives-and-stories-from-assemble-entertainment",
   "name" : "Stories from Assemble Entertainment",
   "endDate" : 1765591200000,
