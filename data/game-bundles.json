@@ -46,6 +46,31 @@
     "games" : [ "Ring of Pain", "Evolings" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/headup-games-brilliant-bargains",
+  "name" : "Headup Games: Brilliant Bargains",
+  "endDate" : 1765418400000,
+  "choices" : [ {
+    "price" : 10.35,
+    "games" : [ "Soulslinger (Envoy of Death)", "Pumpkin Jack", "Hell Pie", "Ben and Ed Blood Party", "The Textorcist: The Story of Ray Bibbia", "Industria", "Tinkertown", "Dr. Fetus - Mean Meat Machine", "Bridge Constructor Portal", "Inner World: The Last Wind Monk" ]
+  }, {
+    "price" : 5.17,
+    "games" : [ "Industria", "Tinkertown", "Dr. Fetus - Mean Meat Machine", "Bridge Constructor Portal", "Inner World: The Last Wind Monk" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/maximum-entertainment-full-send-bundle",
+  "name" : "Maximum Entertainment: Full Send Bundle!",
+  "endDate" : 1766196000000,
+  "choices" : [ {
+    "price" : 13.5,
+    "games" : [ "SunnySide", "Double Dragon Gaiden: Rise of the Dragons", "Morbid: The Lords of Ire", "Soulstice", "In Sound Mind", "Hammerwatch II", "Hammerwatch Anniversary Edition", "In Nightmare", "AfterImage", "Bramble: The Mountain King", "Sclash" ]
+  }, {
+    "price" : 10.38,
+    "games" : [ "Soulstice", "In Sound Mind", "Hammerwatch II", "Hammerwatch Anniversary Edition", "In Nightmare", "AfterImage", "Bramble: The Mountain King", "Sclash" ]
+  }, {
+    "price" : 5.18,
+    "games" : [ "Hammerwatch Anniversary Edition", "In Nightmare", "AfterImage", "Bramble: The Mountain King", "Sclash" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/rawfury-rawcember-to-remember-2025",
   "name" : "Rawfury: Rawcember to Remember 2025",
   "endDate" : 1766628000000,
@@ -71,6 +96,14 @@
     "games" : [ "Sniper Elite 5", "Sniper Elite 4: Deluxe Edition", "Sniper Elite 3", "Sniper Elite 3 - Season Pass", "Sniper Elite V2 Remastered", "Sniper Elite" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/narratives-and-stories-from-assemble-entertainment",
+  "name" : "Stories from Assemble Entertainment",
+  "endDate" : 1765591200000,
+  "choices" : [ {
+    "price" : 10.41,
+    "games" : [ "A Juggler's Tale", "Minute of Islands", "FAR: Lone Sails", "Sticky Business", "Fall of Porcupine", "Hauma - A Detective Noir Story", "Monolith", "Windy Meadow Remaster", "Verne: The Shape of Fantasy", "Leisure Suit Larry - Wet Dreams Don't Dry", "Interrogation: You will be deceived", "Leisure Suit Larry - Wet Dreams Dry Twice", "ENCODYA", "In Between", "Plan B from Outer Space: A Bavarian Odyssey", "The Innsmouth Case", "Three Minutes To Eight", "Jessika" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/team-17-chains-command-2025-encore",
   "name" : "Team 17: Chains of Command Encore",
   "endDate" : 1765245600000,
@@ -88,5 +121,16 @@
   }, {
     "price" : 10.33,
     "games" : [ "After the Fall: Deluxe Edition", "Guardians: Frontline", "The Walking Dead: Saints & Sinners", "A Fisherman's Tale 2" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/worms-30th-anniversary-celebration",
+  "name" : "Worms 30th Anniversary Celebration",
+  "endDate" : 1766023200000,
+  "choices" : [ {
+    "price" : 12.42,
+    "games" : [ "Worms Rumble", "Worms WMD", "Worms Armageddon", "Worms Ultimate Mayhem", "Worms Revolution", "Worms World Party Remastered", "Worms Crazy Golf", "Worms Blast", "Worms Pinball", "Worms Clan Wars", "Worms Reloaded", "Worms" ]
+  }, {
+    "price" : 6.2,
+    "games" : [ "Worms World Party Remastered", "Worms Crazy Golf", "Worms Blast", "Worms Pinball", "Worms Clan Wars", "Worms Reloaded", "Worms" ]
   } ]
 } ]
