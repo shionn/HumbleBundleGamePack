@@ -38,6 +38,23 @@
     "games" : [ "Ring of Pain", "Evolings" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/gear-up-for-borderlands-4-borderlands-x-wonderlands-bundle-encore",
+  "name" : "Gear Up For Borderlands 4: Borderlands X Wonderlands Bundle Encore",
+  "endDate" : 1765425600000,
+  "choices" : [ {
+    "price" : 121.92,
+    "games" : [ "Borderlands 4 Super Deluxe Edition", "Tiny Tina's Wonderland: Chaotic Great Edition", "New Tales from the Borderlands", "Tales from the Borderlands", "Borderlands 3", "Borderlands 2 VR", "Borderlands 2", "Borderlands: The Pre-Sequel!", "Borderlands Game of the Year Enhanced" ]
+  }, {
+    "price" : 97.11,
+    "games" : [ "Borderlands 4 Deluxe Edition", "Tiny Tina's Wonderland: Chaotic Great Edition", "New Tales from the Borderlands", "Tales from the Borderlands", "Borderlands 3", "Borderlands 2 VR", "Borderlands 2", "Borderlands: The Pre-Sequel!", "Borderlands Game of the Year Enhanced" ]
+  }, {
+    "price" : 72.32,
+    "games" : [ "Borderlands 4 Standard Edition", "Tiny Tina's Wonderland: Chaotic Great Edition", "New Tales from the Borderlands", "Tales from the Borderlands", "Borderlands 3", "Borderlands 2 VR", "Borderlands 2", "Borderlands: The Pre-Sequel!", "Borderlands Game of the Year Enhanced" ]
+  }, {
+    "price" : 16.52,
+    "games" : [ "Tiny Tina's Wonderland: Chaotic Great Edition", "New Tales from the Borderlands", "Tales from the Borderlands", "Borderlands 3", "Borderlands 2 VR", "Borderlands 2", "Borderlands: The Pre-Sequel!", "Borderlands Game of the Year Enhanced" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/headup-games-brilliant-bargains",
   "name" : "Headup Games: Brilliant Bargains",
   "endDate" : 1765418400000,
