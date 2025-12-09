@@ -132,6 +132,14 @@
     "games" : [ "After the Fall: Deluxe Edition", "Guardians: Frontline", "The Walking Dead: Saints & Sinners Tourist Edition", "A Fisherman's Tale 2" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/wholesome-snack-2025-showcase-bundle",
+  "name" : "Wholesome Snack 2025: Showcase Bundle",
+  "endDate" : 1767146400000,
+  "choices" : [ {
+    "price" : 12.33,
+    "games" : [ "On Your Tail", "Botany Manor", "Snufkin: Melody of Moominvalley", "NAIAD", "Shashingo: Learn Japanese with Photography", "Spirittea", "Little-Known Galaxy", "Kind Words 2 (lofi city pop)", "SUMMERHOUSE" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/worms-30th-anniversary-celebration",
   "name" : "Worms 30th Anniversary Celebration",
   "endDate" : 1766023200000,
