@@ -118,10 +118,10 @@
   "endDate" : 1766800800000,
   "choices" : [ {
     "price" : 17.55,
-    "games" : [ "Hellsweeper VR", "Ghosts of Tabor", "I Expect You To Die 3: Cog in the Machine", "Z.O.N.A: Origin", "Metal: Hellsinger VR", "After the Fall: Deluxe Edition", "Guardians: Frontline", "The Walking Dead: Saints & Sinners", "A Fisherman's Tale 2" ]
+    "games" : [ "Hellsweeper VR", "Ghosts of Tabor", "I Expect You To Die 3: Cog in the Machine", "Z.O.N.A: Origin", "Metal: Hellsinger VR", "After the Fall: Deluxe Edition", "Guardians: Frontline", "The Walking Dead: Saints & Sinners Tourist Edition", "A Fisherman's Tale 2" ]
   }, {
     "price" : 10.33,
-    "games" : [ "After the Fall: Deluxe Edition", "Guardians: Frontline", "The Walking Dead: Saints & Sinners", "A Fisherman's Tale 2" ]
+    "games" : [ "After the Fall: Deluxe Edition", "Guardians: Frontline", "The Walking Dead: Saints & Sinners Tourist Edition", "A Fisherman's Tale 2" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/worms-30th-anniversary-celebration",
