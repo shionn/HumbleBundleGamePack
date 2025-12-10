@@ -105,6 +105,14 @@
     "games" : [ "Friends vs Friends: Deluxe Edition", "Pizza Possum", "Blue Prince Coupon 30%", "Ballionaire Coupon 45%", "Cassette Beasts Coupon 60%" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/return-to-metroidvania-encore",
+  "name" : "Return to Metroidvania Encore",
+  "endDate" : 1765591200000,
+  "choices" : [ {
+    "price" : 12.42,
+    "games" : [ "GRIME", "Berserk Boy", "BioGun", "Shantae and the Seven Sirens", "Astalon: Tears of the Earth", "Islets", "Monster Sanctuary", "Gato Roboto" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/narratives-and-stories-from-assemble-entertainment",
   "name" : "Stories from Assemble Entertainment",
   "endDate" : 1765591200000,
