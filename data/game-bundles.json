@@ -88,6 +88,17 @@
     "games" : [ "Industria", "Tinkertown", "Dr. Fetus - Mean Meat Machine", "Bridge Constructor Portal", "Inner World: The Last Wind Monk" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/headup-games-brilliant-bargains",
+  "name" : "Headup Games: Brilliant Bargains",
+  "endDate" : 1765418400000,
+  "choices" : [ {
+    "price" : 10.35,
+    "games" : [ "Soulslinger (Envoy of Death)", "Pumpkin Jack", "Hell Pie", "Ben and Ed Blood Party", "The Textorcist: The Story of Ray Bibbia", "Industria", "Tinkertown", "Dr. Fetus - Mean Meat Machine", "Bridge Constructor Portal", "Inner World: The Last Wind Monk" ]
+  }, {
+    "price" : 5.17,
+    "games" : [ "Industria", "Tinkertown", "Dr. Fetus - Mean Meat Machine", "Bridge Constructor Portal", "Inner World: The Last Wind Monk" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/maximum-entertainment-full-send-bundle",
   "name" : "Maximum Entertainment: Full Send Bundle!",
   "endDate" : 1766196000000,
