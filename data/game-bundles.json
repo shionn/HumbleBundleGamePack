@@ -1,12 +1,4 @@
 [ {
-  "url" : "https://www.humblebundle.com/games/15-for-15-black-friday-bundle",
-  "name" : "15 for $15 Black Friday Bundle",
-  "endDate" : 1765418400000,
-  "choices" : [ {
-    "price" : 15.54,
-    "games" : [ "Endling - Extinction is Forever", "Creaks", "Trinity Fusion", "Turbo Kid", "Yellow Taxi Goes Vroom", "Happy's Humble Burger Farm", "Degrees of Separation", "Eternal Threads", "Brewmaster: Beer Brewing Simulator", "One Hand Clapping", "Castle of Alchemists", "SILT", "Due Process", "FORWARD: Escape the Fold - Ultimate Edition", "Townsmen - A Kingdom Rebuilt" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/award-nominations-bundle-2025",
   "name" : "Award Nominations Bundle",
   "endDate" : 1767232800000,
@@ -75,17 +67,6 @@
   }, {
     "price" : 16.52,
     "games" : [ "Tiny Tina's Wonderland: Chaotic Great Edition", "New Tales from the Borderlands", "Tales from the Borderlands", "Borderlands 3", "Borderlands 2 VR", "Borderlands 2", "Borderlands: The Pre-Sequel!", "Borderlands Game of the Year Enhanced" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/headup-games-brilliant-bargains",
-  "name" : "Headup Games: Brilliant Bargains",
-  "endDate" : 1765418400000,
-  "choices" : [ {
-    "price" : 10.35,
-    "games" : [ "Soulslinger (Envoy of Death)", "Pumpkin Jack", "Hell Pie", "Ben and Ed Blood Party", "The Textorcist: The Story of Ray Bibbia", "Industria", "Tinkertown", "Dr. Fetus - Mean Meat Machine", "Bridge Constructor Portal", "Inner World: The Last Wind Monk" ]
-  }, {
-    "price" : 5.17,
-    "games" : [ "Industria", "Tinkertown", "Dr. Fetus - Mean Meat Machine", "Bridge Constructor Portal", "Inner World: The Last Wind Monk" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/maximum-entertainment-full-send-bundle",
