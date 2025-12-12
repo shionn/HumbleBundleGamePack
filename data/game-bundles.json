@@ -52,6 +52,14 @@
     "games" : [ "Pathfinder: Wrath of the Righteous - Enhanced Edition", "Darksiders III", "Beyond: Two Souls", "Control Ultimate Edition", "Pseudoregalia", "Thief of Thieves", "Kill The Crows" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/june-tunes-encore",
+  "name" : "June Tunes Encore",
+  "endDate" : 1765764000000,
+  "choices" : [ {
+    "price" : 7.23,
+    "games" : [ "Trombone Champ", "Ragnarock", "Rhythm Fighter", "Oddada", "Wandersong", "Everhood", "Onde" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/maximum-entertainment-full-send-bundle",
   "name" : "Maximum Entertainment: Full Send Bundle!",
   "endDate" : 1766196000000,
