@@ -13,37 +13,6 @@
     "games" : [ "Pocket Bravery", "The Vale: Shadow of the Crown" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/beyond-virtual-realities-bundle",
-  "name" : "Beyond Virtual Realities Bundle",
-  "endDate" : 1765591200000,
-  "choices" : [ {
-    "price" : 15.55,
-    "games" : [ "The Break-In", "Dragon Fist: VR Kung Fu", "Drunkn Bar Fight", "Plastic Battlegrounds", "Sail", "Frenzy VR", "Pixel Ripped 1978: An Atari Adventure", "Venture's Gauntlet: The Ultimate VR Fitness Obstacle Course", "Arcaxer", "Elements Divided" ]
-  }, {
-    "price" : 11.4,
-    "games" : [ "Drunkn Bar Fight", "Plastic Battlegrounds", "Sail", "Frenzy VR", "Pixel Ripped 1978: An Atari Adventure", "Venture's Gauntlet: The Ultimate VR Fitness Obstacle Course", "Arcaxer", "Elements Divided" ]
-  }, {
-    "price" : 8.29,
-    "games" : [ "Frenzy VR", "Pixel Ripped 1978: An Atari Adventure", "Venture's Gauntlet: The Ultimate VR Fitness Obstacle Course", "Arcaxer", "Elements Divided" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/devious-deckbuilders-2",
-  "name" : "Devious Deckbuilders 2",
-  "endDate" : 1765591200000,
-  "choices" : [ {
-    "price" : 15.52,
-    "games" : [ "Demonic Mahjong", "Breach Wanderers", "Vault of the Void", "Deepest Chamber: Resurrection", "Roguebook", "Heretic's Fork", "Ring of Pain", "Evolings" ]
-  }, {
-    "price" : 9.31,
-    "games" : [ "Breach Wanderers", "Vault of the Void", "Deepest Chamber: Resurrection", "Roguebook", "Heretic's Fork", "Ring of Pain", "Evolings" ]
-  }, {
-    "price" : 7.24,
-    "games" : [ "Deepest Chamber: Resurrection", "Roguebook", "Heretic's Fork", "Ring of Pain", "Evolings" ]
-  }, {
-    "price" : 4.14,
-    "games" : [ "Ring of Pain", "Evolings" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/humble-heroines-2025-encore",
   "name" : "Humble Heroines 2025 Encore",
   "endDate" : 1765677600000,
@@ -89,22 +58,6 @@
   }, {
     "price" : 4.15,
     "games" : [ "Friends vs Friends: Deluxe Edition", "Pizza Possum", "Blue Prince Coupon 30%", "Ballionaire Coupon 45%", "Cassette Beasts Coupon 60%" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/return-to-metroidvania-encore",
-  "name" : "Return to Metroidvania Encore",
-  "endDate" : 1765591200000,
-  "choices" : [ {
-    "price" : 12.42,
-    "games" : [ "GRIME", "Berserk Boy", "BioGun", "Shantae and the Seven Sirens", "Astalon: Tears of the Earth", "Islets", "Monster Sanctuary", "Gato Roboto" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/narratives-and-stories-from-assemble-entertainment",
-  "name" : "Stories from Assemble Entertainment",
-  "endDate" : 1765591200000,
-  "choices" : [ {
-    "price" : 10.41,
-    "games" : [ "A Juggler's Tale", "Minute of Islands", "FAR: Lone Sails", "Sticky Business", "Fall of Porcupine", "Hauma - A Detective Noir Story", "Monolith", "Windy Meadow Remaster", "Verne: The Shape of Fantasy", "Leisure Suit Larry - Wet Dreams Don't Dry", "Interrogation: You will be deceived", "Leisure Suit Larry - Wet Dreams Dry Twice", "ENCODYA", "In Between", "Plan B from Outer Space: A Bavarian Odyssey", "The Innsmouth Case", "Three Minutes To Eight", "Jessika" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/upload-vr-winter-2025-bundle",
