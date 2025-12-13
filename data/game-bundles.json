@@ -43,6 +43,14 @@
     "games" : [ "Hammerwatch Anniversary Edition", "In Nightmare", "AfterImage", "Bramble: The Mountain King", "Sclash" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/phunky-physics-encore",
+  "name" : "Phunky Physics Encore",
+  "endDate" : 1765850400000,
+  "choices" : [ {
+    "price" : 12.39,
+    "games" : [ "Hardspace: Shipbreaker", "Instruments of Destruction", "What the Golf?", "Totally Accurate Battle Simulator", "Human Fall Flat", "Poly Bridge 2", "Besiege", "Stick Fight" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/rawfury-rawcember-to-remember-2025",
   "name" : "Rawfury: Rawcember to Remember 2025",
   "endDate" : 1766628000000,
