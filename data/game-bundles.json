@@ -13,14 +13,6 @@
     "games" : [ "Pocket Bravery", "The Vale: Shadow of the Crown" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/wb-play-legends-encore",
-  "name" : "Best of Humble Bundle: WB Play the Legends Encore",
-  "endDate" : 1765936800000,
-  "choices" : [ {
-    "price" : 12.39,
-    "games" : [ "Gotham Knights", "Back 4 Blood", "Mortal Kombat 11: Ultimate Edition", "FEAR: Ultimate Shooter Edition", "Middle-earth: Shadow of War Definitive Edition", "Batman™: Arkham Knight Premium Edition", "Injustice 2 Legendary Edition", "Batman™: Arkham Origins", "Middle-earth: Shadow of Mordor Game of the Year Edition", "Suicide Squad: Kill the Justice League", "Watchmen: The End is Nigh Part 1 and 2 Bundle", "Mad Max", "MORTAL KOMBAT XL", "Batman: Arkham City - Game of the Year Edition", "Batman™: Arkham Asylum GOTY Edition", "Injustice: Gods Among Us Ultimate Edition" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle-encore",
   "name" : "Humbling Soulslike Bundle Encore",
   "endDate" : 1766023200000,
