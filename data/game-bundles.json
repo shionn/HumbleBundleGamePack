@@ -13,6 +13,20 @@
     "games" : [ "Pocket Bravery", "The Vale: Shadow of the Crown" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/dice-and-destiny-encore",
+  "name" : "Dice and Destiny Encore",
+  "endDate" : 1766196000000,
+  "choices" : [ {
+    "price" : 13.4,
+    "games" : [ "Broken Roads", "33% OFF Citizen Sleeper 2: Starward Vector", "Pillars of Eternity II: Deadfire - Obsidian Edition", "Citizen Sleeper", "Disco Elysium", "Pillars of Eternity - Definitive Edition", "Roadwarden" ]
+  }, {
+    "price" : 10.3,
+    "games" : [ "Pillars of Eternity II: Deadfire - Obsidian Edition", "Citizen Sleeper", "Disco Elysium", "Pillars of Eternity - Definitive Edition", "Roadwarden" ]
+  }, {
+    "price" : 7.21,
+    "games" : [ "Disco Elysium", "Pillars of Eternity - Definitive Edition", "Roadwarden" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle-encore",
   "name" : "Humbling Soulslike Bundle Encore",
   "endDate" : 1766023200000,
