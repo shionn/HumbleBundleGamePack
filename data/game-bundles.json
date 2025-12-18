@@ -13,6 +13,14 @@
     "games" : [ "Pocket Bravery", "The Vale: Shadow of the Crown" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/better-with-friend-coop-adventures-encore",
+  "name" : "Better With a Friend: Co-op Adventures Encore",
+  "endDate" : 1766282400000,
+  "choices" : [ {
+    "price" : 10.39,
+    "games" : [ "Risk of Rain Returns", "Tribes of Midgard", "Trine 4", "Cat Quest II", "For the King 2", "For the King Deluxe" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/dice-and-destiny-encore",
   "name" : "Dice and Destiny Encore",
   "endDate" : 1766196000000,
