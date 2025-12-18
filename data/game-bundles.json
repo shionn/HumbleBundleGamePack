@@ -35,6 +35,17 @@
     "games" : [ "Disco Elysium", "Pillars of Eternity - Definitive Edition", "Roadwarden" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/games-under-5-hours-bundle",
+  "name" : "Games Under 5 Hours Bundle",
+  "endDate" : 1767924000000,
+  "choices" : [ {
+    "price" : 12.26,
+    "games" : [ "Monument Valley 2", "Monument Valley", "Monaco 2", "Moduwar", "Mindcop", "Gravity Circuit", "Harmony's Odyssey", "Tobla: Divine Path", "Arietta of Spirits", "The Forest Quartet" ]
+  }, {
+    "price" : 8.17,
+    "games" : [ "Harmony's Odyssey", "Tobla: Divine Path", "Arietta of Spirits", "The Forest Quartet" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/maximum-entertainment-full-send-bundle",
   "name" : "Maximum Entertainment: Full Send Bundle!",
   "endDate" : 1766196000000,
