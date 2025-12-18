@@ -27,14 +27,6 @@
     "games" : [ "Disco Elysium", "Pillars of Eternity - Definitive Edition", "Roadwarden" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/humbling-soulslike-bundle-encore",
-  "name" : "Humbling Soulslike Bundle Encore",
-  "endDate" : 1766023200000,
-  "choices" : [ {
-    "price" : 14.58,
-    "games" : [ "Flintlock: Deluxe Edition", "Steelrising", "Asterigos: Curse of the Stars", "Achilles: Legends Untold", "Salt and Sacrifice", "ELDERBORN" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/maximum-entertainment-full-send-bundle",
   "name" : "Maximum Entertainment: Full Send Bundle!",
   "endDate" : 1766196000000,
@@ -91,16 +83,5 @@
   "choices" : [ {
     "price" : 12.33,
     "games" : [ "On Your Tail", "Botany Manor", "Snufkin: Melody of Moominvalley", "NAIAD", "Shashingo: Learn Japanese with Photography", "Spirittea", "Little-Known Galaxy", "Kind Words 2 (lofi city pop)", "SUMMERHOUSE" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/worms-30th-anniversary-celebration",
-  "name" : "Worms 30th Anniversary Celebration",
-  "endDate" : 1766023200000,
-  "choices" : [ {
-    "price" : 12.42,
-    "games" : [ "Worms Rumble", "Worms WMD", "Worms Armageddon", "Worms Ultimate Mayhem", "Worms Revolution", "Worms World Party Remastered", "Worms Crazy Golf", "Worms Blast", "Worms Pinball", "Worms Clan Wars", "Worms Reloaded", "Worms" ]
-  }, {
-    "price" : 6.2,
-    "games" : [ "Worms World Party Remastered", "Worms Crazy Golf", "Worms Blast", "Worms Pinball", "Worms Clan Wars", "Worms Reloaded", "Worms" ]
   } ]
 } ]
