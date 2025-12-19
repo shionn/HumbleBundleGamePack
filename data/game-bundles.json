@@ -60,6 +60,17 @@
     "games" : [ "Hammerwatch Anniversary Edition", "In Nightmare", "AfterImage", "Bramble: The Mountain King", "Sclash" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/outright-games-endless-fun-bundle",
+  "name" : "Outright Games: Endless Fun Bundle",
+  "endDate" : 1768010400000,
+  "choices" : [ {
+    "price" : 15.62,
+    "games" : [ "The Grinch: Christmas Adventures", "Monster High Skulltimate Secrets", "Teenage Mutant Ninja Turtles: Mutants Unleashed", "SpongeBob SquarePants: The Patrick Star Game", "My Little Pony: A Zephyr Heights Mystery", "Jumanji Wild Adventures", "Ben 10 Power Trip", "PAW Patrol on a Roll", "Adventure Time: Pirates of the Enchiridion" ]
+  }, {
+    "price" : 10.41,
+    "games" : [ "My Little Pony: A Zephyr Heights Mystery", "Jumanji Wild Adventures", "Ben 10 Power Trip", "PAW Patrol on a Roll", "Adventure Time: Pirates of the Enchiridion" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/rawfury-rawcember-to-remember-2025",
   "name" : "Rawfury: Rawcember to Remember 2025",
   "endDate" : 1766628000000,
