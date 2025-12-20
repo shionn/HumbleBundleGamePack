@@ -21,20 +21,6 @@
     "games" : [ "Risk of Rain Returns", "Tribes of Midgard", "Trine 4", "Cat Quest II", "For the King 2", "For the King Deluxe" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/dice-and-destiny-encore",
-  "name" : "Dice and Destiny Encore",
-  "endDate" : 1766196000000,
-  "choices" : [ {
-    "price" : 13.4,
-    "games" : [ "Broken Roads", "33% OFF Citizen Sleeper 2: Starward Vector", "Pillars of Eternity II: Deadfire - Obsidian Edition", "Citizen Sleeper", "Disco Elysium", "Pillars of Eternity - Definitive Edition", "Roadwarden" ]
-  }, {
-    "price" : 10.3,
-    "games" : [ "Pillars of Eternity II: Deadfire - Obsidian Edition", "Citizen Sleeper", "Disco Elysium", "Pillars of Eternity - Definitive Edition", "Roadwarden" ]
-  }, {
-    "price" : 7.21,
-    "games" : [ "Disco Elysium", "Pillars of Eternity - Definitive Edition", "Roadwarden" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/games-under-5-hours-bundle",
   "name" : "Games Under 5 Hours Bundle",
   "endDate" : 1767924000000,
@@ -44,20 +30,6 @@
   }, {
     "price" : 8.17,
     "games" : [ "Harmony's Odyssey", "Tobla: Divine Path", "Arietta of Spirits", "The Forest Quartet" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/maximum-entertainment-full-send-bundle",
-  "name" : "Maximum Entertainment: Full Send Bundle!",
-  "endDate" : 1766196000000,
-  "choices" : [ {
-    "price" : 13.5,
-    "games" : [ "SunnySide", "Double Dragon Gaiden: Rise of the Dragons", "Morbid: The Lords of Ire", "Soulstice", "In Sound Mind", "Hammerwatch II", "Hammerwatch Anniversary Edition", "In Nightmare", "AfterImage", "Bramble: The Mountain King", "Sclash" ]
-  }, {
-    "price" : 10.38,
-    "games" : [ "Soulstice", "In Sound Mind", "Hammerwatch II", "Hammerwatch Anniversary Edition", "In Nightmare", "AfterImage", "Bramble: The Mountain King", "Sclash" ]
-  }, {
-    "price" : 5.18,
-    "games" : [ "Hammerwatch Anniversary Edition", "In Nightmare", "AfterImage", "Bramble: The Mountain King", "Sclash" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/outright-games-endless-fun-bundle",
