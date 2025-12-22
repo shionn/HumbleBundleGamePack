@@ -13,14 +13,6 @@
     "games" : [ "Pocket Bravery", "The Vale: Shadow of the Crown" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/better-with-friend-coop-adventures-encore",
-  "name" : "Better With a Friend: Co-op Adventures Encore",
-  "endDate" : 1766368800000,
-  "choices" : [ {
-    "price" : 10.39,
-    "games" : [ "Risk of Rain Returns", "Tribes of Midgard", "Trine 4", "Cat Quest II", "For the King 2", "For the King Deluxe" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/games-under-5-hours-bundle",
   "name" : "Games Under 5 Hours Bundle",
   "endDate" : 1767924000000,
