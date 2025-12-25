@@ -35,23 +35,6 @@
     "games" : [ "My Little Pony: A Zephyr Heights Mystery", "Jumanji Wild Adventures", "Ben 10 Power Trip", "PAW Patrol on a Roll", "Adventure Time: Pirates of the Enchiridion" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/rawfury-rawcember-to-remember-2025",
-  "name" : "Rawfury: Rawcember to Remember 2025",
-  "endDate" : 1766628000000,
-  "choices" : [ {
-    "price" : 12.45,
-    "games" : [ "Kathy Rain 2: Soothsayer", "American Arcadia", "SKALD: Against the Black Priory", "Kathy Rain Directors Cut", "Bad North: Jotunn Edition", "Call of the Sea", "Atomicrops: Deluxe Edition", "Sable", "Regions of Ruin", "Townscaper", "Tails Noir", "Tails Noir Preludes", "Friends vs Friends: Deluxe Edition", "Pizza Possum", "Blue Prince Coupon 30%", "Ballionaire Coupon 45%", "Cassette Beasts Coupon 60%" ]
-  }, {
-    "price" : 10.38,
-    "games" : [ "Kathy Rain Directors Cut", "Bad North: Jotunn Edition", "Call of the Sea", "Atomicrops: Deluxe Edition", "Sable", "Regions of Ruin", "Townscaper", "Tails Noir", "Tails Noir Preludes", "Friends vs Friends: Deluxe Edition", "Pizza Possum", "Blue Prince Coupon 30%", "Ballionaire Coupon 45%", "Cassette Beasts Coupon 60%" ]
-  }, {
-    "price" : 7.27,
-    "games" : [ "Atomicrops: Deluxe Edition", "Sable", "Regions of Ruin", "Townscaper", "Tails Noir", "Tails Noir Preludes", "Friends vs Friends: Deluxe Edition", "Pizza Possum", "Blue Prince Coupon 30%", "Ballionaire Coupon 45%", "Cassette Beasts Coupon 60%" ]
-  }, {
-    "price" : 4.15,
-    "games" : [ "Friends vs Friends: Deluxe Edition", "Pizza Possum", "Blue Prince Coupon 30%", "Ballionaire Coupon 45%", "Cassette Beasts Coupon 60%" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/upload-vr-winter-2025-bundle",
   "name" : "Upload VR Winter 2025 Bundle",
   "endDate" : 1766800800000,
