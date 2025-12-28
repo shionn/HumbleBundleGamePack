@@ -49,6 +49,17 @@
     "games" : [ "My Little Pony: A Zephyr Heights Mystery", "Jumanji Wild Adventures", "Ben 10 Power Trip", "PAW Patrol on a Roll", "Adventure Time: Pirates of the Enchiridion" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/upload-vr-winter-2025-bundle",
+  "name" : "Upload VR Winter 2025 Bundle",
+  "endDate" : 1767405600000,
+  "choices" : [ {
+    "price" : 17.55,
+    "games" : [ "Hellsweeper VR", "Ghosts of Tabor", "I Expect You To Die 3: Cog in the Machine", "Z.O.N.A: Origin", "Metal: Hellsinger VR", "After the Fall: Deluxe Edition", "Guardians: Frontline", "The Walking Dead: Saints & Sinners Tourist Edition", "A Fisherman's Tale 2" ]
+  }, {
+    "price" : 10.33,
+    "games" : [ "After the Fall: Deluxe Edition", "Guardians: Frontline", "The Walking Dead: Saints & Sinners Tourist Edition", "A Fisherman's Tale 2" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/wholesome-snack-2025-showcase-bundle",
   "name" : "Wholesome Snack 2025: Showcase Bundle",
   "endDate" : 1767146400000,
