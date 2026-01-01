@@ -49,6 +49,20 @@
     "games" : [ "My Little Pony: A Zephyr Heights Mystery", "Jumanji Wild Adventures", "Ben 10 Power Trip", "PAW Patrol on a Roll", "Adventure Time: Pirates of the Enchiridion" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/carnage-collection",
+  "name" : "The Carnage Collection",
+  "endDate" : 1769133600000,
+  "choices" : [ {
+    "price" : 15.45,
+    "games" : [ "Dead Island 2", "Trepang2", "Hellboy Web of Wyrd", "Maneater", "Laika: Aged through Blood", "Warstride Challenges", "Easy Red 2", "Death in the Water 2" ]
+  }, {
+    "price" : 10.3,
+    "games" : [ "Hellboy Web of Wyrd", "Maneater", "Laika: Aged through Blood", "Warstride Challenges", "Easy Red 2", "Death in the Water 2" ]
+  }, {
+    "price" : 8.24,
+    "games" : [ "Warstride Challenges", "Easy Red 2", "Death in the Water 2" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/upload-vr-winter-2025-bundle",
   "name" : "Upload VR Winter 2025 Bundle",
   "endDate" : 1767405600000,
