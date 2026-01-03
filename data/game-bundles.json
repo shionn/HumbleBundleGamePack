@@ -70,15 +70,4 @@
     "price" : 8.24,
     "games" : [ "Warstride Challenges", "Easy Red 2", "Death in the Water 2" ]
   } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/upload-vr-winter-2025-bundle",
-  "name" : "Upload VR Winter 2025 Bundle",
-  "endDate" : 1767405600000,
-  "choices" : [ {
-    "price" : 17.55,
-    "games" : [ "Hellsweeper VR", "Ghosts of Tabor", "I Expect You To Die 3: Cog in the Machine", "Z.O.N.A: Origin", "Metal: Hellsinger VR", "After the Fall: Deluxe Edition", "Guardians: Frontline", "The Walking Dead: Saints & Sinners Tourist Edition", "A Fisherman's Tale 2" ]
-  }, {
-    "price" : 10.33,
-    "games" : [ "After the Fall: Deluxe Edition", "Guardians: Frontline", "The Walking Dead: Saints & Sinners Tourist Edition", "A Fisherman's Tale 2" ]
-  } ]
 } ]
