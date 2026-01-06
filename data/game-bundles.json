@@ -32,6 +32,17 @@
     "games" : [ "Harmony's Odyssey", "Tobla: Divine Path", "Arietta of Spirits", "The Forest Quartet" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/hunt-showdown-1896-choice-essential-dlc-bundle",
+  "name" : "Hunt: Showdown 1896 / Choice Essential DLC Bundle",
+  "endDate" : 1770170400000,
+  "choices" : [ {
+    "price" : 16.33,
+    "games" : [ "Hunt: Showdown 1896 Fear The Reaper", "Hunt: Showdown 1896 - Lonely Howl", "Hunt: Showdown 1896 - The Rat", "Hunt: Showdown 1896 - The Last Laugh", "Hunt: Showdown 1896 - When Shadows Dance", "Hunt: Showdown 1896 - Louisiana Legacy", "Hunt: Showdown 1896 - Legends of the Bayou", "Hunt: Showdown 1896 - Llorona's Heir", "Hunt: Showdown 1896 - Last Gust", "Hunt: Showdown 1896 The Concubine" ]
+  }, {
+    "price" : 8.16,
+    "games" : [ "Hunt: Showdown 1896 - Legends of the Bayou", "Hunt: Showdown 1896 - Llorona's Heir", "Hunt: Showdown 1896 - Last Gust", "Hunt: Showdown 1896 The Concubine" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/kalypso-strategy-and-tactics-pack-2025",
   "name" : "Kalypso Strategy and Tactics Pack 2025",
   "endDate" : 1768615200000,
