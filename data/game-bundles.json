@@ -21,6 +21,17 @@
     "games" : [ "Mika and the Witches Mountain", "Rise of the Triad: Ludicrous Edition", "BPM: Bullets Per Minute", "SEUM: Speedrunners from Hell", "Jazzpunk: Director's Cut", "Shovel Knight: King of Cards", "FEAR 2: Project Origin", "Nuclear Throne", "Bloons Tower Defense 6", "Minit" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/decked-out-collection-great-on-handheld",
+  "name" : "Decked Out Collection: Great on Handheld",
+  "endDate" : 1769652000000,
+  "choices" : [ {
+    "price" : 12.22,
+    "games" : [ "ULTRAKILL", "Haste", "Creatures of Ava", "Deathbulge: Battle of the Bands", "Backpack Hero", "Vampire Survivors", "Nidhogg 2" ]
+  }, {
+    "price" : 5.08,
+    "games" : [ "Vampire Survivors", "Nidhogg 2" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/games-under-5-hours-bundle",
   "name" : "Games Under 5 Hours Bundle",
   "endDate" : 1767924000000,
