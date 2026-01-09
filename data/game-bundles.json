@@ -7,6 +7,23 @@
     "games" : [ "Mika and the Witches Mountain", "Rise of the Triad: Ludicrous Edition", "BPM: Bullets Per Minute", "SEUM: Speedrunners from Hell", "Jazzpunk: Director's Cut", "Shovel Knight: King of Cards", "FEAR 2: Project Origin", "Nuclear Throne", "Bloons Tower Defense 6", "Minit" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/d3-waifus-4u",
+  "name" : "D3 Waifus 4U",
+  "endDate" : 1769824800000,
+  "choices" : [ {
+    "price" : 25.59,
+    "games" : [ "Full Metal School Girl", "Samurai Maiden", "Bullet Girls Phantasia", "Onee Chanbara Origin", "Omega Labyrinth Life", "Maglam Lord", "Onechanbara Z2: Chaos", "SG/ZH: School Girl/Zombie Hunter", "ED-0: Zombie Uprising" ]
+  }, {
+    "price" : 15.34,
+    "games" : [ "Bullet Girls Phantasia", "Onee Chanbara Origin", "Omega Labyrinth Life", "Maglam Lord", "Onechanbara Z2: Chaos", "SG/ZH: School Girl/Zombie Hunter", "ED-0: Zombie Uprising" ]
+  }, {
+    "price" : 10.23,
+    "games" : [ "Omega Labyrinth Life", "Maglam Lord", "Onechanbara Z2: Chaos", "SG/ZH: School Girl/Zombie Hunter", "ED-0: Zombie Uprising" ]
+  }, {
+    "price" : 5.11,
+    "games" : [ "Onechanbara Z2: Chaos", "SG/ZH: School Girl/Zombie Hunter", "ED-0: Zombie Uprising" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/decked-out-collection-great-on-handheld",
   "name" : "Decked Out Collection: Great on Handheld",
   "endDate" : 1769652000000,
