@@ -18,17 +18,6 @@
     "games" : [ "Vampire Survivors", "Nidhogg 2" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/games-under-5-hours-bundle",
-  "name" : "Games Under 5 Hours Bundle",
-  "endDate" : 1767924000000,
-  "choices" : [ {
-    "price" : 12.26,
-    "games" : [ "Monument Valley 2", "Monument Valley", "Monaco 2", "Moduwar", "Mindcop", "Gravity Circuit", "Harmony's Odyssey", "Tobla: Divine Path", "Arietta of Spirits", "The Forest Quartet" ]
-  }, {
-    "price" : 8.17,
-    "games" : [ "Harmony's Odyssey", "Tobla: Divine Path", "Arietta of Spirits", "The Forest Quartet" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/hunt-showdown-1896-choice-essential-dlc-bundle",
   "name" : "Hunt: Showdown 1896 / Choice Essential DLC Bundle",
   "endDate" : 1770170400000,
