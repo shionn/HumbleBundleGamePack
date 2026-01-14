@@ -60,6 +60,20 @@
     "games" : [ "Commandos: Behind Enemy Lines", "Dungeons", "Dungeons - The Dark Lord", "Dungeons - Into the Dark", "Dungeons - Map Pack", "Sudden Strike 3", "Sudden Strike 2 Gold", "Sudden Strike Gold", "Dungeons 4 30% OFF COUPON" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/playful-platformers-2026",
+  "name" : "Playful Platformers 2026",
+  "endDate" : 1770256800000,
+  "choices" : [ {
+    "price" : 10.22,
+    "games" : [ "Peppered: An Existential Platformer", "Crumble", "Kao the Kangaroo", "Demon Turf: Queens Edition", "Grapple Dogs: Cosmic Canines", "Move or Die", "Pogostuck", "Lunistice", "Super Kiwi 64" ]
+  }, {
+    "price" : 8.17,
+    "games" : [ "Demon Turf: Queens Edition", "Grapple Dogs: Cosmic Canines", "Move or Die", "Pogostuck", "Lunistice", "Super Kiwi 64" ]
+  }, {
+    "price" : 5.11,
+    "games" : [ "Pogostuck", "Lunistice", "Super Kiwi 64" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/carnage-collection",
   "name" : "The Carnage Collection",
   "endDate" : 1769133600000,
@@ -72,5 +86,16 @@
   }, {
     "price" : 8.24,
     "games" : [ "Warstride Challenges", "Easy Red 2", "Death in the Water 2" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/vibrant-visual-novels",
+  "name" : "Vibrant Visual Novels",
+  "endDate" : 1770256800000,
+  "choices" : [ {
+    "price" : 12.32,
+    "games" : [ "Needy Streamer Overload", "The Expression Amrilato", "A Sky Full of Stars", "Sucker For Love Date to Die For", "If My Heart had Wings - Flight Diary", "If My Heart Had Wings -Flight Diary- - New Wings: Akari (DLC)", "If My Heart had Wings", "Gal* Gun Returns", "Endless Monday: Dreams and Deadlines", "Go! Go! Nippon! Complete Collection", "eden*" ]
+  }, {
+    "price" : 6.15,
+    "games" : [ "If My Heart had Wings", "Gal* Gun Returns", "Endless Monday: Dreams and Deadlines", "Go! Go! Nippon! Complete Collection", "eden*" ]
   } ]
 } ]
