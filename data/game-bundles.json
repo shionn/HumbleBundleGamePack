@@ -88,6 +88,20 @@
     "games" : [ "Warstride Challenges", "Easy Red 2", "Death in the Water 2" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/iceberg-hidden-gems-bundle",
+  "name" : "The Iceberg Hidden Gems Bundle",
+  "endDate" : 1770429600000,
+  "choices" : [ {
+    "price" : 10.29,
+    "games" : [ "King of Retail", "Clem", "Stars in Shadow", "Doomblade", "Blazing Sails", "Tech Support: Error Unknown", "Hellbreach: Vegas", "Mahoukenshi", "Oriental Empires", "Lunacy: Saint Rhodes", "Minicology", "COUPON STRANGE HORTICULTURE 60% OFF" ]
+  }, {
+    "price" : 7.2,
+    "games" : [ "Blazing Sails", "Tech Support: Error Unknown", "Hellbreach: Vegas", "Mahoukenshi", "Oriental Empires", "Lunacy: Saint Rhodes", "Minicology", "COUPON STRANGE HORTICULTURE 60% OFF" ]
+  }, {
+    "price" : 5.14,
+    "games" : [ "Oriental Empires", "Lunacy: Saint Rhodes", "Minicology", "COUPON STRANGE HORTICULTURE 60% OFF" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/vibrant-visual-novels",
   "name" : "Vibrant Visual Novels",
   "endDate" : 1770256800000,
