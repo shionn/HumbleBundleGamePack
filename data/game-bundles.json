@@ -7,6 +7,14 @@
     "games" : [ "Mika and the Witches Mountain", "Rise of the Triad: Ludicrous Edition", "BPM: Bullets Per Minute", "SEUM: Speedrunners from Hell", "Jazzpunk: Director's Cut", "Shovel Knight: King of Cards", "FEAR 2: Project Origin", "Nuclear Throne", "Bloons Tower Defense 6", "Minit" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/best-of-humble-bundle-sid-meier-collection",
+  "name" : "Best of Humble Bundle: The Sid Meier Collection",
+  "endDate" : 1770429600000,
+  "choices" : [ {
+    "price" : 15.33,
+    "games" : [ "Sid Meier's Civilization VI: Anthology Edition", "Sid Meier's Civilization V: Complete", "Sid Meier's Civilization IV: The Complete Edition", "Sid Meier's Civilization III Complete", "Sid Meier's Civilization: Beyond Earth - The Collection", "Sid Meier's Starships", "Sid Meier's Railroads!", "Sid Meier's Pirates!", "Sid Meier's Ace Patrol: Pacific Skies", "Sid Meier's Ace Patrol", "Sid Meier's Civilization VII: Standard Edition Coupon (40% Discount)", "Sid Meier's Civilization VII: Deluxe Edition Coupon (40% Discount)", "Sid Meier's Civilization VII: Settler's Edition Coupon (40% Discount)" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/d3-waifus-4u",
   "name" : "D3 Waifus 4U",
   "endDate" : 1769824800000,
@@ -86,6 +94,17 @@
   }, {
     "price" : 5.11,
     "games" : [ "Pogostuck", "Lunistice", "Super Kiwi 64" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/roller-coaster-tycoon-collection-2026",
+  "name" : "RollerCoaster Tycoon Collection 2026",
+  "endDate" : 1771034400000,
+  "choices" : [ {
+    "price" : 10.3,
+    "games" : [ "Rollercoaster Tycoon 3: Complete Edition", "Rollercoaster Tycoon Classic", "Rollercoaster Tycoon World", "Rollercoaster Tycoon 2: Triple Thrill Pack", "Rollercoaster Tycoon Deluxe" ]
+  }, {
+    "price" : 6.18,
+    "games" : [ "Rollercoaster Tycoon 2: Triple Thrill Pack", "Rollercoaster Tycoon Deluxe" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/carnage-collection",
