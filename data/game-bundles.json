@@ -107,20 +107,6 @@
     "games" : [ "Rollercoaster Tycoon 2: Triple Thrill Pack", "Rollercoaster Tycoon Deluxe" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/carnage-collection",
-  "name" : "The Carnage Collection",
-  "endDate" : 1769738400000,
-  "choices" : [ {
-    "price" : 15.45,
-    "games" : [ "Dead Island 2", "Dead Island 2 - Expansion Pass", "Trepang2", "Hellboy Web of Wyrd", "Maneater", "Laika: Aged through Blood", "Warstride Challenges", "Easy Red 2", "Death in the Water 2" ]
-  }, {
-    "price" : 10.3,
-    "games" : [ "Hellboy Web of Wyrd", "Maneater", "Laika: Aged through Blood", "Warstride Challenges", "Easy Red 2", "Death in the Water 2" ]
-  }, {
-    "price" : 8.24,
-    "games" : [ "Warstride Challenges", "Easy Red 2", "Death in the Water 2" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/iceberg-hidden-gems-bundle",
   "name" : "The Iceberg Hidden Gems Bundle",
   "endDate" : 1770429600000,
