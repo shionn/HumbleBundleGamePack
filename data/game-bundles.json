@@ -99,6 +99,17 @@
     "games" : [ "Rollercoaster Tycoon 2: Triple Thrill Pack", "Rollercoaster Tycoon Deluxe" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/scifi-shooters-bundle-2026",
+  "name" : "Sci-Fi Shooters 2.0",
+  "endDate" : 1771898400000,
+  "choices" : [ {
+    "price" : 20.62,
+    "games" : [ "System Shock 2: 25th Anniversary Remaster", "Starship Troopers: Extermination", "STAR WARS™: Dark Forces Remaster", "DOOM Eternal", "Prey Digital Deluxe Edition", "Battle Shapers", "Black Mesa" ]
+  }, {
+    "price" : 14.43,
+    "games" : [ "DOOM Eternal", "Prey Digital Deluxe Edition", "Battle Shapers", "Black Mesa" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/iceberg-hidden-gems-bundle",
   "name" : "The Iceberg Hidden Gems Bundle",
   "endDate" : 1770429600000,
