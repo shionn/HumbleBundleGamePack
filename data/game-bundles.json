@@ -24,17 +24,6 @@
     "games" : [ "Onechanbara Z2: Chaos", "SG/ZH: School Girl/Zombie Hunter", "ED-0: Zombie Uprising" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/decked-out-collection-great-on-handheld",
-  "name" : "Decked Out Collection: Great on Handheld",
-  "endDate" : 1770256800000,
-  "choices" : [ {
-    "price" : 12.22,
-    "games" : [ "ULTRAKILL", "Haste", "Creatures of Ava", "Deathbulge: Battle of the Bands", "Backpack Hero", "Vampire Survivors", "Nidhogg 2" ]
-  }, {
-    "price" : 5.08,
-    "games" : [ "Vampire Survivors", "Nidhogg 2" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/just-cause-complete-collection-2026",
   "name" : "Just Cause Complete Collection 2026",
   "endDate" : 1770861600000,
@@ -61,20 +50,6 @@
   }, {
     "price" : 6.18,
     "games" : [ "WRC 9 FIA World Rally Championship", "WRC 8 FIA World Rally Championship", "WRC 7 FIA World Rally Championship", "V-Rally 4", "TT Isle of Man: Ride on the Edge 2" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/playful-platformers-2026",
-  "name" : "Playful Platformers 2026",
-  "endDate" : 1770256800000,
-  "choices" : [ {
-    "price" : 10.22,
-    "games" : [ "Peppered: An Existential Platformer", "Crumble", "Kao the Kangaroo", "Demon Turf: Queens Edition", "Grapple Dogs: Cosmic Canines", "Move or Die", "Pogostuck", "Lunistice", "Super Kiwi 64" ]
-  }, {
-    "price" : 8.17,
-    "games" : [ "Demon Turf: Queens Edition", "Grapple Dogs: Cosmic Canines", "Move or Die", "Pogostuck", "Lunistice", "Super Kiwi 64" ]
-  }, {
-    "price" : 5.11,
-    "games" : [ "Pogostuck", "Lunistice", "Super Kiwi 64" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/roller-coaster-tycoon-collection-2026",
@@ -115,7 +90,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/vibrant-visual-novels",
   "name" : "Vibrant Visual Novels",
-  "endDate" : 1770256800000,
+  "endDate" : 1770861600000,
   "choices" : [ {
     "price" : 12.32,
     "games" : [ "Needy Streamer Overload", "The Expression Amrilato", "A Sky Full of Stars", "Sucker For Love Date to Die For", "If My Heart had Wings - Flight Diary", "If My Heart Had Wings -Flight Diary- - New Wings: Akari (DLC)", "If My Heart had Wings", "Gal* Gun Returns", "Endless Monday: Dreams and Deadlines", "Go! Go! Nippon! Complete Collection", "eden*" ]
