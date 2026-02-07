@@ -1,29 +1,4 @@
 [ {
-  "url" : "https://www.humblebundle.com/games/best-of-humble-bundle-sid-meier-collection",
-  "name" : "Best of Humble Bundle: The Sid Meier Collection",
-  "endDate" : 1770429600000,
-  "choices" : [ {
-    "price" : 15.33,
-    "games" : [ "Sid Meier's Civilization VI: Anthology Edition", "Sid Meier's Civilization V: Complete", "Sid Meier's Civilization IV: The Complete Edition", "Sid Meier's Civilization III Complete", "Sid Meier's Civilization: Beyond Earth - The Collection", "Sid Meier's Starships", "Sid Meier's Railroads!", "Sid Meier's Pirates!", "Sid Meier's Ace Patrol: Pacific Skies", "Sid Meier's Ace Patrol", "Sid Meier's Civilization VII: Standard Edition Coupon (40% Discount)", "Sid Meier's Civilization VII: Deluxe Edition Coupon (40% Discount)", "Sid Meier's Civilization VII: Settler's Edition Coupon (40% Discount)" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/d3-waifus-4u",
-  "name" : "D3 Waifus 4U",
-  "endDate" : 1770429600000,
-  "choices" : [ {
-    "price" : 25.59,
-    "games" : [ "Full Metal School Girl", "Samurai Maiden", "Bullet Girls Phantasia", "Onee Chanbara Origin", "Omega Labyrinth Life", "Maglam Lord", "Onechanbara Z2: Chaos", "SG/ZH: School Girl/Zombie Hunter", "ED-0: Zombie Uprising" ]
-  }, {
-    "price" : 15.34,
-    "games" : [ "Bullet Girls Phantasia", "Onee Chanbara Origin", "Omega Labyrinth Life", "Maglam Lord", "Onechanbara Z2: Chaos", "SG/ZH: School Girl/Zombie Hunter", "ED-0: Zombie Uprising" ]
-  }, {
-    "price" : 10.23,
-    "games" : [ "Omega Labyrinth Life", "Maglam Lord", "Onechanbara Z2: Chaos", "SG/ZH: School Girl/Zombie Hunter", "ED-0: Zombie Uprising" ]
-  }, {
-    "price" : 5.11,
-    "games" : [ "Onechanbara Z2: Chaos", "SG/ZH: School Girl/Zombie Hunter", "ED-0: Zombie Uprising" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/just-cause-complete-collection-2026",
   "name" : "Just Cause Complete Collection 2026",
   "endDate" : 1770861600000,
@@ -72,20 +47,6 @@
   }, {
     "price" : 14.43,
     "games" : [ "DOOM Eternal", "Prey Digital Deluxe Edition", "Battle Shapers", "Black Mesa" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/iceberg-hidden-gems-bundle",
-  "name" : "The Iceberg Hidden Gems Bundle",
-  "endDate" : 1770429600000,
-  "choices" : [ {
-    "price" : 10.29,
-    "games" : [ "King of Retail", "CLeM", "Stars in Shadow", "Doomblade", "Blazing Sails", "Tech Support: Error Unknown", "Hellbreach: Vegas", "Mahokenshi", "Oriental Empires", "Lunacy: Saint Rhodes", "Minicology", "COUPON STRANGE HORTICULTURE 60% OFF" ]
-  }, {
-    "price" : 7.2,
-    "games" : [ "Blazing Sails", "Tech Support: Error Unknown", "Hellbreach: Vegas", "Mahokenshi", "Oriental Empires", "Lunacy: Saint Rhodes", "Minicology", "COUPON STRANGE HORTICULTURE 60% OFF" ]
-  }, {
-    "price" : 5.14,
-    "games" : [ "Oriental Empires", "Lunacy: Saint Rhodes", "Minicology", "COUPON STRANGE HORTICULTURE 60% OFF" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/vibrant-visual-novels",
