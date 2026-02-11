@@ -13,6 +13,14 @@
     "games" : [ "Just Cause 2", "Just Cause 2: Monster Truck DLC", "Just Cause 2: Agency Hovercraft", "Just Cause 2: Chevalier Classic", "Just Cause 2: Rico's Signature Gun", "Just Cause 2: Bull's Eye Assault Rifle", "Just Cause 2 - Black Market Boom Pack DLC", "Just Cause 2: Black Market Aerial Pack DLC", "Just Cause" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/love-you-to-death-bundle",
+  "name" : "Love You to Death Bundle",
+  "endDate" : 1772676000000,
+  "choices" : [ {
+    "price" : 12.1,
+    "games" : [ "Have a Nice Death", "Ghost Watchers", "DEVOUR", "Iron Lung", "Lunacid", "FAITH: The Unholy Trinity", "The Bridge Curse 2: The Extrication", "Life Eater", "Without a Dawn" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/nacon-racing-collection",
   "name" : "Nacon Racing Collection 2026",
   "endDate" : 1771466400000,
@@ -47,16 +55,5 @@
   }, {
     "price" : 14.43,
     "games" : [ "DOOM Eternal", "Prey Digital Deluxe Edition", "Battle Shapers", "Black Mesa" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/vibrant-visual-novels",
-  "name" : "Vibrant Visual Novels",
-  "endDate" : 1770861600000,
-  "choices" : [ {
-    "price" : 12.32,
-    "games" : [ "Needy Streamer Overload", "The Expression Amrilato", "A Sky Full of Stars", "Sucker For Love Date to Die For", "If My Heart had Wings - Flight Diary", "If My Heart Had Wings -Flight Diary- - New Wings: Akari (DLC)", "If My Heart had Wings", "Gal* Gun Returns", "Endless Monday: Dreams and Deadlines", "Go! Go! Nippon! Complete Collection", "eden*" ]
-  }, {
-    "price" : 6.15,
-    "games" : [ "If My Heart had Wings", "Gal* Gun Returns", "Endless Monday: Dreams and Deadlines", "Go! Go! Nippon! Complete Collection", "eden*" ]
   } ]
 } ]
