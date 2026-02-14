@@ -60,17 +60,6 @@
     "games" : [ "Monster Prom 4: Monster Con", "Nubby's Number Factory", "Monster Train", "Heavenly Bodies", "The Henry Stickmin Collection", "Bug Fables: The Everlasting Sapling", "Later Alligator", "LISA: The Painful" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/roller-coaster-tycoon-collection-2026",
-  "name" : "RollerCoaster Tycoon Collection 2026",
-  "endDate" : 1771034400000,
-  "choices" : [ {
-    "price" : 10.3,
-    "games" : [ "Rollercoaster Tycoon 3: Complete Edition", "Rollercoaster Tycoon Classic", "Rollercoaster Tycoon World", "Rollercoaster Tycoon 2: Triple Thrill Pack", "Rollercoaster Tycoon Deluxe" ]
-  }, {
-    "price" : 6.18,
-    "games" : [ "Rollercoaster Tycoon 2: Triple Thrill Pack", "Rollercoaster Tycoon Deluxe" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/scifi-shooters-bundle-2026",
   "name" : "Sci-Fi Shooters 2.0",
   "endDate" : 1771898400000,
