@@ -1,4 +1,24 @@
 [ {
+  "url" : "https://www.humblebundle.com/games/beamdog-owlcat-rpg-masters-2026",
+  "name" : "Best of Humble Bundle: Beamdog & Owlcat: RPG Masters",
+  "endDate" : 1773277200000,
+  "choices" : [ {
+    "price" : 23.3,
+    "games" : [ "Warhammer 40,000: Rogue Trader", "Pathfinder: Wrath of the Righteous - Season Pass 2", "Pathfinder: Wrath of the Righteous - Season Pass", "Pathfinder: Kingmaker - Season Pass", "Pathfinder: Wrath of the Righteous", "Neverwinter Nights: Complete Adventures", "Pathfinder: Kingmaker - Enhanced Plus Edition", "Baldur's Gate II: Enhanced Edition", "Baldur's Gate: Deluxe Edition", "Planescape: Torment Enhanced Edition", "Icewind Dale: Enhanced Edition", "Mythforce" ]
+  }, {
+    "price" : 15.19,
+    "games" : [ "Pathfinder: Wrath of the Righteous - Season Pass 2", "Pathfinder: Wrath of the Righteous - Season Pass", "Pathfinder: Kingmaker - Season Pass", "Pathfinder: Wrath of the Righteous", "Neverwinter Nights: Complete Adventures", "Pathfinder: Kingmaker - Enhanced Plus Edition", "Baldur's Gate II: Enhanced Edition", "Baldur's Gate: Deluxe Edition", "Planescape: Torment Enhanced Edition", "Icewind Dale: Enhanced Edition", "Mythforce" ]
+  }, {
+    "price" : 10.12,
+    "games" : [ "Pathfinder: Wrath of the Righteous", "Neverwinter Nights: Complete Adventures", "Pathfinder: Kingmaker - Enhanced Plus Edition", "Baldur's Gate II: Enhanced Edition", "Baldur's Gate: Deluxe Edition", "Planescape: Torment Enhanced Edition", "Icewind Dale: Enhanced Edition", "Mythforce" ]
+  }, {
+    "price" : 7.09,
+    "games" : [ "Pathfinder: Kingmaker - Enhanced Plus Edition", "Baldur's Gate II: Enhanced Edition", "Baldur's Gate: Deluxe Edition", "Planescape: Torment Enhanced Edition", "Icewind Dale: Enhanced Edition", "Mythforce" ]
+  }, {
+    "price" : 5.06,
+    "games" : [ "Planescape: Torment Enhanced Edition", "Icewind Dale: Enhanced Edition", "Mythforce" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/call-wild-9th-anniversary",
   "name" : "Best of Humble Bundle: Call of the Wild 9th Anniversary",
   "endDate" : 1772848800000,
