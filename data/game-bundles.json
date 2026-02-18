@@ -36,6 +36,17 @@
     "games" : [ "theHunter: Call of the Wild", "theHunter: Call of the Wild - ATV SABER 4X4", "theHunter: Call of the Wild - Tents & Ground Blinds", "theHunter: Call of the Wild - Weapon Pack 1", "theHunter: Call of the Wild- Silver Ridge Peaks", "theHunter: Call of the Wild- Silver Ridge Peaks (Cosmetic Add On)" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/humble-15-time-capsule",
+  "name" : "Humble 15 Time Capsule",
+  "endDate" : 1773277200000,
+  "choices" : [ {
+    "price" : 15.18,
+    "games" : [ "Oddsparks: An Automation Adventure", "KILL KNIGHT", "Inkbound", "Bionic Bay", "Mark of the Deep - Deluxe Edition", "20% OFF Mark of the Deep: The Cursed Trials", "Lugaru HD", "Samorost 2", "Osmos", "And Yet It Moves" ]
+  }, {
+    "price" : 5.05,
+    "games" : [ "Lugaru HD", "Samorost 2", "Osmos", "And Yet It Moves" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/just-cause-complete-collection-2026",
   "name" : "Just Cause Complete Collection 2026",
   "endDate" : 1771466400000,
@@ -56,20 +67,6 @@
   "choices" : [ {
     "price" : 12.1,
     "games" : [ "Have a Nice Death", "Ghost Watchers", "DEVOUR", "Iron Lung", "Lunacid", "FAITH: The Unholy Trinity", "The Bridge Curse 2: The Extrication", "Life Eater", "Without a Dawn" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/nacon-racing-collection",
-  "name" : "Nacon Racing Collection 2026",
-  "endDate" : 1771466400000,
-  "choices" : [ {
-    "price" : 10.3,
-    "games" : [ "WRC 10 FIA World Rally Championship", "TT Isle of Man: Ride on the Edge 3", "WRC Generations - The FIA WRC Official Game", "WRC 9 FIA World Rally Championship", "WRC 8 FIA World Rally Championship", "WRC 7 FIA World Rally Championship", "V-Rally 4", "TT Isle of Man: Ride on the Edge 2" ]
-  }, {
-    "price" : 8.24,
-    "games" : [ "WRC Generations - The FIA WRC Official Game", "WRC 9 FIA World Rally Championship", "WRC 8 FIA World Rally Championship", "WRC 7 FIA World Rally Championship", "V-Rally 4", "TT Isle of Man: Ride on the Edge 2" ]
-  }, {
-    "price" : 6.18,
-    "games" : [ "WRC 9 FIA World Rally Championship", "WRC 8 FIA World Rally Championship", "WRC 7 FIA World Rally Championship", "V-Rally 4", "TT Isle of Man: Ride on the Edge 2" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/overwhelming-positive-games-bundle",
