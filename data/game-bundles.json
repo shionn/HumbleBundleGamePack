@@ -36,6 +36,20 @@
     "games" : [ "theHunter: Call of the Wild", "theHunter: Call of the Wild - ATV SABER 4X4", "theHunter: Call of the Wild - Tents & Ground Blinds", "theHunter: Call of the Wild - Weapon Pack 1", "theHunter: Call of the Wild- Silver Ridge Peaks", "theHunter: Call of the Wild- Silver Ridge Peaks (Cosmetic Add On)" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/focus-entertainment-bundle-2026",
+  "name" : "Focus Entertainment Bundle 2026",
+  "endDate" : 1773450000000,
+  "choices" : [ {
+    "price" : 25.32,
+    "games" : [ "A Plague Tale: Requiem", "Atlas Fallen: Reign Of Sand", "Evil West", "A Plague Tale: Innocence", "Curse of the Dead Gods", "Shady Part of Me" ]
+  }, {
+    "price" : 18.22,
+    "games" : [ "Evil West", "A Plague Tale: Innocence", "Curse of the Dead Gods", "Shady Part of Me" ]
+  }, {
+    "price" : 6.07,
+    "games" : [ "Curse of the Dead Gods", "Shady Part of Me" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/humble-15-time-capsule",
   "name" : "Humble 15 Time Capsule",
   "endDate" : 1773277200000,
