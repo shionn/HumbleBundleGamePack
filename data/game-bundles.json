@@ -36,6 +36,17 @@
     "games" : [ "theHunter: Call of the Wild", "theHunter: Call of the Wild - ATV SABER 4X4", "theHunter: Call of the Wild - Tents & Ground Blinds", "theHunter: Call of the Wild - Weapon Pack 1", "theHunter: Call of the Wild- Silver Ridge Peaks", "theHunter: Call of the Wild- Silver Ridge Peaks (Cosmetic Add On)" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/cartridge-chaos",
+  "name" : "Cartridge Chaos",
+  "endDate" : 1773882000000,
+  "choices" : [ {
+    "price" : 19.39,
+    "games" : [ "Mighty Morphin Power Rangers: Rita's Rewind", "Vengeful Guardian: Moonrider", "Shantae and the Pirate's Curse", "Corn Kidz 64", "Super Indie Karts", "Astrodogs", "Anodyne 2: Return to Dust", "Super Magbot" ]
+  }, {
+    "price" : 9.18,
+    "games" : [ "Super Indie Karts", "Astrodogs", "Anodyne 2: Return to Dust", "Super Magbot" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/focus-entertainment-bundle-2026",
   "name" : "Focus Entertainment Bundle 2026",
   "endDate" : 1773450000000,
