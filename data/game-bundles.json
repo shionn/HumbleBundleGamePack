@@ -80,6 +80,23 @@
     "games" : [ "Have a Nice Death", "Ghost Watchers", "DEVOUR", "Iron Lung", "Lunacid", "FAITH: The Unholy Trinity", "The Bridge Curse 2: The Extrication", "Life Eater", "Without a Dawn" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/mega-man-charged-up-collection",
+  "name" : "Mega Man: Charged Up Collection",
+  "endDate" : 1773939600000,
+  "choices" : [ {
+    "price" : 50.91,
+    "games" : [ "Mega Man Legacy Collection", "Mega Man X Legacy Collection", "Mega Man Legacy Collection 2", "Mega Man X Legacy Collection 2", "Mega Man Zero/ZX Legacy Collection", "Mega Man 11", "Mega Man Battle Network Legacy Collection Vol.2", "Mega Man Battle Network Legacy Collection Vol.1", "MEGA MAN X DiVE Offline" ]
+  }, {
+    "price" : 40.72,
+    "games" : [ "Mega Man Legacy Collection 2", "Mega Man X Legacy Collection 2", "Mega Man Zero/ZX Legacy Collection", "Mega Man 11", "Mega Man Battle Network Legacy Collection Vol.2", "Mega Man Battle Network Legacy Collection Vol.1", "MEGA MAN X DiVE Offline" ]
+  }, {
+    "price" : 30.54,
+    "games" : [ "Mega Man Zero/ZX Legacy Collection", "Mega Man 11", "Mega Man Battle Network Legacy Collection Vol.2", "Mega Man Battle Network Legacy Collection Vol.1", "MEGA MAN X DiVE Offline" ]
+  }, {
+    "price" : 20.36,
+    "games" : [ "Mega Man Battle Network Legacy Collection Vol.2", "Mega Man Battle Network Legacy Collection Vol.1", "MEGA MAN X DiVE Offline" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/overwhelming-positive-games-bundle",
   "name" : "Overwhelming Positive Games Bundle",
   "endDate" : 1772848800000,
