@@ -104,15 +104,4 @@
     "price" : 15.19,
     "games" : [ "Monster Prom 4: Monster Con", "Nubby's Number Factory", "Monster Train", "Heavenly Bodies", "The Henry Stickmin Collection", "Bug Fables: The Everlasting Sapling", "Later Alligator", "LISA: The Painful" ]
   } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/scifi-shooters-bundle-2026",
-  "name" : "Sci-Fi Shooters 2.0",
-  "endDate" : 1772503200000,
-  "choices" : [ {
-    "price" : 20.62,
-    "games" : [ "System Shock 2: 25th Anniversary Remaster", "Starship Troopers: Extermination", "STAR WARS™: Dark Forces Remaster", "DOOM Eternal", "Prey Digital Deluxe Edition", "Battle Shapers", "Black Mesa" ]
-  }, {
-    "price" : 14.43,
-    "games" : [ "DOOM Eternal", "Prey Digital Deluxe Edition", "Battle Shapers", "Black Mesa" ]
-  } ]
 } ]
