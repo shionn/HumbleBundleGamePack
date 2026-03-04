@@ -1,4 +1,18 @@
 [ {
+  "url" : "https://www.humblebundle.com/games/best-boomer-shooters-5-penta-boom",
+  "name" : "Best of Boomer Shooters 5: Penta Boom",
+  "endDate" : 1774486800000,
+  "choices" : [ {
+    "price" : 20.36,
+    "games" : [ "SULFUR", "Metal Eden", "Killing Time Resurrected", "Fida Puti Samurai", "Slayers X: Terminal Aftermath: Vengance of the Slayer", "Shooty Shooty Robot Invasion", "Immortal Redneck" ]
+  }, {
+    "price" : 12.21,
+    "games" : [ "Killing Time Resurrected", "Fida Puti Samurai", "Slayers X: Terminal Aftermath: Vengance of the Slayer", "Shooty Shooty Robot Invasion", "Immortal Redneck" ]
+  }, {
+    "price" : 7.12,
+    "games" : [ "Slayers X: Terminal Aftermath: Vengance of the Slayer", "Shooty Shooty Robot Invasion", "Immortal Redneck" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/beamdog-owlcat-rpg-masters-2026",
   "name" : "Best of Humble Bundle: Beamdog & Owlcat: RPG Masters",
   "endDate" : 1773277200000,
