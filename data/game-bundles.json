@@ -75,6 +75,14 @@
     "games" : [ "Curse of the Dead Gods", "Shady Part of Me" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/games-done-quick-frost-fatales-2026",
+  "name" : "Games Done Quick: Frost Fatales 2026",
+  "endDate" : 1774659600000,
+  "choices" : [ {
+    "price" : 10.16,
+    "games" : [ "Q-UP", "Voidwrought", "Here Comes Niko", "Yars Rising", "Super Glitter Rush", "An Airport For Aliens Currently Run By Dogs", "Yoku's Island Express" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/humble-15-time-capsule",
   "name" : "Humble 15 Time Capsule",
   "endDate" : 1773277200000,
