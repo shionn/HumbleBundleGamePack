@@ -129,4 +129,12 @@
     "price" : 10.33,
     "games" : [ "Far Cry® Primal Standard Edition", "Dishonored 2", "State of Decay 2: Juggernaut Edition", "Harry Potter: Quidditch Champions" ]
   } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/mix-spring-showcase-games-around-world",
+  "name" : "The MIX Spring Showcase: Games Around The World",
+  "endDate" : 1774893600000,
+  "choices" : [ {
+    "price" : 16.47,
+    "games" : [ "Teenage Mutant Ninja Turtles: Tactical Takedown", "Thirsty Suitors", "Content Warning", "Falcon Age", "White Day: A Labyrinth Named School", "ToeJam & Earl: Back in the Groove", "Teenage Blob", "Semblance", "What Comes After" ]
+  } ]
 } ]
