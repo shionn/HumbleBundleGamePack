@@ -33,23 +33,6 @@
     "games" : [ "Planescape: Torment Enhanced Edition", "Icewind Dale: Enhanced Edition", "Mythforce" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/call-wild-9th-anniversary",
-  "name" : "Best of Humble Bundle: Call of the Wild 9th Anniversary",
-  "endDate" : 1773450000000,
-  "choices" : [ {
-    "price" : 25.38,
-    "games" : [ "theHunter: Call of the Wild - German Shorthaired", "theHunter: Call of the Wild - Salzwiesen Park", "theHunter: Call of the Wild - Emerald Coast Australia", "theHunter: Call of the Wild - Ambusher Pack", "theHunter: Call of the Wild - Mississippi Acres Preserve", "theHunter: Call of the Wild - Mississippi Acres Cosmetic Pack", "theHunter: Call of the Wild- Revontuli Coast", "theHunter: Call of the Wild- Revontuli Coast Cosmetic Pack", "theHunter: Call of the Wild - Hunter Power Pack", "theHunter: Call of the Wild - New England Mountains", "theHunter: Call of the Wild - New England Veteran Cosmetic Pack", "theHunter: Call of the Wild - Yukon Valley", "theHunter: Call of the Wild - Modern Rifle Pack", "theHunter: Call of the Wild - Rancho del Arroyo", "theHunter: Call of the Wild - Rancho del Arroyo Cosmetic Pack", "theHunter: Call of the Wild - Parque Fernando", "theHunter: Call of the Wild - Trophy Lodge Spring Creek Manor", "theHunter: Call of the Wild - Parque Fernando Cosmetic Pack", "theHunter: Call of the Wild - Bloodhound", "theHunter: Call of the Wild- Smoking Barrels Weapon Pack", "theHunter: Call of the Wild - Weapon Pack 3", "theHunter: Call of the Wild - High-Tech Hunting Pack", "theHunter: Call of the Wild - Treestand & Tripod Pack", "Call of the Wild: The Angler", "Call of the Wild: The Angler - Norway Reserve", "theHunter: Call of the Wild - Wild Goose Chase Gear", "theHunter: Call of the Wild - Duck and Cover Pack", "theHunter: Call of the Wild - Weapon Pack 2", "theHunter: Call of the Wild - Assorted Sidearms Pack", "theHunter: Call of the Wild - Saseka Safari Trophy Lodge", "theHunter: Call of the Wild - Vurhonga Savanna", "theHunter: Call of the Wild - Vurhonga Savanna (Cosmetic Add On)", "theHunter: Call of the Wild", "theHunter: Call of the Wild - ATV SABER 4X4", "theHunter: Call of the Wild - Tents & Ground Blinds", "theHunter: Call of the Wild - Weapon Pack 1", "theHunter: Call of the Wild- Silver Ridge Peaks", "theHunter: Call of the Wild- Silver Ridge Peaks (Cosmetic Add On)" ]
-  }, {
-    "price" : 15.22,
-    "games" : [ "theHunter: Call of the Wild - Rancho del Arroyo", "theHunter: Call of the Wild - Rancho del Arroyo Cosmetic Pack", "theHunter: Call of the Wild - Parque Fernando", "theHunter: Call of the Wild - Trophy Lodge Spring Creek Manor", "theHunter: Call of the Wild - Parque Fernando Cosmetic Pack", "theHunter: Call of the Wild - Bloodhound", "theHunter: Call of the Wild- Smoking Barrels Weapon Pack", "theHunter: Call of the Wild - Weapon Pack 3", "theHunter: Call of the Wild - High-Tech Hunting Pack", "theHunter: Call of the Wild - Treestand & Tripod Pack", "Call of the Wild: The Angler", "Call of the Wild: The Angler - Norway Reserve", "theHunter: Call of the Wild - Wild Goose Chase Gear", "theHunter: Call of the Wild - Duck and Cover Pack", "theHunter: Call of the Wild - Weapon Pack 2", "theHunter: Call of the Wild - Assorted Sidearms Pack", "theHunter: Call of the Wild - Saseka Safari Trophy Lodge", "theHunter: Call of the Wild - Vurhonga Savanna", "theHunter: Call of the Wild - Vurhonga Savanna (Cosmetic Add On)", "theHunter: Call of the Wild", "theHunter: Call of the Wild - ATV SABER 4X4", "theHunter: Call of the Wild - Tents & Ground Blinds", "theHunter: Call of the Wild - Weapon Pack 1", "theHunter: Call of the Wild- Silver Ridge Peaks", "theHunter: Call of the Wild- Silver Ridge Peaks (Cosmetic Add On)" ]
-  }, {
-    "price" : 10.15,
-    "games" : [ "Call of the Wild: The Angler", "Call of the Wild: The Angler - Norway Reserve", "theHunter: Call of the Wild - Wild Goose Chase Gear", "theHunter: Call of the Wild - Duck and Cover Pack", "theHunter: Call of the Wild - Weapon Pack 2", "theHunter: Call of the Wild - Assorted Sidearms Pack", "theHunter: Call of the Wild - Saseka Safari Trophy Lodge", "theHunter: Call of the Wild - Vurhonga Savanna", "theHunter: Call of the Wild - Vurhonga Savanna (Cosmetic Add On)", "theHunter: Call of the Wild", "theHunter: Call of the Wild - ATV SABER 4X4", "theHunter: Call of the Wild - Tents & Ground Blinds", "theHunter: Call of the Wild - Weapon Pack 1", "theHunter: Call of the Wild- Silver Ridge Peaks", "theHunter: Call of the Wild- Silver Ridge Peaks (Cosmetic Add On)" ]
-  }, {
-    "price" : 5.07,
-    "games" : [ "theHunter: Call of the Wild", "theHunter: Call of the Wild - ATV SABER 4X4", "theHunter: Call of the Wild - Tents & Ground Blinds", "theHunter: Call of the Wild - Weapon Pack 1", "theHunter: Call of the Wild- Silver Ridge Peaks", "theHunter: Call of the Wild- Silver Ridge Peaks (Cosmetic Add On)" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/cartridge-chaos",
   "name" : "Cartridge Chaos",
   "endDate" : 1773882000000,
@@ -92,6 +75,17 @@
   "choices" : [ {
     "price" : 10.16,
     "games" : [ "Q-UP", "Voidwrought", "Here Comes Niko", "Yars Rising", "Super Glitter Rush", "An Airport For Aliens Currently Run By Dogs", "Yoku's Island Express" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/humble-15-time-capsule",
+  "name" : "Humble 15 Time Capsule",
+  "endDate" : 1773277200000,
+  "choices" : [ {
+    "price" : 15.18,
+    "games" : [ "Oddsparks: An Automation Adventure", "KILL KNIGHT", "Inkbound", "Bionic Bay", "Mark of the Deep - Deluxe Edition", "20% OFF Mark of the Deep: The Cursed Trials", "Lugaru HD", "Samorost 2", "Osmos", "And Yet It Moves" ]
+  }, {
+    "price" : 5.05,
+    "games" : [ "Lugaru HD", "Samorost 2", "Osmos", "And Yet It Moves" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/humble-15-time-capsule",
