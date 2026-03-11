@@ -75,6 +75,17 @@
     "games" : [ "Curse of the Dead Gods", "Shady Part of Me" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/frictional-games-amnesia-soma-penumbra",
+  "name" : "Frictional Games: Amnesia, SOMA, Penumbra",
+  "endDate" : 1775091600000,
+  "choices" : [ {
+    "price" : 15.38,
+    "games" : [ "Amnesia: The Bunker", "SOMA", "Amnesia: Rebirth", "Amnesia: A Machine For Pigs", "Amnesia: The Dark Descent", "Penumbra Collectors Pack" ]
+  }, {
+    "price" : 10.24,
+    "games" : [ "Amnesia: Rebirth", "Amnesia: A Machine For Pigs", "Amnesia: The Dark Descent", "Penumbra Collectors Pack" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/games-done-quick-frost-fatales-2026",
   "name" : "Games Done Quick: Frost Fatales 2026",
   "endDate" : 1774659600000,
