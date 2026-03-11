@@ -130,6 +130,20 @@
     "games" : [ "Mega Man Battle Network Legacy Collection Vol.2", "Mega Man Battle Network Legacy Collection Vol.1", "MEGA MAN X DiVE Offline" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/metroidvania-mayhem-bundle",
+  "name" : "Metroidvania Mayhem Bundle",
+  "endDate" : 1775091600000,
+  "choices" : [ {
+    "price" : 12.44,
+    "games" : [ "Gestalt: Steam & Cinder", "Primal Planet", "The Devil Within: Satgat", "Kingdom Shell", "Lost Ruins", "Ultros - Deluxe Edition", "F.I.S.T.: Forged In Shadow Torch", "Rabi-Ribi", "Aeterna Noctis", "MIO: Memories in Orbit Coupon (20% Discount)" ]
+  }, {
+    "price" : 9.33,
+    "games" : [ "Lost Ruins", "Ultros - Deluxe Edition", "F.I.S.T.: Forged In Shadow Torch", "Rabi-Ribi", "Aeterna Noctis", "MIO: Memories in Orbit Coupon (20% Discount)" ]
+  }, {
+    "price" : 6.21,
+    "games" : [ "F.I.S.T.: Forged In Shadow Torch", "Rabi-Ribi", "Aeterna Noctis", "MIO: Memories in Orbit Coupon (20% Discount)" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/alister-alliance-bundle",
   "name" : "The ESA All-Star Alliance Bundle",
   "endDate" : 1774659600000,
