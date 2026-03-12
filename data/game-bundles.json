@@ -15,7 +15,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/beamdog-owlcat-rpg-masters-2026",
   "name" : "Best of Humble Bundle: Beamdog & Owlcat: RPG Masters",
-  "endDate" : 1773277200000,
+  "endDate" : 1773882000000,
   "choices" : [ {
     "price" : 23.3,
     "games" : [ "Warhammer 40,000: Rogue Trader", "Pathfinder: Wrath of the Righteous - Season Pass 2", "Pathfinder: Wrath of the Righteous - Season Pass", "Pathfinder: Kingmaker - Season Pass", "Pathfinder: Wrath of the Righteous", "Neverwinter Nights: Complete Adventures", "Pathfinder: Kingmaker - Enhanced Plus Edition", "Baldur's Gate II: Enhanced Edition", "Baldur's Gate: Deluxe Edition", "Planescape: Torment Enhanced Edition", "Icewind Dale: Enhanced Edition", "Mythforce" ]
@@ -75,36 +75,6 @@
   "choices" : [ {
     "price" : 10.16,
     "games" : [ "Q-UP", "Voidwrought", "Here Comes Niko", "Yars Rising", "Super Glitter Rush", "An Airport For Aliens Currently Run By Dogs", "Yoku's Island Express" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/humble-15-time-capsule",
-  "name" : "Humble 15 Time Capsule",
-  "endDate" : 1773277200000,
-  "choices" : [ {
-    "price" : 15.18,
-    "games" : [ "Oddsparks: An Automation Adventure", "KILL KNIGHT", "Inkbound", "Bionic Bay", "Mark of the Deep - Deluxe Edition", "20% OFF Mark of the Deep: The Cursed Trials", "Lugaru HD", "Samorost 2", "Osmos", "And Yet It Moves" ]
-  }, {
-    "price" : 5.05,
-    "games" : [ "Lugaru HD", "Samorost 2", "Osmos", "And Yet It Moves" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/humble-15-time-capsule",
-  "name" : "Humble 15 Time Capsule",
-  "endDate" : 1773277200000,
-  "choices" : [ {
-    "price" : 15.18,
-    "games" : [ "Oddsparks: An Automation Adventure", "KILL KNIGHT", "Inkbound", "Bionic Bay", "Mark of the Deep - Deluxe Edition", "20% OFF Mark of the Deep: The Cursed Trials", "Lugaru HD", "Samorost 2", "Osmos", "And Yet It Moves" ]
-  }, {
-    "price" : 5.05,
-    "games" : [ "Lugaru HD", "Samorost 2", "Osmos", "And Yet It Moves" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/love-you-to-death-bundle",
-  "name" : "Love You to Death Bundle",
-  "endDate" : 1773277200000,
-  "choices" : [ {
-    "price" : 12.1,
-    "games" : [ "Have a Nice Death", "Ghost Watchers", "DEVOUR", "Iron Lung", "Lunacid", "FAITH: The Unholy Trinity", "The Bridge Curse 2: The Extrication", "Life Eater", "Without a Dawn" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/mega-man-charged-up-collection",
