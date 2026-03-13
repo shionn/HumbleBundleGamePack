@@ -94,6 +94,17 @@
     "games" : [ "Q-UP", "Voidwrought", "Here Comes Niko", "Yars Rising", "Super Glitter Rush", "An Airport For Aliens Currently Run By Dogs", "Yoku's Island Express" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/humble-heroines-echoes-voids-and-visions",
+  "name" : "Humble Heroines: Echoes, Voids, and Visions",
+  "endDate" : 1775869200000,
+  "choices" : [ {
+    "price" : 18.67,
+    "games" : [ "The Medium", "Sorry We're Closed", "Eastward", "ANNO: Mutationem", "Ereban: Shadow Legacy", "Vigil: The Longest Night", "Clock Tower: Rewind", "Mai: Child of Ages" ]
+  }, {
+    "price" : 10.36,
+    "games" : [ "Vigil: The Longest Night", "Clock Tower: Rewind", "Mai: Child of Ages" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/mega-man-charged-up-collection",
   "name" : "Mega Man: Charged Up Collection",
   "endDate" : 1773939600000,
@@ -123,6 +134,17 @@
   }, {
     "price" : 6.21,
     "games" : [ "F.I.S.T.: Forged In Shadow Torch", "Rabi-Ribi", "Aeterna Noctis", "MIO: Memories in Orbit Coupon (20% Discount)" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/multiplayer-madness-2026",
+  "name" : "Multiplayer Madness 2026",
+  "endDate" : 1775264400000,
+  "choices" : [ {
+    "price" : 12.45,
+    "games" : [ "Shotgun Farmers", "Shotgun Farmers: Supporter Pack (DLC)", "Phantom Squad", "Fish Stick Protocol", "Rungore", "Retail Company Simulator", "Clone Drone in the Danger Zone", "Keep Talking and Nobody Explodes", "Party Club", "Bogos Binted" ]
+  }, {
+    "price" : 7.26,
+    "games" : [ "Retail Company Simulator", "Clone Drone in the Danger Zone", "Keep Talking and Nobody Explodes", "Party Club", "Bogos Binted" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/alister-alliance-bundle",
