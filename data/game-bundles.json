@@ -94,17 +94,6 @@
     "games" : [ "Q-UP", "Voidwrought", "Here Comes Niko", "Yars Rising", "Super Glitter Rush", "An Airport For Aliens Currently Run By Dogs", "Yoku's Island Express" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/humble-heroines-echoes-voids-and-visions",
-  "name" : "Humble Heroines: Echoes, Voids, and Visions",
-  "endDate" : 1775869200000,
-  "choices" : [ {
-    "price" : 18.67,
-    "games" : [ "The Medium", "Sorry We're Closed", "Eastward", "ANNO: Mutationem", "Ereban: Shadow Legacy", "Vigil: The Longest Night", "Clock Tower: Rewind", "Mai: Child of Ages" ]
-  }, {
-    "price" : 10.36,
-    "games" : [ "Vigil: The Longest Night", "Clock Tower: Rewind", "Mai: Child of Ages" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/mega-man-charged-up-collection",
   "name" : "Mega Man: Charged Up Collection",
   "endDate" : 1773939600000,
