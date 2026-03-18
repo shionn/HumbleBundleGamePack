@@ -44,6 +44,14 @@
     "games" : [ "Super Indie Karts", "Astrodogs", "Anodyne 2: Return to Dust", "Super Magbot" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/checkmate-chess-games-collection",
+  "name" : "Checkmate! A Chess Games Collection",
+  "endDate" : 1775671200000,
+  "choices" : [ {
+    "price" : 12.54,
+    "games" : [ "5D Chess With Multiverse Time Travel", "Chess Ultra", "Pawnbarian", "The Ouroboros King", "Gambit Shifter", "Dark Chess", "Below the Crown", "WizardChess", "Usurper", "The Rookery", "Chessarama" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/frictional-games-amnesia-soma-penumbra",
   "name" : "Frictional Games: Amnesia, SOMA, Penumbra",
   "endDate" : 1775091600000,
