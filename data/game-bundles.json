@@ -40,6 +40,14 @@
     "games" : [ "Q-UP", "Voidwrought", "Here Comes Niko", "Yars Rising", "Super Glitter Rush", "An Airport For Aliens Currently Run By Dogs", "Yoku's Island Express" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/humble-heroines-echoes-voids-and-visions",
+  "name" : "Humble Heroines: Echoes, Voids, and Visions",
+  "endDate" : 1776301200000,
+  "choices" : [ {
+    "price" : 18.67,
+    "games" : [ "The Medium", "Sorry We're Closed", "Eastward", "ANNO: Mutationem", "Cabernet", "Ereban: Shadow Legacy" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/metroidvania-mayhem-bundle",
   "name" : "Metroidvania Mayhem Bundle",
   "endDate" : 1775091600000,
