@@ -48,6 +48,17 @@
     "games" : [ "The Medium", "Sorry We're Closed", "Eastward", "ANNO: Mutationem", "Cabernet", "Ereban: Shadow Legacy" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/metro-mania-planes-trains-and-automobiles",
+  "name" : "Metro Mania: Planes, Trains, and Automobiles!",
+  "endDate" : 1775869200000,
+  "choices" : [ {
+    "price" : 16.69,
+    "games" : [ "Expeditions: A Mudrunner Game", "Railbound", "You Suck at Parking® - Complete Edition", "Railroads Online", "Juno: New Origins", "Super Loco World", "The Slaverian Trucker", "Simple Planes" ]
+  }, {
+    "price" : 8.34,
+    "games" : [ "Juno: New Origins", "Super Loco World", "The Slaverian Trucker", "Simple Planes" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/metroidvania-mayhem-bundle",
   "name" : "Metroidvania Mayhem Bundle",
   "endDate" : 1775091600000,
