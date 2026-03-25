@@ -40,6 +40,14 @@
     "games" : [ "Q-UP", "Voidwrought", "Here Comes Niko", "Yars Rising", "Super Glitter Rush", "An Airport For Aliens Currently Run By Dogs", "Yoku's Island Express" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/humble-15-for-15-spring-2026",
+  "name" : "Humble 15 for $15 - Spring 2026",
+  "endDate" : 1776301200000,
+  "choices" : [ {
+    "price" : 15.67,
+    "games" : [ "Rocket Rats", "Necroking", "Kingsgrave", "The Invisible Hand", "DISTRAINT 2", "DISTRAINT: Deluxe Edition", "Pile Up! Box by Box", "Technotopia", "LUNARK", "Dropsy: Warm Damp Hug Edition", "Orten Was The Case", "Undead West", "Janosik 2", "Glitchhikers: The Spaces Between", "ION Shift" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/humble-heroines-echoes-voids-and-visions",
   "name" : "Humble Heroines: Echoes, Voids, and Visions",
   "endDate" : 1776301200000,
