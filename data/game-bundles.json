@@ -32,14 +32,6 @@
     "games" : [ "Amnesia: Rebirth", "Amnesia: A Machine For Pigs", "Amnesia: The Dark Descent", "Penumbra Collectors Pack" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/games-done-quick-frost-fatales-2026",
-  "name" : "Games Done Quick: Frost Fatales 2026",
-  "endDate" : 1774659600000,
-  "choices" : [ {
-    "price" : 10.16,
-    "games" : [ "Q-UP", "Voidwrought", "Here Comes Niko", "Yars Rising", "Super Glitter Rush", "An Airport For Aliens Currently Run By Dogs", "Yoku's Island Express" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/humble-15-for-15-spring-2026",
   "name" : "Humble 15 for $15 - Spring 2026",
   "endDate" : 1776301200000,
@@ -105,7 +97,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/alister-alliance-bundle",
   "name" : "The ESA All-Star Alliance Bundle",
-  "endDate" : 1774659600000,
+  "endDate" : 1775264400000,
   "choices" : [ {
     "price" : 18.6,
     "games" : [ "Pentiment", "Mafia: Trilogy", "Horizon Chase 2", "Tetris Forever", "Far Cry® Primal Standard Edition", "Dishonored 2", "State of Decay 2: Juggernaut Edition", "Harry Potter: Quidditch Champions" ]
