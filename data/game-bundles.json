@@ -84,6 +84,17 @@
     "games" : [ "Retail Company Simulator", "Clone Drone in the Danger Zone", "Keep Talking and Nobody Explodes", "Party Club", "Bogos Binted" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/sekai-project-2026",
+  "name" : "Sekai Project 2026",
+  "endDate" : 1776474000000,
+  "choices" : [ {
+    "price" : 15.51,
+    "games" : [ "Nie No Hakoniwa - Dollhouse of Offerings", "My Girlfriend's Special Place", "Island Diary", "Ninja Girl and the Mysterious Army of Urban Legend Monsters! ~Hunt of the Headless Horseman~", "Ne no Kami: The Two Princess Knights of Kyoto", "Ne no Kami - The Two Princess Knights of Kyoto Part 2", "NEKOPARA Vol. 4", "NEKOPARA Vol. 3", "NEKOPARA Extra", "KARAKARA2", "Just Deserts", "WORLD END ECONOMiCA episode.03", "WORLD END ECONOMiCA episode.02", "WORLD END ECONOMiCA episode.01", "Memory's Dogma CODE:01", "NEKOPARA Vol. 2", "NEKOPARA Vol. 1", "NEKOPARA Vol. 0", "Japanese School Life", "KARAKARA" ]
+  }, {
+    "price" : 9.31,
+    "games" : [ "Just Deserts", "WORLD END ECONOMiCA episode.03", "WORLD END ECONOMiCA episode.02", "WORLD END ECONOMiCA episode.01", "Memory's Dogma CODE:01", "NEKOPARA Vol. 2", "NEKOPARA Vol. 1", "NEKOPARA Vol. 0", "Japanese School Life", "KARAKARA" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/strategic-minds-collection",
   "name" : "Strategic Minds Collection",
   "endDate" : 1776906000000,
