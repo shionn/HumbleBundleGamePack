@@ -1,18 +1,4 @@
 [ {
-  "url" : "https://www.humblebundle.com/games/best-boomer-shooters-5-penta-boom",
-  "name" : "Best of Boomer Shooters 5: Penta Boom",
-  "endDate" : 1775091600000,
-  "choices" : [ {
-    "price" : 20.36,
-    "games" : [ "SULFUR", "Metal Eden", "Killing Time Resurrected", "Fida Puti Samurai", "Slayers X: Terminal Aftermath: Vengance of the Slayer", "Shooty Shooty Robot Invasion", "Immortal Redneck" ]
-  }, {
-    "price" : 12.21,
-    "games" : [ "Killing Time Resurrected", "Fida Puti Samurai", "Slayers X: Terminal Aftermath: Vengance of the Slayer", "Shooty Shooty Robot Invasion", "Immortal Redneck" ]
-  }, {
-    "price" : 7.12,
-    "games" : [ "Slayers X: Terminal Aftermath: Vengance of the Slayer", "Shooty Shooty Robot Invasion", "Immortal Redneck" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/best-of-humble-fight-4-your-friends",
   "name" : "Best of Humble: Fight 4 Your Friends",
   "endDate" : 1776906000000,
@@ -30,17 +16,6 @@
   "choices" : [ {
     "price" : 12.54,
     "games" : [ "5D Chess With Multiverse Time Travel", "Chess Ultra", "Pawnbarian", "The Ouroboros King", "Gambit Shifter", "Below the Crown", "Dark Chess", "WizardChess", "Usurper", "The Rookery", "Chessarama" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/frictional-games-amnesia-soma-penumbra",
-  "name" : "Frictional Games: Amnesia, SOMA, Penumbra",
-  "endDate" : 1775091600000,
-  "choices" : [ {
-    "price" : 15.38,
-    "games" : [ "Amnesia: The Bunker", "SOMA", "Amnesia: Rebirth", "Amnesia: A Machine For Pigs", "Amnesia: The Dark Descent", "Penumbra Collectors Pack" ]
-  }, {
-    "price" : 10.24,
-    "games" : [ "Amnesia: Rebirth", "Amnesia: A Machine For Pigs", "Amnesia: The Dark Descent", "Penumbra Collectors Pack" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/humble-15-for-15-spring-2026",
@@ -72,7 +47,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/metroidvania-mayhem-bundle",
   "name" : "Metroidvania Mayhem Bundle",
-  "endDate" : 1775091600000,
+  "endDate" : 1775696400000,
   "choices" : [ {
     "price" : 12.44,
     "games" : [ "Gestalt: Steam & Cinder", "Primal Planet", "The Devil Within: Satgat", "Kingdom Shell", "Lost Ruins", "Ultros - Deluxe Edition", "F.I.S.T.: Forged In Shadow Torch", "Rabi-Ribi", "Aeterna Noctis", "MIO: Memories in Orbit Coupon (20% Discount)" ]
