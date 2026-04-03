@@ -1,4 +1,12 @@
 [ {
+  "url" : "https://www.humblebundle.com/games/2k-tactics-tycoons",
+  "name" : "2K Tactics & Tycoons",
+  "endDate" : 1777078800000,
+  "choices" : [ {
+    "price" : 8.35,
+    "games" : [ "Homeworld Remastered Collection", "Homeworld: Deserts of Kharak Deluxe Edition", "CivCity Rome", "Railroad Tycoon 3", "Railroad Tycoon II Platinum", "Army Men", "Army Men 2", "Army Men: Toys in Space", "Army Men: RTS", "Shattered Union", "Freedom Force", "Freedom Force vs. the Third Reich" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/best-of-humble-fight-4-your-friends",
   "name" : "Best of Humble: Fight 4 Your Friends",
   "endDate" : 1776906000000,
