@@ -67,17 +67,6 @@
     "games" : [ "F.I.S.T.: Forged In Shadow Torch", "Rabi-Ribi", "Aeterna Noctis", "MIO: Memories in Orbit Coupon (20% Discount)" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/multiplayer-madness-2026",
-  "name" : "Multiplayer Madness 2026",
-  "endDate" : 1775264400000,
-  "choices" : [ {
-    "price" : 12.45,
-    "games" : [ "Shotgun Farmers", "Shotgun Farmers: Supporter Pack (DLC)", "Phantom Squad", "Fish Stick Protocol", "Rungore", "Retail Company Simulator", "Clone Drone in the Danger Zone", "Keep Talking and Nobody Explodes", "Party Club", "Bogos Binted" ]
-  }, {
-    "price" : 7.26,
-    "games" : [ "Retail Company Simulator", "Clone Drone in the Danger Zone", "Keep Talking and Nobody Explodes", "Party Club", "Bogos Binted" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/sekai-project-2026",
   "name" : "Sekai Project 2026",
   "endDate" : 1776474000000,
@@ -98,16 +87,5 @@
   }, {
     "price" : 10.44,
     "games" : [ "Old World", "Songs of Conquest", "Valkyria Chronicles 4 Complete Edition" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/alister-alliance-bundle",
-  "name" : "The ESA All-Star Alliance Bundle",
-  "endDate" : 1775264400000,
-  "choices" : [ {
-    "price" : 18.6,
-    "games" : [ "Pentiment", "Mafia: Trilogy", "Horizon Chase 2", "Tetris Forever", "Far Cry® Primal Standard Edition", "Dishonored 2", "State of Decay 2: Juggernaut Edition", "Harry Potter: Quidditch Champions" ]
-  }, {
-    "price" : 10.33,
-    "games" : [ "Far Cry® Primal Standard Edition", "Dishonored 2", "State of Decay 2: Juggernaut Edition", "Harry Potter: Quidditch Champions" ]
   } ]
 } ]
