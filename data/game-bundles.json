@@ -20,10 +20,41 @@
 }, {
   "url" : "https://www.humblebundle.com/games/checkmate-chess-games-collection",
   "name" : "Checkmate! A Chess Games Collection",
-  "endDate" : 1775671200000,
+  "endDate" : 1776301200000,
   "choices" : [ {
     "price" : 12.54,
     "games" : [ "5D Chess With Multiverse Time Travel", "Chess Ultra", "Pawnbarian", "The Ouroboros King", "Gambit Shifter", "Below the Crown", "Dark Chess", "WizardChess", "Usurper", "The Rookery", "Chessarama" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/destiny-2-expansions-bundle-2026",
+  "name" : "Destiny 2: Expansions Bundle 2026",
+  "endDate" : 1777510800000,
+  "choices" : [ {
+    "price" : 29.14,
+    "games" : [ "Destiny 2: Year of Prophecy Ultimate Edition", "Marathon 25% Coupon", "Destiny 2: Renegades", "Destiny 2: The Edge of Fate", "Destiny 2: The Final Shape", "Destiny 2: Lightfall", "Destiny 2: The Witch Queen", "Destiny 2: Bungie 30th Anniversary Pack", "Destiny 2: Beyond Light", "Destiny 2: Shadowkeep Pack", "Destiny 2: Forsaken Pack" ]
+  }, {
+    "price" : 20.82,
+    "games" : [ "Destiny 2: Renegades", "Destiny 2: The Edge of Fate", "Destiny 2: The Final Shape", "Destiny 2: Lightfall", "Destiny 2: The Witch Queen", "Destiny 2: Bungie 30th Anniversary Pack", "Destiny 2: Beyond Light", "Destiny 2: Shadowkeep Pack", "Destiny 2: Forsaken Pack" ]
+  }, {
+    "price" : 10.4,
+    "games" : [ "Destiny 2: The Edge of Fate", "Destiny 2: The Final Shape", "Destiny 2: Lightfall", "Destiny 2: The Witch Queen", "Destiny 2: Bungie 30th Anniversary Pack", "Destiny 2: Beyond Light", "Destiny 2: Shadowkeep Pack", "Destiny 2: Forsaken Pack" ]
+  }, {
+    "price" : 4.16,
+    "games" : [ "Destiny 2: Beyond Light", "Destiny 2: Shadowkeep Pack", "Destiny 2: Forsaken Pack" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/15-golden-tales-bundle",
+  "name" : "Humble 15 Golden Tales Bundle",
+  "endDate" : 1777683600000,
+  "choices" : [ {
+    "price" : 18.44,
+    "games" : [ "The Invincible", "In Stars and Time", "SEASON: A letter to the future", "Broken Sword - Shadow of the Templars: Reforged", "Harold Halibut", "As Dusk Falls", "Suzerain", "South of the Circle" ]
+  }, {
+    "price" : 15.37,
+    "games" : [ "Broken Sword - Shadow of the Templars: Reforged", "Harold Halibut", "As Dusk Falls", "Suzerain", "South of the Circle" ]
+  }, {
+    "price" : 10.24,
+    "games" : [ "As Dusk Falls", "Suzerain", "South of the Circle" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/humble-15-for-15-spring-2026",
@@ -53,20 +84,6 @@
     "games" : [ "Juno: New Origins", "Super Loco World", "The Slaverian Trucker", "Simple Planes" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/metroidvania-mayhem-bundle",
-  "name" : "Metroidvania Mayhem Bundle",
-  "endDate" : 1775696400000,
-  "choices" : [ {
-    "price" : 12.44,
-    "games" : [ "Gestalt: Steam & Cinder", "Primal Planet", "The Devil Within: Satgat", "Kingdom Shell", "Lost Ruins", "Ultros - Deluxe Edition", "F.I.S.T.: Forged In Shadow Torch", "Rabi-Ribi", "Aeterna Noctis", "MIO: Memories in Orbit Coupon (20% Discount)" ]
-  }, {
-    "price" : 9.33,
-    "games" : [ "Lost Ruins", "Ultros - Deluxe Edition", "F.I.S.T.: Forged In Shadow Torch", "Rabi-Ribi", "Aeterna Noctis", "MIO: Memories in Orbit Coupon (20% Discount)" ]
-  }, {
-    "price" : 6.21,
-    "games" : [ "F.I.S.T.: Forged In Shadow Torch", "Rabi-Ribi", "Aeterna Noctis", "MIO: Memories in Orbit Coupon (20% Discount)" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/sekai-project-2026",
   "name" : "Sekai Project 2026",
   "endDate" : 1776474000000,
@@ -78,6 +95,17 @@
     "games" : [ "Just Deserts", "WORLD END ECONOMiCA episode.03", "WORLD END ECONOMiCA episode.02", "WORLD END ECONOMiCA episode.01", "Memory's Dogma CODE:01", "NEKOPARA Vol. 2", "NEKOPARA Vol. 1", "NEKOPARA Vol. 0", "Japanese School Life", "KARAKARA" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/sovereign-sandbox-bundle",
+  "name" : "Sovereign Sandbox Bundle",
+  "endDate" : 1777510800000,
+  "choices" : [ {
+    "price" : 18.73,
+    "games" : [ "Prehistoric Kingdom", "Worshippers of Cthulhu", "The Universim", "Overthrown", "Nova Lands", "Wildmender", "Ctrl Alt Ego", "My Little Universe: Complete Edition" ]
+  }, {
+    "price" : 10.4,
+    "games" : [ "Nova Lands", "Wildmender", "Ctrl Alt Ego", "My Little Universe: Complete Edition" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/strategic-minds-collection",
   "name" : "Strategic Minds Collection",
   "endDate" : 1776906000000,
@@ -87,5 +115,16 @@
   }, {
     "price" : 10.44,
     "games" : [ "Old World", "Songs of Conquest", "Valkyria Chronicles 4 Complete Edition" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/tower-defense-2",
+  "name" : "Tower Defense 2",
+  "endDate" : 1777683600000,
+  "choices" : [ {
+    "price" : 13.52,
+    "games" : [ "Thronefall", "Affogato", "Axon TD: Uprising - Tower Defense", "Orcs Must Die 3 Complete", "Dungeon Defenders: Awakened", "Border Pioneer", "Kingdom Rush Origins - Tower Defense", "Legion TD 2 - Multiplayer Tower Defense", "Tower Escape", "COUPON 25% OFF Kingdom Rush 5 Alliance TD" ]
+  }, {
+    "price" : 7.28,
+    "games" : [ "Border Pioneer", "Kingdom Rush Origins - Tower Defense", "Legion TD 2 - Multiplayer Tower Defense", "Tower Escape", "COUPON 25% OFF Kingdom Rush 5 Alliance TD" ]
   } ]
 } ]
