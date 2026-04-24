@@ -7,25 +7,6 @@
     "games" : [ "Homeworld Remastered Collection", "Homeworld: Deserts of Kharak Deluxe Edition", "CivCity Rome", "Railroad Tycoon 3", "Railroad Tycoon II Platinum", "Army Men", "Army Men 2", "Army Men: Toys in Space", "Army Men: RTS", "Shattered Union", "Freedom Force", "Freedom Force vs. the Third Reich" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/best-of-humble-fight-4-your-friends",
-  "name" : "Best of Humble: Fight 4 Your Friends",
-  "endDate" : 1776906000000,
-  "choices" : [ {
-    "price" : 10.34,
-    "games" : [ "Back 4 Blood: Deluxe Edition", "Zombie Army 4", "Warhammer: Vermintide 2: Collector's Edition", "Killing Floor 2 - Digital Deluxe Edition+ Season 1 and Season 2 Passes", "The Anacrusis", "Zombie Army Trilogy" ]
-  }, {
-    "price" : 7.23,
-    "games" : [ "Warhammer: Vermintide 2: Collector's Edition", "Killing Floor 2 - Digital Deluxe Edition+ Season 1 and Season 2 Passes", "The Anacrusis", "Zombie Army Trilogy" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/checkmate-chess-games-collection",
-  "name" : "Checkmate! A Chess Games Collection",
-  "endDate" : 1776301200000,
-  "choices" : [ {
-    "price" : 12.54,
-    "games" : [ "5D Chess With Multiverse Time Travel", "Chess Ultra", "Pawnbarian", "The Ouroboros King", "Gambit Shifter", "Below the Crown", "Dark Chess", "WizardChess", "Usurper", "The Rookery", "Chessarama" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/destiny-2-expansions-bundle-2026",
   "name" : "Destiny 2: Expansions Bundle 2026",
   "endDate" : 1777510800000,
@@ -43,6 +24,17 @@
     "games" : [ "Destiny 2: Beyond Light", "Destiny 2: Shadowkeep Pack", "Destiny 2: Forsaken Pack" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/fore-golf-games-bundle-games",
+  "name" : "Fore! A Golf Games Bundle",
+  "endDate" : 1778893200000,
+  "choices" : [ {
+    "price" : 12.21,
+    "games" : [ "4D Golf", "Dungeon Golf", "Golfie", "A Little Golf Journey", "WHAT THE GOLF?", "Golf Peaks", "Grass Gnome Golf", "Dangerous Golf", "100FT Robot Golf", "Golfinite" ]
+  }, {
+    "price" : 8.14,
+    "games" : [ "WHAT THE GOLF?", "Golf Peaks", "Grass Gnome Golf", "Dangerous Golf", "100FT Robot Golf", "Golfinite" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/15-golden-tales-bundle",
   "name" : "Humble 15 Golden Tales Bundle",
   "endDate" : 1777683600000,
@@ -57,42 +49,51 @@
     "games" : [ "As Dusk Falls", "Suzerain", "South of the Circle" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/humble-15-for-15-spring-2026",
-  "name" : "Humble 15 for $15 - Spring 2026",
-  "endDate" : 1776301200000,
+  "url" : "https://www.humblebundle.com/games/humble-15-for-15-april-2026",
+  "name" : "Humble 15 for $15 - April 2026",
+  "endDate" : 1778115600000,
   "choices" : [ {
-    "price" : 15.67,
-    "games" : [ "Rocket Rats", "Necroking", "Kingsgrave", "The Invisible Hand", "DISTRAINT 2", "DISTRAINT: Deluxe Edition", "Pile Up! Box by Box", "Technotopia", "LUNARK", "Dropsy: Warm Damp Hug Edition", "Orten Was The Case", "Undead West", "Janosik 2", "Glitchhikers: The Spaces Between", "ION Shift" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/humble-heroines-echoes-voids-and-visions",
-  "name" : "Humble Heroines: Echoes, Voids, and Visions",
-  "endDate" : 1776301200000,
-  "choices" : [ {
-    "price" : 18.67,
-    "games" : [ "The Medium", "Sorry We're Closed", "Eastward", "ANNO: Mutationem", "Cabernet", "Ereban: Shadow Legacy" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/metro-mania-planes-trains-and-automobiles",
-  "name" : "Metro Mania: Planes, Trains, and Automobiles!",
-  "endDate" : 1775869200000,
-  "choices" : [ {
-    "price" : 16.69,
-    "games" : [ "Expeditions: A Mudrunner Game", "Railbound", "You Suck at Parking® - Complete Edition", "Railroads Online", "Juno: New Origins", "Super Loco World", "The Slaverian Trucker", "Simple Planes" ]
+    "price" : 15.36,
+    "games" : [ "Chip n Clawz vs. The Brainioids", "Pinball Spire", "Hello Neighbor: Hide and Seek", "Black Skylands", "UnMetal", "The Dark Queen of Mortholme", "Streets of Rogue", "Embr", "UFO: Unidentified Falling Objects", "Blacksmith: Ignite the Forge", "Dragon Eclipse", "Gun Frog", "Patch Quest", "Yaga", "An Elder Scrolls Legend: Battlespire" ]
   }, {
-    "price" : 8.34,
-    "games" : [ "Juno: New Origins", "Super Loco World", "The Slaverian Trucker", "Simple Planes" ]
+    "price" : 10.23,
+    "games" : [ "The Dark Queen of Mortholme", "Streets of Rogue", "Embr", "UFO: Unidentified Falling Objects", "Blacksmith: Ignite the Forge", "Dragon Eclipse", "Gun Frog", "Patch Quest", "Yaga", "An Elder Scrolls Legend: Battlespire" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/mecha-mania",
+  "name" : "MECHA MANIA",
+  "endDate" : 1778893200000,
+  "choices" : [ {
+    "price" : 14.28,
+    "games" : [ "M.A.S.S. Builder", "Bounty Star", "Vox Machinae", "Oblivion Override", "Project MIKHAIL: A Muv-Luv War Story", "Mechabellum", "UFO ROBOT GRENDIZER - The Feast of the Wolves", "Star Renegades", "Mech Mechanic Simulator" ]
+  }, {
+    "price" : 12.24,
+    "games" : [ "Vox Machinae", "Oblivion Override", "Project MIKHAIL: A Muv-Luv War Story", "Mechabellum", "UFO ROBOT GRENDIZER - The Feast of the Wolves", "Star Renegades", "Mech Mechanic Simulator" ]
+  }, {
+    "price" : 9.18,
+    "games" : [ "Mechabellum", "UFO ROBOT GRENDIZER - The Feast of the Wolves", "Star Renegades", "Mech Mechanic Simulator" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/sekai-project-2026",
   "name" : "Sekai Project 2026",
-  "endDate" : 1776474000000,
+  "endDate" : 1777078800000,
   "choices" : [ {
     "price" : 15.51,
     "games" : [ "Nie No Hakoniwa - Dollhouse of Offerings", "My Girlfriend's Special Place", "Island Diary", "Ninja Girl and the Mysterious Army of Urban Legend Monsters! ~Hunt of the Headless Horseman~", "Ne no Kami: The Two Princess Knights of Kyoto", "Ne no Kami - The Two Princess Knights of Kyoto Part 2", "NEKOPARA Vol. 4", "NEKOPARA Vol. 3", "NEKOPARA Extra", "KARAKARA2", "Just Deserts", "WORLD END ECONOMiCA episode.03", "WORLD END ECONOMiCA episode.02", "WORLD END ECONOMiCA episode.01", "Memory's Dogma CODE:01", "NEKOPARA Vol. 2", "NEKOPARA Vol. 1", "NEKOPARA Vol. 0", "Japanese School Life", "KARAKARA" ]
   }, {
     "price" : 9.31,
     "games" : [ "Just Deserts", "WORLD END ECONOMiCA episode.03", "WORLD END ECONOMiCA episode.02", "WORLD END ECONOMiCA episode.01", "Memory's Dogma CODE:01", "NEKOPARA Vol. 2", "NEKOPARA Vol. 1", "NEKOPARA Vol. 0", "Japanese School Life", "KARAKARA" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/sharp-shooters-bundle",
+  "name" : "Sharp Shooters Bundle",
+  "endDate" : 1778115600000,
+  "choices" : [ {
+    "price" : 15.39,
+    "games" : [ "Earth Defense Force 5", "Wildgate", "Strike Force Heroes", "OUTRIDERS", "Way of the Hunter", "Receiver 2", "Holy Shoot" ]
+  }, {
+    "price" : 10.26,
+    "games" : [ "OUTRIDERS", "Way of the Hunter", "Receiver 2", "Holy Shoot" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/sovereign-sandbox-bundle",
@@ -106,9 +107,23 @@
     "games" : [ "Nova Lands", "Wildmender", "Ctrl Alt Ego", "My Little Universe: Complete Edition" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/speak-to-manager",
+  "name" : "Speak to the Manager",
+  "endDate" : 1778288400000,
+  "choices" : [ {
+    "price" : 12.21,
+    "games" : [ "Good Company", "Empires of the Undergrowth", "The Colonists", "The Colonists - New Lands", "Lawn Mowing Simulator", "Endzone - A World Apart Complete Edition", "Gladiator Guild Manager", "Sweet Transit", "Rise of Industry", "Rise of Industry: 2130" ]
+  }, {
+    "price" : 9.16,
+    "games" : [ "Endzone - A World Apart Complete Edition", "Gladiator Guild Manager", "Sweet Transit", "Rise of Industry", "Rise of Industry: 2130" ]
+  }, {
+    "price" : 7.12,
+    "games" : [ "Gladiator Guild Manager", "Sweet Transit", "Rise of Industry", "Rise of Industry: 2130" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/strategic-minds-collection",
   "name" : "Strategic Minds Collection",
-  "endDate" : 1776906000000,
+  "endDate" : 1777510800000,
   "choices" : [ {
     "price" : 18.8,
     "games" : [ "Terminator: Dark Fate - Defiance", "The Last Spell", "Galactic Civilizations IV: Supernova Edition", "Showgunners Deluxe Edition", "Old World", "Songs of Conquest", "Valkyria Chronicles 4 Complete Edition" ]
@@ -126,5 +141,41 @@
   }, {
     "price" : 7.28,
     "games" : [ "Border Pioneer", "Kingdom Rush Origins - Tower Defense", "Legion TD 2 - Multiplayer Tower Defense", "Tower Escape", "COUPON 25% OFF Kingdom Rush 5 Alliance TD" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/train-sim-world-6-first-class-ticket-bundle",
+  "name" : "Train Sim World 6: First Class Ticket Bundle",
+  "endDate" : 1778288400000,
+  "choices" : [ {
+    "price" : 15.39,
+    "games" : [ "Great Western Express Remastered", "Pfalzische Ludwigsbahn: Mannheim - Kaiserslautern", "Diesel Legends of the Great Western", "Holiday Train Pack", "East Coast Main Line: Peterborough - Doncaster Route Add-On", "LNER Class A3 60103 Flying Scotsman Steam Loco Add-On", "Train Sim World 6: Training Center", "San Bernardino Line: Los Angeles - San Bernardino", "Coupon for Train Sim World 6: Special Edition 50% off", "Coupon for Train Sim World 6: Deluxe Edition 50% off", "Coupon for Train Sim World 6: Standard Edition 50% off" ]
+  }, {
+    "price" : 10.26,
+    "games" : [ "Train Sim World 6: Training Center", "San Bernardino Line: Los Angeles - San Bernardino", "Coupon for Train Sim World 6: Special Edition 50% off", "Coupon for Train Sim World 6: Deluxe Edition 50% off", "Coupon for Train Sim World 6: Standard Edition 50% off" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/vr-kiwi-bundle",
+  "name" : "VR Kiwi Complete Collection",
+  "endDate" : 1778720400000,
+  "choices" : [ {
+    "price" : 10.2,
+    "games" : [ "Pirates VR: Jolly Roger", "Virtual Hunter", "Stilt", "Cave Digger 2: Dig Harder", "Cave Digger", "Survivorman VR: The Descent", "Ashen Arrows", "Lofi Katana", "Towers & Powers", "Seeker: My Shadow", "Operation Serpens", "ArtPulse" ]
+  }, {
+    "price" : 5.1,
+    "games" : [ "Survivorman VR: The Descent", "Ashen Arrows", "Lofi Katana", "Towers & Powers", "Seeker: My Shadow", "Operation Serpens", "ArtPulse" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/your-move-turn-based-games",
+  "name" : "Your Move: Turn Based Games",
+  "endDate" : 1778720400000,
+  "choices" : [ {
+    "price" : 12.2,
+    "games" : [ "Moonbreaker", "Deep Sleep: Labyrinth of the Forsaken", "Abalon: Roguelike Tactics CCG", "Dungeons of Aether", "Battle Chasers: Nightwar", "For the King 2", "Crowntrick", "Legend of Kingdom Rush", "30% Off For The King II: Tinkerers Of Fate Character Pack", "30%-off voucher FTK2 Fallen Oaths DLCs" ]
+  }, {
+    "price" : 10.16,
+    "games" : [ "Dungeons of Aether", "Battle Chasers: Nightwar", "For the King 2", "Crowntrick", "Legend of Kingdom Rush", "30% Off For The King II: Tinkerers Of Fate Character Pack", "30%-off voucher FTK2 Fallen Oaths DLCs" ]
+  }, {
+    "price" : 5.07,
+    "games" : [ "Crowntrick", "Legend of Kingdom Rush", "30% Off For The King II: Tinkerers Of Fate Character Pack", "30%-off voucher FTK2 Fallen Oaths DLCs" ]
   } ]
 } ]
