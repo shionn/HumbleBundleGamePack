@@ -1,15 +1,21 @@
 [ {
-  "url" : "https://www.humblebundle.com/games/2k-tactics-tycoons",
-  "name" : "2K Tactics & Tycoons",
-  "endDate" : 1777078800000,
+  "url" : "https://www.humblebundle.com/games/dead-rising-shop-til-you-drop-bundle",
+  "name" : "Dead Rising: Shop 'Til You Drop Bundle",
+  "endDate" : 1779325200000,
   "choices" : [ {
-    "price" : 8.35,
-    "games" : [ "Homeworld Remastered Collection", "Homeworld: Deserts of Kharak Deluxe Edition", "CivCity Rome", "Railroad Tycoon 3", "Railroad Tycoon II Platinum", "Army Men", "Army Men 2", "Army Men: Toys in Space", "Army Men: RTS", "Shattered Union", "Freedom Force", "Freedom Force vs. the Third Reich" ]
+    "price" : 35.79,
+    "games" : [ "Dead Rising 2", "Dead Rising 2 Off the Record", "Dead Rising 3", "Dead Rising 4", "Dead Rising Deluxe Remaster" ]
+  }, {
+    "price" : 28.63,
+    "games" : [ "Dead Rising 3", "Dead Rising 4", "Dead Rising Deluxe Remaster" ]
+  }, {
+    "price" : 20.44,
+    "games" : [ "Dead Rising Deluxe Remaster" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/destiny-2-expansions-bundle-2026",
   "name" : "Destiny 2: Expansions Bundle 2026",
-  "endDate" : 1777510800000,
+  "endDate" : 1778115600000,
   "choices" : [ {
     "price" : 29.14,
     "games" : [ "Destiny 2: Year of Prophecy Ultimate Edition", "Marathon 25% Coupon", "Destiny 2: Renegades", "Destiny 2: The Edge of Fate", "Destiny 2: The Final Shape", "Destiny 2: Lightfall", "Destiny 2: The Witch Queen", "Destiny 2: Bungie 30th Anniversary Pack", "Destiny 2: Beyond Light", "Destiny 2: Shadowkeep Pack", "Destiny 2: Forsaken Pack" ]
@@ -33,20 +39,6 @@
   }, {
     "price" : 8.14,
     "games" : [ "WHAT THE GOLF?", "Golf Peaks", "Grass Gnome Golf", "Dangerous Golf", "100FT Robot Golf", "Golfinite" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/15-golden-tales-bundle",
-  "name" : "Humble 15 Golden Tales Bundle",
-  "endDate" : 1777683600000,
-  "choices" : [ {
-    "price" : 18.44,
-    "games" : [ "The Invincible", "In Stars and Time", "SEASON: A letter to the future", "Broken Sword - Shadow of the Templars: Reforged", "Harold Halibut", "As Dusk Falls", "Suzerain", "South of the Circle" ]
-  }, {
-    "price" : 15.37,
-    "games" : [ "Broken Sword - Shadow of the Templars: Reforged", "Harold Halibut", "As Dusk Falls", "Suzerain", "South of the Circle" ]
-  }, {
-    "price" : 10.24,
-    "games" : [ "As Dusk Falls", "Suzerain", "South of the Circle" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/humble-15-for-15-april-2026",
@@ -74,15 +66,26 @@
     "games" : [ "Mechabellum", "UFO ROBOT GRENDIZER - The Feast of the Wolves", "Star Renegades", "Mech Mechanic Simulator" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/sekai-project-2026",
-  "name" : "Sekai Project 2026",
-  "endDate" : 1777078800000,
+  "url" : "https://www.humblebundle.com/games/mexican-entertainment-system-bundle",
+  "name" : "Mexican Entertainment System Bundle",
+  "endDate" : 1779498000000,
   "choices" : [ {
-    "price" : 15.51,
-    "games" : [ "Nie No Hakoniwa - Dollhouse of Offerings", "My Girlfriend's Special Place", "Island Diary", "Ninja Girl and the Mysterious Army of Urban Legend Monsters! ~Hunt of the Headless Horseman~", "Ne no Kami: The Two Princess Knights of Kyoto", "Ne no Kami - The Two Princess Knights of Kyoto Part 2", "NEKOPARA Vol. 4", "NEKOPARA Vol. 3", "NEKOPARA Extra", "KARAKARA2", "Just Deserts", "WORLD END ECONOMiCA episode.03", "WORLD END ECONOMiCA episode.02", "WORLD END ECONOMiCA episode.01", "Memory's Dogma CODE:01", "NEKOPARA Vol. 2", "NEKOPARA Vol. 1", "NEKOPARA Vol. 0", "Japanese School Life", "KARAKARA" ]
+    "price" : 12.31,
+    "games" : [ "RKGK / Rakugaki", "Lonesome Village", "A Tiny Sticker Tale", "Idle Waters", "PancitoMerge", "Desktop Fishes", "Another Crusade", "Mulaka", "The end is nahual: If I may say so", "Re:Fresh", "SO BELOW", "Pato Box" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/playism-publisher-bundle-2026",
+  "name" : "PLAYISM Publisher Bundle - 2026",
+  "endDate" : 1779325200000,
+  "choices" : [ {
+    "price" : 13.24,
+    "games" : [ "Bright Memory: Infinite", "DEEEER Simulator: Your Average Everyday Deer Game", "The Star Named EOS", "Mind Diver", "The Good Life", "Drago Noka", "Bright Memory", "The Exit 8", "Platform 8", "Astebreed: Definitive Edition", "Samurai Bringer", "Giraffe and Annika", "The Sealed Ampoule", "Urban Legend Hunters 2: Double", "Fight Crab", "LiEat", "Croixleur Sigma - Deluxe Edition", "Break Arts II", "Strange Telephone" ]
   }, {
-    "price" : 9.31,
-    "games" : [ "Just Deserts", "WORLD END ECONOMiCA episode.03", "WORLD END ECONOMiCA episode.02", "WORLD END ECONOMiCA episode.01", "Memory's Dogma CODE:01", "NEKOPARA Vol. 2", "NEKOPARA Vol. 1", "NEKOPARA Vol. 0", "Japanese School Life", "KARAKARA" ]
+    "price" : 9.16,
+    "games" : [ "Drago Noka", "Bright Memory", "The Exit 8", "Platform 8", "Astebreed: Definitive Edition", "Samurai Bringer", "Giraffe and Annika", "The Sealed Ampoule", "Urban Legend Hunters 2: Double", "Fight Crab", "LiEat", "Croixleur Sigma - Deluxe Edition", "Break Arts II", "Strange Telephone" ]
+  }, {
+    "price" : 5.08,
+    "games" : [ "Fight Crab", "LiEat", "Croixleur Sigma - Deluxe Edition", "Break Arts II", "Strange Telephone" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/sharp-shooters-bundle",
@@ -98,7 +101,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/sovereign-sandbox-bundle",
   "name" : "Sovereign Sandbox Bundle",
-  "endDate" : 1777510800000,
+  "endDate" : 1778115600000,
   "choices" : [ {
     "price" : 18.73,
     "games" : [ "Prehistoric Kingdom", "Worshippers of Cthulhu", "The Universim", "Overthrown", "Nova Lands", "Wildmender", "Ctrl Alt Ego", "My Little Universe: Complete Edition" ]
@@ -121,20 +124,9 @@
     "games" : [ "Gladiator Guild Manager", "Sweet Transit", "Rise of Industry", "Rise of Industry: 2130" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/strategic-minds-collection",
-  "name" : "Strategic Minds Collection",
-  "endDate" : 1777510800000,
-  "choices" : [ {
-    "price" : 18.8,
-    "games" : [ "Terminator: Dark Fate - Defiance", "The Last Spell", "Galactic Civilizations IV: Supernova Edition", "Showgunners Deluxe Edition", "Old World", "Songs of Conquest", "Valkyria Chronicles 4 Complete Edition" ]
-  }, {
-    "price" : 10.44,
-    "games" : [ "Old World", "Songs of Conquest", "Valkyria Chronicles 4 Complete Edition" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/tower-defense-2",
   "name" : "Tower Defense 2",
-  "endDate" : 1777683600000,
+  "endDate" : 1778288400000,
   "choices" : [ {
     "price" : 13.52,
     "games" : [ "Thronefall", "Affogato", "Axon TD: Uprising - Tower Defense", "Orcs Must Die 3 Complete", "Dungeon Defenders: Awakened", "Border Pioneer", "Kingdom Rush Origins - Tower Defense", "Legion TD 2 - Multiplayer Tower Defense", "Tower Escape", "COUPON 25% OFF Kingdom Rush 5 Alliance TD" ]
