@@ -1,4 +1,18 @@
 [ {
+  "url" : "https://www.humblebundle.com/games/creature-feature-bundle",
+  "name" : "Creature Feature Bundle",
+  "endDate" : 1780534800000,
+  "choices" : [ {
+    "price" : 13.33,
+    "games" : [ "Maestro", "Crime Shop Simulator: A Prison Boss Game", "The Light Brigade", "Deadly Delivery", "Budget Cuts Ultimate", "Thrasher", "Crossings", "Prison Boss VR", "Cubism" ]
+  }, {
+    "price" : 9.22,
+    "games" : [ "Deadly Delivery", "Budget Cuts Ultimate", "Thrasher", "Crossings", "Prison Boss VR", "Cubism" ]
+  }, {
+    "price" : 5.12,
+    "games" : [ "Prison Boss VR", "Cubism" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/dead-rising-shop-til-you-drop-bundle",
   "name" : "Dead Rising: Shop 'Til You Drop Bundle",
   "endDate" : 1779325200000,
