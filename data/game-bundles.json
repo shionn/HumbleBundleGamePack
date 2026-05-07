@@ -27,23 +27,6 @@
     "games" : [ "Dead Rising Deluxe Remaster" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/destiny-2-expansions-bundle-2026",
-  "name" : "Destiny 2: Expansions Bundle 2026",
-  "endDate" : 1778115600000,
-  "choices" : [ {
-    "price" : 29.14,
-    "games" : [ "Destiny 2: Year of Prophecy Ultimate Edition", "Marathon 25% Coupon", "Destiny 2: Renegades", "Destiny 2: The Edge of Fate", "Destiny 2: The Final Shape", "Destiny 2: Lightfall", "Destiny 2: The Witch Queen", "Destiny 2: Bungie 30th Anniversary Pack", "Destiny 2: Beyond Light", "Destiny 2: Shadowkeep Pack", "Destiny 2: Forsaken Pack" ]
-  }, {
-    "price" : 20.82,
-    "games" : [ "Destiny 2: Renegades", "Destiny 2: The Edge of Fate", "Destiny 2: The Final Shape", "Destiny 2: Lightfall", "Destiny 2: The Witch Queen", "Destiny 2: Bungie 30th Anniversary Pack", "Destiny 2: Beyond Light", "Destiny 2: Shadowkeep Pack", "Destiny 2: Forsaken Pack" ]
-  }, {
-    "price" : 10.4,
-    "games" : [ "Destiny 2: The Edge of Fate", "Destiny 2: The Final Shape", "Destiny 2: Lightfall", "Destiny 2: The Witch Queen", "Destiny 2: Bungie 30th Anniversary Pack", "Destiny 2: Beyond Light", "Destiny 2: Shadowkeep Pack", "Destiny 2: Forsaken Pack" ]
-  }, {
-    "price" : 4.16,
-    "games" : [ "Destiny 2: Beyond Light", "Destiny 2: Shadowkeep Pack", "Destiny 2: Forsaken Pack" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/fore-golf-games-bundle-games",
   "name" : "Fore! A Golf Games Bundle",
   "endDate" : 1778893200000,
@@ -53,17 +36,6 @@
   }, {
     "price" : 8.14,
     "games" : [ "WHAT THE GOLF?", "Golf Peaks", "Grass Gnome Golf", "Dangerous Golf", "100FT Robot Golf", "Golfinite" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/humble-15-for-15-april-2026",
-  "name" : "Humble 15 for $15 - April 2026",
-  "endDate" : 1778115600000,
-  "choices" : [ {
-    "price" : 15.36,
-    "games" : [ "Chip n Clawz vs. The Brainioids", "Pinball Spire", "Hello Neighbor: Hide and Seek", "Black Skylands", "UnMetal", "The Dark Queen of Mortholme", "Streets of Rogue", "Embr", "UFO: Unidentified Falling Objects", "Blacksmith: Ignite the Forge", "Dragon Eclipse", "Gun Frog", "Patch Quest", "Yaga", "An Elder Scrolls Legend: Battlespire" ]
-  }, {
-    "price" : 10.23,
-    "games" : [ "The Dark Queen of Mortholme", "Streets of Rogue", "Embr", "UFO: Unidentified Falling Objects", "Blacksmith: Ignite the Forge", "Dragon Eclipse", "Gun Frog", "Patch Quest", "Yaga", "An Elder Scrolls Legend: Battlespire" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/mecha-mania",
@@ -100,28 +72,6 @@
   }, {
     "price" : 5.08,
     "games" : [ "Fight Crab", "LiEat", "Croixleur Sigma - Deluxe Edition", "Break Arts II", "Strange Telephone" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/sharp-shooters-bundle",
-  "name" : "Sharp Shooters Bundle",
-  "endDate" : 1778115600000,
-  "choices" : [ {
-    "price" : 15.39,
-    "games" : [ "Earth Defense Force 5", "Wildgate", "Strike Force Heroes", "OUTRIDERS", "Way of the Hunter", "Receiver 2", "Holy Shoot" ]
-  }, {
-    "price" : 10.26,
-    "games" : [ "OUTRIDERS", "Way of the Hunter", "Receiver 2", "Holy Shoot" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/sovereign-sandbox-bundle",
-  "name" : "Sovereign Sandbox Bundle",
-  "endDate" : 1778115600000,
-  "choices" : [ {
-    "price" : 18.73,
-    "games" : [ "Prehistoric Kingdom", "Worshippers of Cthulhu", "The Universim", "Overthrown", "Nova Lands", "Wildmender", "Ctrl Alt Ego", "My Little Universe: Complete Edition" ]
-  }, {
-    "price" : 10.4,
-    "games" : [ "Nova Lands", "Wildmender", "Ctrl Alt Ego", "My Little Universe: Complete Edition" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/speak-to-manager",
