@@ -38,6 +38,14 @@
     "games" : [ "WHAT THE GOLF?", "Golf Peaks", "Grass Gnome Golf", "Dangerous Golf", "100FT Robot Golf", "Golfinite" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/heavenly-bullets",
+  "name" : "Heavenly Bullets",
+  "endDate" : 1780102800000,
+  "choices" : [ {
+    "price" : 10.24,
+    "games" : [ "Greedland", "Army of Ruin", "I Am Legion: Stand Survivors", "God Of Weapons", "God of Weapons: Eternal Nightmare", "Karate Survivor", "Keeper's Toll", "Pesticide Not Required", "Sodaman", "Entropy Survivors", "AK-xolotl: Together" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/mecha-mania",
   "name" : "MECHA MANIA",
   "endDate" : 1778893200000,
@@ -86,6 +94,17 @@
   }, {
     "price" : 7.12,
     "games" : [ "Gladiator Guild Manager", "Sweet Transit", "Rise of Industry", "Rise of Industry: 2130" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/ticket-to-ride-all-aboard-collection",
+  "name" : "Ticket to Ride: All Aboard Collection",
+  "endDate" : 1780102800000,
+  "choices" : [ {
+    "price" : 15.3,
+    "games" : [ "TTR: Heart of Africa Expansion", "TTR: Japan Expansion", "TTR: Legendary Asia Expansion", "TTR: India Expansion", "TTR: Europe Expansion + Europa 1912 Pack", "TTR: Nordic Expansion", "TTR: Switzerland Expansion", "TTR: Winterwonderland Bundle", "TTR: USA 1910 Pack", "TTR: San Francisco City Expansion", "Ticket to Ride", "Humble Store discount Coupon forPoland Expansion", "Humble Store discount coupon for Germany Expansion" ]
+  }, {
+    "price" : 10.2,
+    "games" : [ "TTR: Winterwonderland Bundle", "TTR: USA 1910 Pack", "TTR: San Francisco City Expansion", "Ticket to Ride", "Humble Store discount Coupon forPoland Expansion", "Humble Store discount coupon for Germany Expansion" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/tower-defense-2",
