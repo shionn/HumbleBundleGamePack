@@ -1,4 +1,15 @@
 [ {
+  "url" : "https://www.humblebundle.com/games/build-shuffle-battle",
+  "name" : "Build, Shuffle, Battle!",
+  "endDate" : 1780534800000,
+  "choices" : [ {
+    "price" : 15.28,
+    "games" : [ "Wildfrost", "The Spirit Lift", "Book of Hours", "Dogpile", "Deck of Haunts", "Knights in Tight Spaces", "Occlude", "Placid Plastic Deck" ]
+  }, {
+    "price" : 10.18,
+    "games" : [ "Dogpile", "Deck of Haunts", "Knights in Tight Spaces", "Occlude", "Placid Plastic Deck" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/creature-feature-bundle",
   "name" : "Creature Feature Bundle",
   "endDate" : 1779930000000,
@@ -44,6 +55,20 @@
   "choices" : [ {
     "price" : 10.24,
     "games" : [ "Greedland", "Army of Ruin", "God Of Weapons", "God of Weapons: Eternal Nightmare", "I Am Legion: Stand Survivors", "Karate Survivor", "Keeper's Toll", "Pesticide Not Required", "Sodaman", "Entropy Survivors", "AK-xolotl: Together" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/humble-15th-anniversary-indie-icons-showcase",
+  "name" : "Humble 15th Anniversary - Indie Icons Showcase",
+  "endDate" : 1780534800000,
+  "choices" : [ {
+    "price" : 10.2,
+    "games" : [ "Bloodstained: Ritual of the Night", "Risk of Rain Returns", "Citizen Sleeper", "Superhot", "The Witness", "Celeste", "Slime Rancher", "Starbound" ]
+  }, {
+    "price" : 8.16,
+    "games" : [ "Citizen Sleeper", "Superhot", "The Witness", "Celeste", "Slime Rancher", "Starbound" ]
+  }, {
+    "price" : 5.1,
+    "games" : [ "Celeste", "Slime Rancher", "Starbound" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/mecha-mania",
