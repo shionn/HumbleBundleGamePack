@@ -101,10 +101,10 @@
   "endDate" : 1780102800000,
   "choices" : [ {
     "price" : 15.3,
-    "games" : [ "TTR: Heart of Africa Expansion", "TTR: Japan Expansion", "TTR: Legendary Asia Expansion", "TTR: India Expansion", "TTR: Europe Expansion + Europa 1912 Pack", "TTR: Nordic Expansion", "TTR: Switzerland Expansion", "TTR: Winterwonderland Bundle", "TTR: USA 1910 Pack", "TTR: San Francisco City Expansion", "Ticket to Ride", "Humble Store discount coupon for Germany Expansion" ]
+    "games" : [ "TTR: Heart of Africa Expansion", "TTR: Japan Expansion", "TTR: Legendary Asia Expansion", "TTR: India Expansion", "TTR: Europe Expansion + Europa 1912 Pack", "TTR: Nordic Expansion", "TTR: Switzerland Expansion", "TTR: Winterwonderland Bundle", "TTR: USA 1910 Pack", "TTR: San Francisco City Expansion", "Ticket to Ride", "Humble Store discount coupon for Germany Expansion", "Humble Store discount Coupon forPoland Expansion" ]
   }, {
     "price" : 10.2,
-    "games" : [ "TTR: Winterwonderland Bundle", "TTR: USA 1910 Pack", "TTR: San Francisco City Expansion", "Ticket to Ride", "Humble Store discount coupon for Germany Expansion" ]
+    "games" : [ "TTR: Winterwonderland Bundle", "TTR: USA 1910 Pack", "TTR: San Francisco City Expansion", "Ticket to Ride", "Humble Store discount coupon for Germany Expansion", "Humble Store discount Coupon forPoland Expansion" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/vr-kiwi-bundle",
