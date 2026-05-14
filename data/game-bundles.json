@@ -132,20 +132,9 @@
     "games" : [ "TTR: Winterwonderland Bundle", "TTR: USA 1910 Pack", "TTR: San Francisco City Expansion", "Ticket to Ride", "Humble Store discount coupon for Germany Expansion", "Humble Store discount Coupon forPoland Expansion" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/vr-kiwi-bundle",
-  "name" : "VR Kiwi Complete Collection",
-  "endDate" : 1778720400000,
-  "choices" : [ {
-    "price" : 10.2,
-    "games" : [ "Pirates VR: Jolly Roger", "Virtual Hunter", "Stilt", "Cave Digger 2: Dig Harder", "Cave Digger", "Survivorman VR: The Descent", "Ashen Arrows", "Lofi Katana", "Towers & Powers", "Seeker: My Shadow", "Operation Serpens", "ArtPulse" ]
-  }, {
-    "price" : 5.1,
-    "games" : [ "Survivorman VR: The Descent", "Ashen Arrows", "Lofi Katana", "Towers & Powers", "Seeker: My Shadow", "Operation Serpens", "ArtPulse" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/your-move-turn-based-games",
   "name" : "Your Move: Turn Based Games",
-  "endDate" : 1778720400000,
+  "endDate" : 1779325200000,
   "choices" : [ {
     "price" : 12.2,
     "games" : [ "Moonbreaker", "Deep Sleep: Labyrinth of the Forsaken", "Abalon: Roguelike Tactics CCG", "Dungeons of Aether", "Battle Chasers: Nightwar", "For the King 2", "Crowntrick", "Legend of Kingdom Rush", "30% Off For The King II: Tinkerers Of Fate Character Pack", "30%-off voucher FTK2 Fallen Oaths DLCs" ]
