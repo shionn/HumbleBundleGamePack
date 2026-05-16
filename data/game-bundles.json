@@ -38,17 +38,6 @@
     "games" : [ "Dead Rising Deluxe Remaster" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/fore-golf-games-bundle-games",
-  "name" : "Fore! A Golf Games Bundle",
-  "endDate" : 1778893200000,
-  "choices" : [ {
-    "price" : 12.21,
-    "games" : [ "4D Golf", "Dungeon Golf", "Golfie", "A Little Golf Journey", "WHAT THE GOLF?", "Golf Peaks", "Grass Gnome Golf", "Dangerous Golf", "100FT Robot Golf", "Golfinite" ]
-  }, {
-    "price" : 8.14,
-    "games" : [ "WHAT THE GOLF?", "Golf Peaks", "Grass Gnome Golf", "Dangerous Golf", "100FT Robot Golf", "Golfinite" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/heavenly-bullets",
   "name" : "Heavenly Bullets",
   "endDate" : 1780102800000,
@@ -105,20 +94,6 @@
   }, {
     "price" : 5.08,
     "games" : [ "Fight Crab", "LiEat", "Croixleur Sigma - Deluxe Edition", "Break Arts II", "Strange Telephone" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/speak-to-manager",
-  "name" : "Speak to the Manager",
-  "endDate" : 1778893200000,
-  "choices" : [ {
-    "price" : 12.21,
-    "games" : [ "Good Company", "Empires of the Undergrowth", "The Colonists", "The Colonists - New Lands", "Lawn Mowing Simulator", "Endzone - A World Apart Complete Edition", "Gladiator Guild Manager", "Sweet Transit", "Rise of Industry", "Rise of Industry: 2130" ]
-  }, {
-    "price" : 9.16,
-    "games" : [ "Endzone - A World Apart Complete Edition", "Gladiator Guild Manager", "Sweet Transit", "Rise of Industry", "Rise of Industry: 2130" ]
-  }, {
-    "price" : 7.12,
-    "games" : [ "Gladiator Guild Manager", "Sweet Transit", "Rise of Industry", "Rise of Industry: 2130" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/ticket-to-ride-all-aboard-collection",
