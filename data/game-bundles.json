@@ -116,6 +116,20 @@
     "games" : [ "Fight Crab", "LiEat", "Croixleur Sigma - Deluxe Edition", "Break Arts II", "Strange Telephone" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/perplexing-puzzles",
+  "name" : "Perplexing Puzzles",
+  "endDate" : 1781139600000,
+  "choices" : [ {
+    "price" : 10.21,
+    "games" : [ "Viewfinder", "Taiji", "Parallel Experiment", "ILA: A Frosty Glide", "Abra Cooking Dabra", "Linkito", "Mind Over Magnet", "Proverbs", "Coupon for Beyond Words 30% Off", "Coupon for Botany Manor 40% Off", "Coupon for Paper Trail 75% Off" ]
+  }, {
+    "price" : 7.15,
+    "games" : [ "Abra Cooking Dabra", "Linkito", "Mind Over Magnet", "Proverbs", "Coupon for Beyond Words 30% Off", "Coupon for Botany Manor 40% Off", "Coupon for Paper Trail 75% Off" ]
+  }, {
+    "price" : 5.1,
+    "games" : [ "Mind Over Magnet", "Proverbs", "Coupon for Beyond Words 30% Off", "Coupon for Botany Manor 40% Off", "Coupon for Paper Trail 75% Off" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/ticket-to-ride-all-aboard-collection",
   "name" : "Ticket to Ride: All Aboard Collection",
   "endDate" : 1780102800000,
