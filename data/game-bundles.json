@@ -38,6 +38,17 @@
     "games" : [ "Dead Rising Deluxe Remaster" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/doubleshift-simulation-bundle",
+  "name" : "Double Shift: Simulation Bundle",
+  "endDate" : 1781139600000,
+  "choices" : [ {
+    "price" : 12.36,
+    "games" : [ "Youtubers Life 2", "Barn Finders", "Farmer's Life", "House Builder", "Firefighting Simulator - The Squad", "Underground Garage", "Barn Finders: Amerykan Dream", "Barn Finders: Bid Wars DLC", "Youtubers Life", "Electrician Simulator", "Bakery Simulator", "Brewmaster: Beer Brewing Simulator", "Purrrifiers: Cleaning Chaos Cats & Goofylike Co-op", "Castle Flipper", "Demolish & Build 2018", "Demolish & Build 2017", "Demolish & Build 3", "Accident", "Plane Accident" ]
+  }, {
+    "price" : 6.18,
+    "games" : [ "Youtubers Life", "Electrician Simulator", "Bakery Simulator", "Brewmaster: Beer Brewing Simulator", "Purrrifiers: Cleaning Chaos Cats & Goofylike Co-op", "Castle Flipper", "Demolish & Build 2018", "Demolish & Build 2017", "Demolish & Build 3", "Accident", "Plane Accident" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/heavenly-bullets",
   "name" : "Heavenly Bullets",
   "endDate" : 1780102800000,
