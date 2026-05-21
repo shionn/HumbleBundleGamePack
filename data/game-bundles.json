@@ -137,4 +137,18 @@
     "price" : 10.2,
     "games" : [ "TTR: Winterwonderland Bundle", "TTR: USA 1910 Pack", "TTR: San Francisco City Expansion", "Ticket to Ride", "Humble Store discount coupon for Germany Expansion", "Humble Store discount Coupon for Poland Expansion" ]
   } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/warhammer-skulls-2026-bundle",
+  "name" : "Warhammer Skulls 2026 Bundle",
+  "endDate" : 1781226000000,
+  "choices" : [ {
+    "price" : 10.3,
+    "games" : [ "Warhammer 40,000: Battlesector", "Warhammer 40,000: Battlesector - Tyranid Elites", "Warhammer 40,000: Battlesector - Blood Angels Elites", "Warhammer 40,000: Inquisitor - Martyr", "Warhammer 40,000: Dakka Squadron - Flyboyz Edition", "Warhammer 40,000: Gladius - Relics of War", "Warhammer 40,000: Gladius - T'au", "Warhammer 40,000: Inquisitor - Prophecy", "Blood Bowl 2: Legendary Edition (Classic)", "Space Hulk (Classic)" ]
+  }, {
+    "price" : 8.24,
+    "games" : [ "Warhammer 40,000: Dakka Squadron - Flyboyz Edition", "Warhammer 40,000: Gladius - Relics of War", "Warhammer 40,000: Gladius - T'au", "Warhammer 40,000: Inquisitor - Prophecy", "Blood Bowl 2: Legendary Edition (Classic)", "Space Hulk (Classic)" ]
+  }, {
+    "price" : 5.14,
+    "games" : [ "Warhammer 40,000: Inquisitor - Prophecy", "Blood Bowl 2: Legendary Edition (Classic)", "Space Hulk (Classic)" ]
+  } ]
 } ]
