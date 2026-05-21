@@ -24,20 +24,6 @@
     "games" : [ "Prison Boss VR", "Cubism" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/dead-rising-shop-til-you-drop-bundle",
-  "name" : "Dead Rising: Shop 'Til You Drop Bundle",
-  "endDate" : 1779325200000,
-  "choices" : [ {
-    "price" : 35.79,
-    "games" : [ "Dead Rising 2", "Dead Rising 2 Off the Record", "Dead Rising 3", "Dead Rising 4", "Dead Rising Deluxe Remaster" ]
-  }, {
-    "price" : 28.63,
-    "games" : [ "Dead Rising 3", "Dead Rising 4", "Dead Rising Deluxe Remaster" ]
-  }, {
-    "price" : 20.44,
-    "games" : [ "Dead Rising Deluxe Remaster" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/doubleshift-simulation-bundle",
   "name" : "Double Shift: Simulation Bundle",
   "endDate" : 1781139600000,
@@ -115,7 +101,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/playism-publisher-bundle-2026",
   "name" : "PLAYISM Publisher Bundle - 2026",
-  "endDate" : 1779325200000,
+  "endDate" : 1779930000000,
   "choices" : [ {
     "price" : 13.24,
     "games" : [ "Bright Memory: Infinite", "DEEEER Simulator: Your Average Everyday Deer Game", "The Star Named EOS", "Mind Diver", "The Good Life", "Drago Noka", "Bright Memory", "The Exit 8", "Platform 8", "Astebreed: Definitive Edition", "Samurai Bringer", "Giraffe and Annika", "The Sealed Ampoule", "Urban Legend Hunters 2: Double", "Fight Crab", "LiEat", "Croixleur Sigma - Deluxe Edition", "Break Arts II", "Strange Telephone" ]
@@ -150,19 +136,5 @@
   }, {
     "price" : 10.2,
     "games" : [ "TTR: Winterwonderland Bundle", "TTR: USA 1910 Pack", "TTR: San Francisco City Expansion", "Ticket to Ride", "Humble Store discount coupon for Germany Expansion", "Humble Store discount Coupon for Poland Expansion" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/your-move-turn-based-games",
-  "name" : "Your Move: Turn Based Games",
-  "endDate" : 1779325200000,
-  "choices" : [ {
-    "price" : 12.2,
-    "games" : [ "Moonbreaker", "Deep Sleep: Labyrinth of the Forsaken", "Abalon: Roguelike Tactics CCG", "Dungeons of Aether", "Battle Chasers: Nightwar", "For the King 2", "Crowntrick", "Legend of Kingdom Rush", "30% Off For The King II: Tinkerers Of Fate Character Pack", "30%-off voucher FTK2 Fallen Oaths DLCs" ]
-  }, {
-    "price" : 10.16,
-    "games" : [ "Dungeons of Aether", "Battle Chasers: Nightwar", "For the King 2", "Crowntrick", "Legend of Kingdom Rush", "30% Off For The King II: Tinkerers Of Fate Character Pack", "30%-off voucher FTK2 Fallen Oaths DLCs" ]
-  }, {
-    "price" : 5.07,
-    "games" : [ "Crowntrick", "Legend of Kingdom Rush", "30% Off For The King II: Tinkerers Of Fate Character Pack", "30%-off voucher FTK2 Fallen Oaths DLCs" ]
   } ]
 } ]
