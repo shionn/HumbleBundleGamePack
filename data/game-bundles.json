@@ -68,28 +68,6 @@
     "games" : [ "Celeste", "Slime Rancher", "Starbound" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/mecha-mania",
-  "name" : "MECHA MANIA",
-  "endDate" : 1779498000000,
-  "choices" : [ {
-    "price" : 14.28,
-    "games" : [ "M.A.S.S. Builder", "Bounty Star", "Vox Machinae", "Oblivion Override", "Project MIKHAIL: A Muv-Luv War Story", "Mechabellum", "UFO ROBOT GRENDIZER - The Feast of the Wolves", "Star Renegades", "Mech Mechanic Simulator" ]
-  }, {
-    "price" : 12.24,
-    "games" : [ "Vox Machinae", "Oblivion Override", "Project MIKHAIL: A Muv-Luv War Story", "Mechabellum", "UFO ROBOT GRENDIZER - The Feast of the Wolves", "Star Renegades", "Mech Mechanic Simulator" ]
-  }, {
-    "price" : 9.18,
-    "games" : [ "Mechabellum", "UFO ROBOT GRENDIZER - The Feast of the Wolves", "Star Renegades", "Mech Mechanic Simulator" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/mexican-entertainment-system-bundle",
-  "name" : "Mexican Entertainment System Bundle",
-  "endDate" : 1779498000000,
-  "choices" : [ {
-    "price" : 12.31,
-    "games" : [ "RKGK / Rakugaki", "Lonesome Village", "A Tiny Sticker Tale", "Idle Waters", "PancitoMerge", "Desktop Fishes", "Another Crusade", "Mulaka", "The end is nahual: If I may say so", "Re:Fresh", "SO BELOW", "Pato Box" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/monster-hunter-spring-hunting-collection-2026",
   "name" : "Monster Hunter: Spring Hunting Collection 2026",
   "endDate" : 1780592400000,
