@@ -48,10 +48,10 @@
   "endDate" : 1782349200000,
   "choices" : [ {
     "price" : 15.46,
-    "games" : [ "Devil May Cry HD Collection", "Devil May Cry 5 + Vergil Pack", "Devil May Cry 4 Special Edition", "Devil May Cry" ]
+    "games" : [ "DmC: Devil May Cry", "Devil May Cry HD Collection", "Devil May Cry 5 + Vergil Pack", "Devil May Cry 4 Special Edition" ]
   }, {
     "price" : 8.24,
-    "games" : [ "Devil May Cry 5 + Vergil Pack", "Devil May Cry 4 Special Edition", "Devil May Cry" ]
+    "games" : [ "Devil May Cry 5 + Vergil Pack", "Devil May Cry 4 Special Edition" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/doubleshift-simulation-bundle",
