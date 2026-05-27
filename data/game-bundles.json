@@ -10,6 +10,14 @@
     "games" : [ "Songs of Silence", "Distant Worlds 2", "Interstellar Space: Genesis", "Thea 2: The Shattering", "Rogue Hex", "Endless Legend", "Endless Legend: Shifters", "Endless Legend: Guardians", "Endless Legend: Monstrous Tales", "Endless Legend: The Lost Tales", "AI War 2", "AI War 2: The Spire Rises", "AI War 2: The Neinzul Abyss", "AI War 2: Zenith Onslaught", "Sins of a Solar Empire II 50% off Coupon", "Songs of Silence - Crownless King Expansion 25% off Coupon", "Distant Worlds 2: Factions - Quameno and Gizureans 30% off Coupon", "Distant Worlds 2: Return of the Shakturi 15% off Coupon", "Master of Magic 60% off Coupon" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/awesome-automation",
+  "name" : "Awesome Automation",
+  "endDate" : 1781744400000,
+  "choices" : [ {
+    "price" : 12.37,
+    "games" : [ "Rogue Voltage", "Rusty's Retirement", "MR FARMBOY", "Factory Town", "Time to Morp", "Idle Colony" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/build-shuffle-battle",
   "name" : "Build, Shuffle, Battle!",
   "endDate" : 1780534800000,
@@ -33,6 +41,17 @@
   }, {
     "price" : 5.12,
     "games" : [ "Prison Boss VR", "Cubism" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/devil-may-cry-devil-trigger-reloaded-collection-2026",
+  "name" : "Devil May Cry: Devil Trigger Reloaded Collection 2026",
+  "endDate" : 1782349200000,
+  "choices" : [ {
+    "price" : 15.46,
+    "games" : [ "Devil May Cry HD Collection", "Devil May Cry 5 + Vergil Pack", "Devil May Cry 4 Special Edition", "Devil May Cry" ]
+  }, {
+    "price" : 8.24,
+    "games" : [ "Devil May Cry 5 + Vergil Pack", "Devil May Cry 4 Special Edition", "Devil May Cry" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/doubleshift-simulation-bundle",
