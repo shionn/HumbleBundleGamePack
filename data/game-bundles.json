@@ -31,7 +31,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/creature-feature-bundle",
   "name" : "Creature Feature Bundle",
-  "endDate" : 1779930000000,
+  "endDate" : 1780534800000,
   "choices" : [ {
     "price" : 13.33,
     "games" : [ "Maestro", "Crime Shop Simulator: A Prison Boss Game", "The Light Brigade", "Deadly Delivery", "Budget Cuts Ultimate", "Thrasher", "Crossings", "Prison Boss VR", "Cubism" ]
@@ -105,20 +105,6 @@
   }, {
     "price" : 16.3,
     "games" : [ "Monster Hunter Stories 2: Wings of Ruin", "Monster Hunter Stories", "Monster Hunter Wilds Coupon - 45% Off Coupon" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/playism-publisher-bundle-2026",
-  "name" : "PLAYISM Publisher Bundle - 2026",
-  "endDate" : 1779930000000,
-  "choices" : [ {
-    "price" : 13.24,
-    "games" : [ "Bright Memory: Infinite", "DEEEER Simulator: Your Average Everyday Deer Game", "The Star Named EOS", "Mind Diver", "The Good Life", "Drago Noka", "Bright Memory", "The Exit 8", "Platform 8", "Astebreed: Definitive Edition", "Samurai Bringer", "Giraffe and Annika", "The Sealed Ampoule", "Urban Legend Hunters 2: Double", "Fight Crab", "LiEat", "Croixleur Sigma - Deluxe Edition", "Break Arts II", "Strange Telephone" ]
-  }, {
-    "price" : 9.16,
-    "games" : [ "Drago Noka", "Bright Memory", "The Exit 8", "Platform 8", "Astebreed: Definitive Edition", "Samurai Bringer", "Giraffe and Annika", "The Sealed Ampoule", "Urban Legend Hunters 2: Double", "Fight Crab", "LiEat", "Croixleur Sigma - Deluxe Edition", "Break Arts II", "Strange Telephone" ]
-  }, {
-    "price" : 5.08,
-    "games" : [ "Fight Crab", "LiEat", "Croixleur Sigma - Deluxe Edition", "Break Arts II", "Strange Telephone" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/perplexing-puzzles",
