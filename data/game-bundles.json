@@ -84,6 +84,14 @@
     "games" : [ "Greedland", "Army of Ruin", "God Of Weapons", "God of Weapons: Eternal Nightmare", "I Am Legion: Stand Survivors", "Karate Survivor", "Keeper's Toll", "Pesticide Not Required", "Sodaman", "Entropy Survivors", "AK-xolotl: Together" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/12-for-10",
+  "name" : "Humble 12 for $10 Bundle",
+  "endDate" : 1781917200000,
+  "choices" : [ {
+    "price" : 10.3,
+    "games" : [ "Super Meat Boy", "Beat Cop", "Anomaly Agent", "Rubber Bandits", "Pumpkin Jack", "Liquor Store Simulator", "Once Alive", "Livelock", "Hell Pie", "Hammerwatch II", "Haunted Lands", "Flooded" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/humble-15th-anniversary-indie-icons-showcase",
   "name" : "Humble 15th Anniversary - Indie Icons Showcase",
   "endDate" : 1780534800000,
