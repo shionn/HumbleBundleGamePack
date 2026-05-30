@@ -78,7 +78,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/heavenly-bullets",
   "name" : "Heavenly Bullets",
-  "endDate" : 1780102800000,
+  "endDate" : 1780707600000,
   "choices" : [ {
     "price" : 10.24,
     "games" : [ "Greedland", "Army of Ruin", "God Of Weapons", "God of Weapons: Eternal Nightmare", "I Am Legion: Stand Survivors", "Karate Survivor", "Keeper's Toll", "Pesticide Not Required", "Sodaman", "Entropy Survivors", "AK-xolotl: Together" ]
@@ -138,17 +138,6 @@
   }, {
     "price" : 5.1,
     "games" : [ "Mind Over Magnet", "Proverbs", "Coupon for Beyond Words 30% Off", "Coupon for Botany Manor 40% Off", "Coupon for Paper Trail 75% Off" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/ticket-to-ride-all-aboard-collection",
-  "name" : "Ticket to Ride: All Aboard Collection",
-  "endDate" : 1780102800000,
-  "choices" : [ {
-    "price" : 15.3,
-    "games" : [ "TTR: Heart of Africa Expansion", "TTR: Japan Expansion", "TTR: Legendary Asia Expansion", "TTR: India Expansion", "TTR: Europe Expansion + Europa 1912 Pack", "TTR: Nordic Expansion", "TTR: Switzerland Expansion", "TTR: Winterwonderland Bundle", "TTR: USA 1910 Pack", "TTR: San Francisco City Expansion", "Ticket to Ride", "Humble Store discount coupon for Germany Expansion", "Humble Store discount Coupon for Poland Expansion" ]
-  }, {
-    "price" : 10.2,
-    "games" : [ "TTR: Winterwonderland Bundle", "TTR: USA 1910 Pack", "TTR: San Francisco City Expansion", "Ticket to Ride", "Humble Store discount coupon for Germany Expansion", "Humble Store discount Coupon for Poland Expansion" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/warhammer-skulls-2026-bundle",
