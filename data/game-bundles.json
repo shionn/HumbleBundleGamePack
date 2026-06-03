@@ -106,6 +106,20 @@
     "games" : [ "Celeste", "Slime Rancher", "Starbound" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/ign-live-bundle-2026",
+  "name" : "IGN Live Bundle 2026",
+  "endDate" : 1782351000000,
+  "choices" : [ {
+    "price" : 10.29,
+    "games" : [ "Control Ultimate Edition", "OFF", "Shadow Gambit: The Cursed Crew", "Rollerdrome", "Paradise Killer: Perfect 25 Edition", "Blair Witch", "Fear the Spotlight", "The Last Campfire", "TOEM: A Photo Adventure" ]
+  }, {
+    "price" : 7.21,
+    "games" : [ "Paradise Killer: Perfect 25 Edition", "Blair Witch", "Fear the Spotlight", "The Last Campfire", "TOEM: A Photo Adventure" ]
+  }, {
+    "price" : 5.14,
+    "games" : [ "The Last Campfire", "TOEM: A Photo Adventure" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/monster-hunter-spring-hunting-collection-2026",
   "name" : "Monster Hunter: Spring Hunting Collection 2026",
   "endDate" : 1780592400000,
