@@ -153,4 +153,15 @@
     "price" : 5.14,
     "games" : [ "Warhammer 40,000: Inquisitor - Prophecy", "Blood Bowl 2: Legendary Edition (Classic)", "Space Hulk (Classic)" ]
   } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/we-will-always-be-here-pride-month-2026",
+  "name" : "We Will Always Be Here: Pride Month 2026",
+  "endDate" : 1782349200000,
+  "choices" : [ {
+    "price" : 12.36,
+    "games" : [ "Thirsty Suitors", "Harmony: The Fall of Reverie", "Tavern Talk", "Vampire Therapist", "Death of a Wish", "The August Before", "CraftCraft: Fantasy Merchant Simulator", "Bad End Theater", "Dustborn", "We Know the Devil", "Pesterquest", "90% off coupon for No Longer Home" ]
+  }, {
+    "price" : 8.23,
+    "games" : [ "Bad End Theater", "Dustborn", "We Know the Devil", "Pesterquest", "90% off coupon for No Longer Home" ]
+  } ]
 } ]
