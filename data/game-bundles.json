@@ -1,4 +1,15 @@
 [ {
+  "url" : "https://www.humblebundle.com/games/2k-sports-champions-bundle",
+  "name" : "2K Sports Champions Bundle",
+  "endDate" : 1782349200000,
+  "choices" : [ {
+    "price" : 25.77,
+    "games" : [ "PGA Tour 2K25 Standard Edition", "TopSpin 2K25 Grand Slam Edition", "OlliOlli World Rad Edition", "WWE 2K26 Monday Night War Edition - 35% Off Coupon", "WWE 2K26 Standard Edition - 35% Off Coupon", "NBA 2K26 Standard Edition", "NBA 2K26 35,000 VC Pack" ]
+  }, {
+    "price" : 10.3,
+    "games" : [ "NBA 2K26 Standard Edition", "NBA 2K26 35,000 VC Pack" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/4x-xplore-xpand-xploit-xterminate",
   "name" : "4X: Xplore, Xpand, Xploit, Xterminate",
   "endDate" : 1781312400000,
