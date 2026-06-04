@@ -31,27 +31,13 @@
 }, {
   "url" : "https://www.humblebundle.com/games/build-shuffle-battle",
   "name" : "Build, Shuffle, Battle!",
-  "endDate" : 1780534800000,
+  "endDate" : 1781139600000,
   "choices" : [ {
     "price" : 15.28,
     "games" : [ "Wildfrost", "The Spirit Lift", "Book of Hours", "Dogpile", "Deck of Haunts", "Knights in Tight Spaces", "Occlude", "Placid Plastic Deck" ]
   }, {
     "price" : 10.18,
     "games" : [ "Dogpile", "Deck of Haunts", "Knights in Tight Spaces", "Occlude", "Placid Plastic Deck" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/creature-feature-bundle",
-  "name" : "Creature Feature Bundle",
-  "endDate" : 1780534800000,
-  "choices" : [ {
-    "price" : 13.33,
-    "games" : [ "Maestro", "Crime Shop Simulator: A Prison Boss Game", "The Light Brigade", "Deadly Delivery", "Budget Cuts Ultimate", "Thrasher", "Crossings", "Prison Boss VR", "Cubism" ]
-  }, {
-    "price" : 9.22,
-    "games" : [ "Deadly Delivery", "Budget Cuts Ultimate", "Thrasher", "Crossings", "Prison Boss VR", "Cubism" ]
-  }, {
-    "price" : 5.12,
-    "games" : [ "Prison Boss VR", "Cubism" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/critical-hits-arpg-bundle-game",
@@ -105,7 +91,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/humble-15th-anniversary-indie-icons-showcase",
   "name" : "Humble 15th Anniversary - Indie Icons Showcase",
-  "endDate" : 1780534800000,
+  "endDate" : 1781139600000,
   "choices" : [ {
     "price" : 10.2,
     "games" : [ "Bloodstained: Ritual of the Night", "Risk of Rain Returns", "Citizen Sleeper", "Superhot", "The Witness", "Celeste", "Slime Rancher", "Starbound" ]
