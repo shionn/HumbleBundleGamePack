@@ -73,6 +73,23 @@
     "games" : [ "Youtubers Life", "Electrician Simulator", "Bakery Simulator", "Brewmaster: Beer Brewing Simulator", "Purrrifiers: Cleaning Chaos Cats & Goofylike Co-op", "Castle Flipper", "Demolish & Build 2018", "Demolish & Build 2017", "Demolish & Build 3", "Accident", "Plane Accident" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/frosty-games-fest-showcase-bundle-2026-made-in-anz",
+  "name" : "Frosty Games Fest Showcase Bundle 2026: Made in ANZ",
+  "endDate" : 1782522000000,
+  "choices" : [ {
+    "price" : 18.54,
+    "games" : [ "Rival Stars Horse Racing", "Solium Infernum", "Wayward Strand", "Toroa: Skycall", "Tempopo", "Knuckle Sandwich", "Malys", "Mini Motorways", "420BLAZEIT 2: GAME OF THE YEAR -=Dank Dreams and Goated Memes=- [#wow/11 Like and Subscribe] Poggerz Edition", "Proximate", "Umurangi Generation", "Umurangi Generation Macro DLC" ]
+  }, {
+    "price" : 12.36,
+    "games" : [ "Wayward Strand", "Toroa: Skycall", "Tempopo", "Knuckle Sandwich", "Malys", "Mini Motorways", "420BLAZEIT 2: GAME OF THE YEAR -=Dank Dreams and Goated Memes=- [#wow/11 Like and Subscribe] Poggerz Edition", "Proximate", "Umurangi Generation", "Umurangi Generation Macro DLC" ]
+  }, {
+    "price" : 7.21,
+    "games" : [ "Mini Motorways", "420BLAZEIT 2: GAME OF THE YEAR -=Dank Dreams and Goated Memes=- [#wow/11 Like and Subscribe] Poggerz Edition", "Proximate", "Umurangi Generation", "Umurangi Generation Macro DLC" ]
+  }, {
+    "price" : 5.14,
+    "games" : [ "420BLAZEIT 2: GAME OF THE YEAR -=Dank Dreams and Goated Memes=- [#wow/11 Like and Subscribe] Poggerz Edition", "Proximate", "Umurangi Generation", "Umurangi Generation Macro DLC" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/heavenly-bullets",
   "name" : "Heavenly Bullets",
   "endDate" : 1780707600000,
@@ -129,6 +146,17 @@
   }, {
     "price" : 5.1,
     "games" : [ "Mind Over Magnet", "Proverbs", "Coupon for Beyond Words 30% Off", "Coupon for Botany Manor 40% Off", "Coupon for Paper Trail 75% Off" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/redline-racing-bundle",
+  "name" : "Redline Racing Bundle",
+  "endDate" : 1782522000000,
+  "choices" : [ {
+    "price" : 10.29,
+    "games" : [ "Assetto Corsa Competizione", "art of rally", "Trail Out", "DRIFT CE", "Descenders", "Parking Garage Rally Circuit", "MudRunner" ]
+  }, {
+    "price" : 5.14,
+    "games" : [ "Descenders", "Parking Garage Rally Circuit", "MudRunner" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/warhammer-skulls-2026-bundle",
