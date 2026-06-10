@@ -195,9 +195,9 @@
   "endDate" : 1782954000000,
   "choices" : [ {
     "price" : 12.46,
-    "games" : [ "Kindred Spirits on the Roof", "Lilycle Rainbow Stage!!!", "Letters From a Rainy Day -Oceans and Lace-", "OshiRabu: Waifus Over Husbandos", "Please Be Happy", "SeaBed", "Fatal Twelve", "Blackberry Honey", "Night Cascades", "Highway Blossoms", "Highway Blossoms: Next Exit DLC (Gold Rush Edition)" ]
+    "games" : [ "Kindred Spirits on the Roof", "Lilycle Rainbow Stage!!!", "Letters From a Rainy Day -Oceans and Lace-", "OshiRabu: Waifus Over Husbandos", "Please Be Happy", "SeaBed", "Fatal Twelve", "Blackberry Honey", "Night Cascades", "Highway Blossoms", "Highway Blossoms: Next Exit DLC" ]
   }, {
     "price" : 5.19,
-    "games" : [ "Blackberry Honey", "Night Cascades", "Highway Blossoms", "Highway Blossoms: Next Exit DLC (Gold Rush Edition)" ]
+    "games" : [ "Blackberry Honey", "Night Cascades", "Highway Blossoms", "Highway Blossoms: Next Exit DLC" ]
   } ]
 } ]
