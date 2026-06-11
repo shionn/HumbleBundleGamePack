@@ -29,17 +29,6 @@
     "games" : [ "Rogue Voltage", "Rusty's Retirement", "MR FARMBOY", "Factory Town", "Time to Morp", "Idle Colony" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/build-shuffle-battle",
-  "name" : "Build, Shuffle, Battle!",
-  "endDate" : 1781139600000,
-  "choices" : [ {
-    "price" : 13.33,
-    "games" : [ "Wildfrost", "Book of Hours", "Dogpile", "Deck of Haunts", "Knights in Tight Spaces", "Occlude", "Placid Plastic Deck" ]
-  }, {
-    "price" : 10.18,
-    "games" : [ "Dogpile", "Deck of Haunts", "Knights in Tight Spaces", "Occlude", "Placid Plastic Deck" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/critical-hits-arpg-bundle-game",
   "name" : "Critical Hits: ARPG Bundle",
   "endDate" : 1781830835000,
@@ -64,7 +53,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/doubleshift-simulation-bundle",
   "name" : "Double Shift: Simulation Bundle",
-  "endDate" : 1781139600000,
+  "endDate" : 1781744400000,
   "choices" : [ {
     "price" : 12.36,
     "games" : [ "Youtubers Life 2", "Barn Finders", "Farmer's Life", "House Builder", "Firefighting Simulator - The Squad", "Underground Garage", "Barn Finders: Amerykan Dream", "Barn Finders: Bid Wars DLC", "Youtubers Life", "Electrician Simulator", "Bakery Simulator", "Brewmaster: Beer Brewing Simulator", "Purrrifiers: Cleaning Chaos Cats & Goofylike Co-op", "Castle Flipper", "Demolish & Build 2018", "Demolish & Build 2017", "Demolish & Build 3", "Accident", "Plane Accident" ]
@@ -98,20 +87,6 @@
     "games" : [ "Super Meat Boy", "Beat Cop", "Anomaly Agent", "Rubber Bandits", "Pumpkin Jack", "Liquor Store Simulator", "Once Alive", "Livelock", "Hell Pie", "Hammerwatch II", "Haunted Lands", "Flooded" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/humble-15th-anniversary-indie-icons-showcase",
-  "name" : "Humble 15th Anniversary - Indie Icons Showcase",
-  "endDate" : 1781139600000,
-  "choices" : [ {
-    "price" : 10.2,
-    "games" : [ "Bloodstained: Ritual of the Night", "Risk of Rain Returns", "Citizen Sleeper", "Superhot", "The Witness", "Celeste", "Slime Rancher", "Starbound" ]
-  }, {
-    "price" : 8.16,
-    "games" : [ "Citizen Sleeper", "Superhot", "The Witness", "Celeste", "Slime Rancher", "Starbound" ]
-  }, {
-    "price" : 5.1,
-    "games" : [ "Celeste", "Slime Rancher", "Starbound" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/ign-live-bundle-2026",
   "name" : "IGN Live Bundle 2026",
   "endDate" : 1782351000000,
@@ -128,7 +103,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/perplexing-puzzles",
   "name" : "Perplexing Puzzles",
-  "endDate" : 1781139600000,
+  "endDate" : 1781744400000,
   "choices" : [ {
     "price" : 10.21,
     "games" : [ "Viewfinder", "Taiji", "Parallel Experiment", "ILA: A Frosty Glide", "Abra Cooking Dabra", "Linkito", "Mind Over Magnet", "Proverbs", "Coupon for Beyond Words 30% Off", "Coupon for Botany Manor 40% Off", "Coupon for Paper Trail 75% Off" ]
