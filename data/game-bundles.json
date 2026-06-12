@@ -140,20 +140,6 @@
     "games" : [ "Heaven's Vault", "Sorcery! Part 3", "Sorcery! Part 4", "Sorcery! Parts 1 and 2", "80 Days", "Overboard!", "Pendragon: Narrative Tactics" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/warhammer-skulls-2026-bundle",
-  "name" : "Warhammer Skulls 2026 Bundle",
-  "endDate" : 1781226000000,
-  "choices" : [ {
-    "price" : 10.3,
-    "games" : [ "Warhammer 40,000: Battlesector", "Warhammer 40,000: Battlesector - Tyranid Elites", "Warhammer 40,000: Battlesector - Blood Angels Elites", "Warhammer 40,000: Inquisitor - Martyr", "Warhammer 40,000: Dakka Squadron - Flyboyz Edition", "Warhammer 40,000: Gladius - Relics of War", "Warhammer 40,000: Gladius - T'au", "Warhammer 40,000: Inquisitor - Prophecy", "Blood Bowl 2: Legendary Edition (Classic)", "Space Hulk (Classic)" ]
-  }, {
-    "price" : 8.24,
-    "games" : [ "Warhammer 40,000: Dakka Squadron - Flyboyz Edition", "Warhammer 40,000: Gladius - Relics of War", "Warhammer 40,000: Gladius - T'au", "Warhammer 40,000: Inquisitor - Prophecy", "Blood Bowl 2: Legendary Edition (Classic)", "Space Hulk (Classic)" ]
-  }, {
-    "price" : 5.14,
-    "games" : [ "Warhammer 40,000: Inquisitor - Prophecy", "Blood Bowl 2: Legendary Edition (Classic)", "Space Hulk (Classic)" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/we-will-always-be-here-pride-month-2026",
   "name" : "We Will Always Be Here: Pride Month 2026",
   "endDate" : 1782349200000,
