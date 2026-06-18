@@ -10,14 +10,6 @@
     "games" : [ "NBA 2K26 Standard Edition", "NBA 2K26 35,000 VC Pack" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/awesome-automation",
-  "name" : "Awesome Automation",
-  "endDate" : 1781744400000,
-  "choices" : [ {
-    "price" : 12.37,
-    "games" : [ "Rogue Voltage", "Rusty's Retirement", "MR FARMBOY", "Factory Town", "Time to Morp", "Idle Colony" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/critical-hits-arpg-bundle-game",
   "name" : "Critical Hits: ARPG Bundle",
   "endDate" : 1781830835000,
@@ -38,17 +30,6 @@
   }, {
     "price" : 8.24,
     "games" : [ "Devil May Cry 5 + Vergil Pack", "Devil May Cry 4 Special Edition" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/doubleshift-simulation-bundle",
-  "name" : "Double Shift: Simulation Bundle",
-  "endDate" : 1781744400000,
-  "choices" : [ {
-    "price" : 12.36,
-    "games" : [ "Youtubers Life 2", "Barn Finders", "Farmer's Life", "House Builder", "Firefighting Simulator - The Squad", "Underground Garage", "Barn Finders: Amerykan Dream", "Barn Finders: Bid Wars DLC", "Youtubers Life", "Electrician Simulator", "Bakery Simulator", "Brewmaster: Beer Brewing Simulator", "Purrrifiers: Cleaning Chaos Cats & Goofylike Co-op", "Castle Flipper", "Demolish & Build 2018", "Demolish & Build 2017", "Demolish & Build 3", "Accident", "Plane Accident" ]
-  }, {
-    "price" : 6.18,
-    "games" : [ "Youtubers Life", "Electrician Simulator", "Bakery Simulator", "Brewmaster: Beer Brewing Simulator", "Purrrifiers: Cleaning Chaos Cats & Goofylike Co-op", "Castle Flipper", "Demolish & Build 2018", "Demolish & Build 2017", "Demolish & Build 3", "Accident", "Plane Accident" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
@@ -102,20 +83,6 @@
   }, {
     "price" : 5.14,
     "games" : [ "The Last Campfire", "TOEM: A Photo Adventure" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/perplexing-puzzles",
-  "name" : "Perplexing Puzzles",
-  "endDate" : 1781744400000,
-  "choices" : [ {
-    "price" : 10.21,
-    "games" : [ "Viewfinder", "Taiji", "Parallel Experiment", "ILA: A Frosty Glide", "Abra Cooking Dabra", "Linkito", "Mind Over Magnet", "Proverbs", "Coupon for Beyond Words 30% Off", "Coupon for Botany Manor 40% Off", "Coupon for Paper Trail 75% Off" ]
-  }, {
-    "price" : 7.15,
-    "games" : [ "Abra Cooking Dabra", "Linkito", "Mind Over Magnet", "Proverbs", "Coupon for Beyond Words 30% Off", "Coupon for Botany Manor 40% Off", "Coupon for Paper Trail 75% Off" ]
-  }, {
-    "price" : 5.1,
-    "games" : [ "Mind Over Magnet", "Proverbs", "Coupon for Beyond Words 30% Off", "Coupon for Botany Manor 40% Off", "Coupon for Paper Trail 75% Off" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/redline-racing-bundle",
