@@ -74,6 +74,20 @@
     "games" : [ "The Last Campfire", "TOEM: A Photo Adventure" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/june-2unes",
+  "name" : "June 2unes",
+  "endDate" : 1783731600000,
+  "choices" : [ {
+    "price" : 12.43,
+    "games" : [ "Kalpa: Cosmic Symphony", "Everhood 2", "NOISZ", "Sixtar Gate: StarTrail", "Trombone Champ", "Spin Rhythm XD", "Thumper", "Kill the Music", "Rhythm Witch", "Unbeatable 25% off" ]
+  }, {
+    "price" : 7.26,
+    "games" : [ "Trombone Champ", "Spin Rhythm XD", "Thumper", "Kill the Music", "Rhythm Witch", "Unbeatable 25% off" ]
+  }, {
+    "price" : 5.18,
+    "games" : [ "Kill the Music", "Rhythm Witch", "Unbeatable 25% off" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/redline-racing-bundle",
   "name" : "Redline Racing Bundle",
   "endDate" : 1782522000000,
