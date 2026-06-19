@@ -10,17 +10,6 @@
     "games" : [ "NBA 2K26 Standard Edition", "NBA 2K26 35,000 VC Pack" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/critical-hits-arpg-bundle-game",
-  "name" : "Critical Hits: ARPG Bundle",
-  "endDate" : 1781830835000,
-  "choices" : [ {
-    "price" : 10.2,
-    "games" : [ "The Last Hero of Nostalgaia", "BLACKTAIL", "Hellpoint", "Blade of Darkness", "Greedfall", "Soulstice: Deluxe Edition", "Eldest Souls" ]
-  }, {
-    "price" : 5.1,
-    "games" : [ "Greedfall", "Soulstice: Deluxe Edition", "Eldest Souls" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/devil-may-cry-devil-trigger-reloaded-collection-2026",
   "name" : "Devil May Cry: Devil Trigger Reloaded Collection 2026",
   "endDate" : 1782349200000,
