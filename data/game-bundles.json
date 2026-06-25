@@ -41,20 +41,6 @@
     "games" : [ "None Shall Intrude", "Rogue Legacy", "UnderMine", "Lynked: Banner of the Spark Coupon for Supporter Pack: Battle Ready DLC 40% Off" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/ign-live-bundle-2026",
-  "name" : "IGN Live Bundle 2026",
-  "endDate" : 1782351000000,
-  "choices" : [ {
-    "price" : 10.29,
-    "games" : [ "CONTROL Ultimate Edition", "OFF", "Shadow Gambit: The Cursed Crew", "Rollerdrome", "Paradise Killer: Perfect 25 Edition", "Blair Witch", "Fear the Spotlight", "The Last Campfire", "TOEM: A Photo Adventure" ]
-  }, {
-    "price" : 7.21,
-    "games" : [ "Paradise Killer: Perfect 25 Edition", "Blair Witch", "Fear the Spotlight", "The Last Campfire", "TOEM: A Photo Adventure" ]
-  }, {
-    "price" : 5.14,
-    "games" : [ "The Last Campfire", "TOEM: A Photo Adventure" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/june-2unes",
   "name" : "June 2unes",
   "endDate" : 1783731600000,
