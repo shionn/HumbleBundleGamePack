@@ -27,23 +27,6 @@
     "games" : [ "Adventurer's Arsenal Pack", "Burning Souls Pack", "500 Gem Bundle" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/frosty-games-fest-showcase-bundle-2026-made-in-anz",
-  "name" : "Frosty Games Fest Showcase Bundle 2026: Made in ANZ",
-  "endDate" : 1782522000000,
-  "choices" : [ {
-    "price" : 18.54,
-    "games" : [ "Rival Stars Horse Racing", "Solium Infernum", "Wayward Strand", "Toroa: Skycall", "Tempopo", "Knuckle Sandwich", "Malys", "Mini Motorways", "420BLAZEIT 2: GAME OF THE YEAR -=Dank Dreams and Goated Memes=- [#wow/11 Like and Subscribe] Poggerz Edition", "Proximate", "Umurangi Generation", "Umurangi Generation Macro DLC" ]
-  }, {
-    "price" : 12.36,
-    "games" : [ "Wayward Strand", "Toroa: Skycall", "Tempopo", "Knuckle Sandwich", "Malys", "Mini Motorways", "420BLAZEIT 2: GAME OF THE YEAR -=Dank Dreams and Goated Memes=- [#wow/11 Like and Subscribe] Poggerz Edition", "Proximate", "Umurangi Generation", "Umurangi Generation Macro DLC" ]
-  }, {
-    "price" : 7.21,
-    "games" : [ "Mini Motorways", "420BLAZEIT 2: GAME OF THE YEAR -=Dank Dreams and Goated Memes=- [#wow/11 Like and Subscribe] Poggerz Edition", "Proximate", "Umurangi Generation", "Umurangi Generation Macro DLC" ]
-  }, {
-    "price" : 5.14,
-    "games" : [ "420BLAZEIT 2: GAME OF THE YEAR -=Dank Dreams and Goated Memes=- [#wow/11 Like and Subscribe] Poggerz Edition", "Proximate", "Umurangi Generation", "Umurangi Generation Macro DLC" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/going-rogue-lite-heavy-bundle",
   "name" : "Going Rogue: A Lite Heavy Bundle",
   "endDate" : 1784163600000,
@@ -71,7 +54,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/redline-racing-bundle",
   "name" : "Redline Racing Bundle",
-  "endDate" : 1782522000000,
+  "endDate" : 1783126800000,
   "choices" : [ {
     "price" : 10.29,
     "games" : [ "Assetto Corsa Competizione", "art of rally", "Trail Out", "DRIFT CE", "Descenders", "Parking Garage Rally Circuit", "MudRunner", "JDM: Japanese Drift Master 50% Off" ]
