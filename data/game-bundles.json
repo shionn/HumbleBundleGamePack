@@ -52,6 +52,17 @@
     "games" : [ "Kill the Music", "Rhythm Witch", "Unbeatable 25% off" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/lets-go-gamblingaw-dang-it",
+  "name" : "Let's Go Gambling!...aw dang it.",
+  "endDate" : 1784779200000,
+  "choices" : [ {
+    "price" : 12.63,
+    "games" : [ "Dicealot", "Pip My Dice", "Dicey Dungeons", "This Ain't Even Poker, Ya Joker", "Dice of Kalma", "Explosive Odds", "Treasure Tiger", "SuperTaxCity" ]
+  }, {
+    "price" : 7.36,
+    "games" : [ "This Ain't Even Poker, Ya Joker", "Dice of Kalma", "Explosive Odds", "Treasure Tiger", "SuperTaxCity" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/redline-racing-bundle",
   "name" : "Redline Racing Bundle",
   "endDate" : 1783126800000,
