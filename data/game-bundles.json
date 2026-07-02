@@ -74,20 +74,6 @@
     "games" : [ "Descenders", "Parking Garage Rally Circuit", "MudRunner", "JDM: Japanese Drift Master 50% Off" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/complete-inkle-library",
-  "name" : "The Complete Inkle Library",
-  "endDate" : 1782954000000,
-  "choices" : [ {
-    "price" : 20.61,
-    "games" : [ "Heaven's Vault - Book 1", "Heaven's Vault - Book 2", "Heaven's Vault - Book 3", "Heaven's Vault - Book 4", "TR-49", "Expelled!", "A Highland Song", "Heaven's Vault", "Sorcery! Parts 1 and 2", "Sorcery! Part 3", "Sorcery! Part 4", "80 Days", "Overboard!", "Pendragon: Narrative Tactics" ]
-  }, {
-    "price" : 12.36,
-    "games" : [ "TR-49", "Expelled!", "A Highland Song", "Heaven's Vault", "Sorcery! Parts 1 and 2", "Sorcery! Part 3", "Sorcery! Part 4", "80 Days", "Overboard!", "Pendragon: Narrative Tactics" ]
-  }, {
-    "price" : 9.27,
-    "games" : [ "Heaven's Vault", "Sorcery! Parts 1 and 2", "Sorcery! Part 3", "Sorcery! Part 4", "80 Days", "Overboard!", "Pendragon: Narrative Tactics" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/upload-vr-summer-2026",
   "name" : "Upload VR Summer 2026",
   "endDate" : 1783558800000,
@@ -102,20 +88,9 @@
     "games" : [ "Among Us 3D: VR", "Zero Caliber VR" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/we-will-always-be-here-pride-month-2026",
-  "name" : "We Will Always Be Here: Pride Month 2026",
-  "endDate" : 1782954000000,
-  "choices" : [ {
-    "price" : 12.36,
-    "games" : [ "Thirsty Suitors", "Harmony: The Fall of Reverie", "Tavern Talk", "Vampire Therapist", "Death of a Wish", "The August Before", "CraftCraft: Fantasy Merchant Simulator", "Bad End Theater", "Dustborn", "We Know the Devil", "Pesterquest", "90% off coupon for No Longer Home" ]
-  }, {
-    "price" : 8.23,
-    "games" : [ "Bad End Theater", "Dustborn", "We Know the Devil", "Pesterquest", "90% off coupon for No Longer Home" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
   "name" : "Yuri in Luck: Waifus for Laifus",
-  "endDate" : 1782954000000,
+  "endDate" : 1783558800000,
   "choices" : [ {
     "price" : 12.46,
     "games" : [ "Kindred Spirits on the Roof", "Lilycle Rainbow Stage!!!", "Letters From a Rainy Day -Oceans and Lace-", "OshiRabu: Waifus Over Husbandos", "Please Be Happy", "SeaBed", "Fatal Twelve", "Blackberry Honey", "Night Cascades", "Highway Blossoms", "Highway Blossoms: Next Exit DLC" ]
