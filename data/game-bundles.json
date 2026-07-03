@@ -74,6 +74,17 @@
     "games" : [ "Descenders", "Parking Garage Rally Circuit", "MudRunner", "JDM: Japanese Drift Master 50% Off" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/summer-games-done-quick-2026",
+  "name" : "Summer Games Done Quick 2026",
+  "endDate" : 1784941200000,
+  "choices" : [ {
+    "price" : 13.75,
+    "games" : [ "Solar Ash", "Bomb Rush Cyberfunk", "Isopod: A Webbed Spin-off", "Grandma, No", "20XX", "Maiden and Spell", "DUSK", "The Gunk", "SpongeBob SquarePants: Titans of the Tide 40% off Coupon", "Disney Epic Mickey: Rebrushed 50% off Coupon" ]
+  }, {
+    "price" : 7.4,
+    "games" : [ "Grandma, No", "20XX", "Maiden and Spell", "DUSK", "The Gunk", "SpongeBob SquarePants: Titans of the Tide 40% off Coupon", "Disney Epic Mickey: Rebrushed 50% off Coupon" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/upload-vr-summer-2026",
   "name" : "Upload VR Summer 2026",
   "endDate" : 1783558800000,
