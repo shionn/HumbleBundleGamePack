@@ -63,17 +63,6 @@
     "games" : [ "This Ain't Even Poker, Ya Joker", "Dice of Kalma", "Explosive Odds", "Treasure Tiger", "SuperTaxCity" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/redline-racing-bundle",
-  "name" : "Redline Racing Bundle",
-  "endDate" : 1783126800000,
-  "choices" : [ {
-    "price" : 10.29,
-    "games" : [ "Assetto Corsa Competizione", "art of rally", "Trail Out", "DRIFT CE", "Descenders", "Parking Garage Rally Circuit", "MudRunner", "JDM: Japanese Drift Master 50% Off" ]
-  }, {
-    "price" : 5.14,
-    "games" : [ "Descenders", "Parking Garage Rally Circuit", "MudRunner", "JDM: Japanese Drift Master 50% Off" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/summer-games-done-quick-2026",
   "name" : "Summer Games Done Quick 2026",
   "endDate" : 1784941200000,
