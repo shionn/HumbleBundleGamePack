@@ -1,1 +1,101 @@
-[ ]
+[ {
+  "url" : "https://www.humblebundle.com/games/arc-system-works-evo-collection",
+  "name" : "Arc System Works: Evo Collection",
+  "endDate" : 1784347200000,
+  "choices" : [ {
+    "price" : 20.67,
+    "games" : [ "Guilty Gear -STRIVE-", "Blazblue CentralFiction", "Under Night In-Birth II Sys:Celes", "Blazblue Cross Tag Battle Special Edition", "GUILTY GEAR Xrd REV 2 Deluxe Edition", "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND", "Melty Blood Actress Again Current Code", "KILL la KILL - IF", "CHAOS CODE -New Sign of Catastrophe-", "Guilty Gear XX Accent Core Plus R", "GUILTY GEAR", "Guilty Gear -STRIVE- Season Pass 1 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 2 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 3 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 4 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 5 DLC Coupon" ]
+  }, {
+    "price" : 10.33,
+    "games" : [ "Blazblue Cross Tag Battle Special Edition", "GUILTY GEAR Xrd REV 2 Deluxe Edition", "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND", "Melty Blood Actress Again Current Code", "KILL la KILL - IF", "CHAOS CODE -New Sign of Catastrophe-", "Guilty Gear XX Accent Core Plus R", "GUILTY GEAR", "Guilty Gear -STRIVE- Season Pass 1 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 2 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 3 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 4 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 5 DLC Coupon" ]
+  }, {
+    "price" : 5.16,
+    "games" : [ "Melty Blood Actress Again Current Code", "KILL la KILL - IF", "CHAOS CODE -New Sign of Catastrophe-", "Guilty Gear XX Accent Core Plus R", "GUILTY GEAR", "Guilty Gear -STRIVE- Season Pass 1 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 2 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 3 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 4 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 5 DLC Coupon" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
+  "name" : "Dungeon Defenders II Complete DLC Chest",
+  "endDate" : 1783558800000,
+  "choices" : [ {
+    "price" : 20.74,
+    "games" : [ "Golden Headless Horseman Pet", "Celestial Vault Pack", "Ethereal Trove Pack", "Imperial Cache Pack", "Bundle of the Beast", "Treasure Trove Pack", "1000 Gem Bundle", "Adventurer's Arsenal Pack", "Burning Souls Pack", "500 Gem Bundle" ]
+  }, {
+    "price" : 12.44,
+    "games" : [ "Imperial Cache Pack", "Bundle of the Beast", "Treasure Trove Pack", "1000 Gem Bundle", "Adventurer's Arsenal Pack", "Burning Souls Pack", "500 Gem Bundle" ]
+  }, {
+    "price" : 5.18,
+    "games" : [ "Adventurer's Arsenal Pack", "Burning Souls Pack", "500 Gem Bundle" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/going-rogue-lite-heavy-bundle",
+  "name" : "Going Rogue: A Lite Heavy Bundle",
+  "endDate" : 1784163600000,
+  "choices" : [ {
+    "price" : 10.46,
+    "games" : [ "Brutal Orchestra", "Moros Protocol", "Nightmare Reaper", "Home Behind 2", "Lynked: Banner of the Spark", "None Shall Intrude", "Rogue Legacy", "UnderMine", "Lynked: Banner of the Spark Coupon for Supporter Pack: Battle Ready DLC 40% Off" ]
+  }, {
+    "price" : 5.23,
+    "games" : [ "None Shall Intrude", "Rogue Legacy", "UnderMine", "Lynked: Banner of the Spark Coupon for Supporter Pack: Battle Ready DLC 40% Off" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/june-2unes",
+  "name" : "June 2unes",
+  "endDate" : 1783731600000,
+  "choices" : [ {
+    "price" : 12.43,
+    "games" : [ "Kalpa: Cosmic Symphony", "Everhood 2", "NOISZ", "Sixtar Gate: StarTrail", "Trombone Champ", "Spin Rhythm XD", "Thumper", "Kill the Music", "Rhythm Witch", "Unbeatable 25% off" ]
+  }, {
+    "price" : 7.26,
+    "games" : [ "Trombone Champ", "Spin Rhythm XD", "Thumper", "Kill the Music", "Rhythm Witch", "Unbeatable 25% off" ]
+  }, {
+    "price" : 5.18,
+    "games" : [ "Kill the Music", "Rhythm Witch", "Unbeatable 25% off" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/lets-go-gamblingaw-dang-it",
+  "name" : "Let's Go Gambling!...aw dang it.",
+  "endDate" : 1784779200000,
+  "choices" : [ {
+    "price" : 12.63,
+    "games" : [ "Dicealot", "Pip My Dice", "Dicey Dungeons", "This Ain't Even Poker, Ya Joker", "Dice of Kalma", "Explosive Odds", "Treasure Tiger", "SuperTaxCity" ]
+  }, {
+    "price" : 7.36,
+    "games" : [ "This Ain't Even Poker, Ya Joker", "Dice of Kalma", "Explosive Odds", "Treasure Tiger", "SuperTaxCity" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/summer-games-done-quick-2026",
+  "name" : "Summer Games Done Quick 2026",
+  "endDate" : 1784941200000,
+  "choices" : [ {
+    "price" : 13.75,
+    "games" : [ "Solar Ash", "Bomb Rush Cyberfunk", "Isopod: A Webbed Spin-off", "Grandma, No", "20XX", "Maiden and Spell", "DUSK", "The Gunk", "SpongeBob SquarePants: Titans of the Tide 40% off Coupon", "Disney Epic Mickey: Rebrushed 50% off Coupon" ]
+  }, {
+    "price" : 7.4,
+    "games" : [ "Grandma, No", "20XX", "Maiden and Spell", "DUSK", "The Gunk", "SpongeBob SquarePants: Titans of the Tide 40% off Coupon", "Disney Epic Mickey: Rebrushed 50% off Coupon" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/upload-vr-summer-2026",
+  "name" : "Upload VR Summer 2026",
+  "endDate" : 1783569600000,
+  "choices" : [ {
+    "price" : 18.7,
+    "games" : [ "VTOL VR", "Zero Caliber 2 Remastered", "Metro Awakening", "Thief VR: Legacy of Shadow", "Tactical Assault VR", "Ancient Dungeon", "Arizona Sunshine Remake", "Among Us 3D: VR", "Zero Caliber VR" ]
+  }, {
+    "price" : 15.58,
+    "games" : [ "Tactical Assault VR", "Ancient Dungeon", "Arizona Sunshine Remake", "Among Us 3D: VR", "Zero Caliber VR" ]
+  }, {
+    "price" : 10.39,
+    "games" : [ "Among Us 3D: VR", "Zero Caliber VR" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
+  "name" : "Yuri in Luck: Waifus for Laifus",
+  "endDate" : 1783558800000,
+  "choices" : [ {
+    "price" : 12.46,
+    "games" : [ "Kindred Spirits on the Roof", "Lilycle Rainbow Stage!!!", "Letters From a Rainy Day -Oceans and Lace-", "OshiRabu: Waifus Over Husbandos", "Please Be Happy", "SeaBed", "Fatal Twelve", "Blackberry Honey", "Night Cascades", "Highway Blossoms", "Highway Blossoms: Next Exit DLC" ]
+  }, {
+    "price" : 5.19,
+    "games" : [ "Blackberry Honey", "Night Cascades", "Highway Blossoms", "Highway Blossoms: Next Exit DLC" ]
+  } ]
+} ]
