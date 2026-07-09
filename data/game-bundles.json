@@ -13,20 +13,6 @@
     "games" : [ "Melty Blood Actress Again Current Code", "KILL la KILL - IF", "CHAOS CODE -New Sign of Catastrophe-", "Guilty Gear XX Accent Core Plus R", "GUILTY GEAR", "Guilty Gear -STRIVE- Season Pass 1 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 2 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 3 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 4 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 5 DLC Coupon" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/dungeon-defenders-ii-complete-dlc-chest",
-  "name" : "Dungeon Defenders II Complete DLC Chest",
-  "endDate" : 1783558800000,
-  "choices" : [ {
-    "price" : 20.74,
-    "games" : [ "Golden Headless Horseman Pet", "Celestial Vault Pack", "Ethereal Trove Pack", "Imperial Cache Pack", "Bundle of the Beast", "Treasure Trove Pack", "1000 Gem Bundle", "Adventurer's Arsenal Pack", "Burning Souls Pack", "500 Gem Bundle" ]
-  }, {
-    "price" : 12.44,
-    "games" : [ "Imperial Cache Pack", "Bundle of the Beast", "Treasure Trove Pack", "1000 Gem Bundle", "Adventurer's Arsenal Pack", "Burning Souls Pack", "500 Gem Bundle" ]
-  }, {
-    "price" : 5.18,
-    "games" : [ "Adventurer's Arsenal Pack", "Burning Souls Pack", "500 Gem Bundle" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/going-rogue-lite-heavy-bundle",
   "name" : "Going Rogue: A Lite Heavy Bundle",
   "endDate" : 1784163600000,
@@ -86,16 +72,5 @@
   }, {
     "price" : 10.39,
     "games" : [ "Among Us 3D: VR", "Zero Caliber VR" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/yuri-in-luck-waifus-for-laifus",
-  "name" : "Yuri in Luck: Waifus for Laifus",
-  "endDate" : 1783558800000,
-  "choices" : [ {
-    "price" : 12.46,
-    "games" : [ "Kindred Spirits on the Roof", "Lilycle Rainbow Stage!!!", "Letters From a Rainy Day -Oceans and Lace-", "OshiRabu: Waifus Over Husbandos", "Please Be Happy", "SeaBed", "Fatal Twelve", "Blackberry Honey", "Night Cascades", "Highway Blossoms", "Highway Blossoms: Next Exit DLC" ]
-  }, {
-    "price" : 5.19,
-    "games" : [ "Blackberry Honey", "Night Cascades", "Highway Blossoms", "Highway Blossoms: Next Exit DLC" ]
   } ]
 } ]
