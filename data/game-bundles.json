@@ -49,6 +49,22 @@
     "games" : [ "This Ain't Even Poker, Ya Joker", "Dice of Kalma", "Explosive Odds", "Treasure Tiger", "SuperTaxCity" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/narrative-12-for-10-bundle",
+  "name" : "Narrative 12 for $10 Bundle",
+  "endDate" : 1785556800000,
+  "choices" : [ {
+    "price" : 10.51,
+    "games" : [ "Roadwarden", "White Shadows", "Gone Home", "Neo Cab", "The Darkside Detective: A Fumble in the Dark", "The Stillness of the Wind", "The Procession to Calvary", "No Longer Home", "Without a Dawn", "Hiveswap Friendsim", "Mythwrecked: Ambrosia Island", "Over the Alps" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/squad-goals",
+  "name" : "Squad Goals",
+  "endDate" : 1785556800000,
+  "choices" : [ {
+    "price" : 10.51,
+    "games" : [ "TMNT: Splintered Fate", "TMNT: Splintered Fate + Metalhead DLC", "PlateUp!", "Murky Divers", "KeyWe", "Kitchen Wars", "Content Warning", "Human Fall Flat", "PHOGS!", "Kritter: Defend Together", "Pratfall Coupon 30%" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/summer-games-done-quick-2026",
   "name" : "Summer Games Done Quick 2026",
   "endDate" : 1784941200000,
