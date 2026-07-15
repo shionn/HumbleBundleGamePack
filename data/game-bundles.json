@@ -24,6 +24,20 @@
     "games" : [ "None Shall Intrude", "Rogue Legacy", "UnderMine", "Lynked: Banner of the Spark Coupon for Supporter Pack: Battle Ready DLC 40% Off" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/handhelds-bundle",
+  "name" : "Humble Handhelds Bundle",
+  "endDate" : 1785988800000,
+  "choices" : [ {
+    "price" : 10.51,
+    "games" : [ "Blood West", "Symphony of War: The Nephilim Saga", "Sable", "Manifold Garden", "Nova Drift", "Children of Morta: Complete Edition", "Amid Evil" ]
+  }, {
+    "price" : 8.41,
+    "games" : [ "Manifold Garden", "Nova Drift", "Children of Morta: Complete Edition", "Amid Evil" ]
+  }, {
+    "price" : 5.25,
+    "games" : [ "Children of Morta: Complete Edition", "Amid Evil" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/lets-go-gamblingaw-dang-it",
   "name" : "Let's Go Gambling!...aw dang it.",
   "endDate" : 1784779200000,
@@ -33,6 +47,14 @@
   }, {
     "price" : 7.36,
     "games" : [ "This Ain't Even Poker, Ya Joker", "Dice of Kalma", "Explosive Odds", "Treasure Tiger", "SuperTaxCity", "SIDE EFFECTS" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/liminal-spaces",
+  "name" : "Liminal Spaces",
+  "endDate" : 1785988800000,
+  "choices" : [ {
+    "price" : 10.48,
+    "games" : [ "The Cabin Factory", "The Backrooms: Survival", "LIMINAL WATERS", "Within the Backrooms", "Liminal Exit", "LIMINAL SHIFT" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/narrative-12-for-10-bundle",
