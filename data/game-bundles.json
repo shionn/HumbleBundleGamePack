@@ -13,17 +13,6 @@
     "games" : [ "Melty Blood Actress Again Current Code", "KILL la KILL - IF", "CHAOS CODE -New Sign of Catastrophe-", "Guilty Gear XX Accent Core Plus R", "GUILTY GEAR", "Guilty Gear -STRIVE- Season Pass 1 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 2 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 3 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 4 DLC Coupon", "Guilty Gear -STRIVE- Season Pass 5 DLC Coupon" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/going-rogue-lite-heavy-bundle",
-  "name" : "Going Rogue: A Lite Heavy Bundle",
-  "endDate" : 1784163600000,
-  "choices" : [ {
-    "price" : 10.46,
-    "games" : [ "Brutal Orchestra", "Moros Protocol", "Nightmare Reaper", "Home Behind 2", "Lynked: Banner of the Spark", "None Shall Intrude", "Rogue Legacy", "UnderMine", "Lynked: Banner of the Spark Coupon for Supporter Pack: Battle Ready DLC 40% Off" ]
-  }, {
-    "price" : 5.23,
-    "games" : [ "None Shall Intrude", "Rogue Legacy", "UnderMine", "Lynked: Banner of the Spark Coupon for Supporter Pack: Battle Ready DLC 40% Off" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/handhelds-bundle",
   "name" : "Humble Handhelds Bundle",
   "endDate" : 1785988800000,
