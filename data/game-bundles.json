@@ -72,18 +72,4 @@
     "price" : 7.4,
     "games" : [ "Grandma, No", "20XX", "Maiden and Spell", "DUSK", "The Gunk", "SpongeBob SquarePants: Titans of the Tide 40% off Coupon", "Disney Epic Mickey: Rebrushed 50% off Coupon" ]
   } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/upload-vr-summer-2026",
-  "name" : "Upload VR Summer 2026",
-  "endDate" : 1784174400000,
-  "choices" : [ {
-    "price" : 18.7,
-    "games" : [ "VTOL VR", "Zero Caliber 2 Remastered", "Metro Awakening", "Thief VR: Legacy of Shadow", "Tactical Assault VR", "Ancient Dungeon", "Arizona Sunshine Remake", "Among Us 3D: VR", "Zero Caliber VR" ]
-  }, {
-    "price" : 15.58,
-    "games" : [ "Tactical Assault VR", "Ancient Dungeon", "Arizona Sunshine Remake", "Among Us 3D: VR", "Zero Caliber VR" ]
-  }, {
-    "price" : 10.39,
-    "games" : [ "Among Us 3D: VR", "Zero Caliber VR" ]
-  } ]
 } ]
