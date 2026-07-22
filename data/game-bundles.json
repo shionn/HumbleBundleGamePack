@@ -76,6 +76,20 @@
     "games" : [ "Roadwarden", "White Shadows", "Gone Home", "Neo Cab", "The Darkside Detective: A Fumble in the Dark", "The Stillness of the Wind", "The Procession to Calvary", "No Longer Home", "Without a Dawn", "Hiveswap Friendsim", "Mythwrecked: Ambrosia Island", "Over the Alps" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/point-click-package",
+  "name" : "Point Click Package",
+  "endDate" : 1786593600000,
+  "choices" : [ {
+    "price" : 15.78,
+    "games" : [ "Syberia Remastered", "Amerzone - The Explorer's Legacy - Digital Deluxe Edition", "Agatha Christie: Death on the Nile", "Syberia: The World Before Deluxe Edition", "Lil' Guardsman", "Unavowed", "When the Past Was Around", "Sunday Gold", "STASIS: BONE TOTEM", "Coupon Old Skies 35%" ]
+  }, {
+    "price" : 10.51,
+    "games" : [ "Syberia: The World Before Deluxe Edition", "Lil' Guardsman", "Unavowed", "When the Past Was Around", "Sunday Gold", "STASIS: BONE TOTEM", "Coupon Old Skies 35%" ]
+  }, {
+    "price" : 5.25,
+    "games" : [ "When the Past Was Around", "Sunday Gold", "STASIS: BONE TOTEM", "Coupon Old Skies 35%" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/squad-goals",
   "name" : "Squad Goals",
   "endDate" : 1785556800000,
@@ -93,5 +107,16 @@
   }, {
     "price" : 7.4,
     "games" : [ "Grandma, No", "20XX", "Maiden and Spell", "DUSK", "The Gunk", "SpongeBob SquarePants: Titans of the Tide 40% off Coupon", "Disney Epic Mickey: Rebrushed 50% off Coupon" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/twin-sails-interactive-2026",
+  "name" : "Twin Sails Interactive 2026",
+  "endDate" : 1786593600000,
+  "choices" : [ {
+    "price" : 20.98,
+    "games" : [ "Gloomhaven", "Gloomhaven - Solo Scenarios: Mercenary Challenges", "Ember Knights", "Bloomtown: A Different Story", "Wantless : Solace at Worlds End", "Terraforming Mars", "Terraforming Mars - Original Promo Pack", "Terraforming Mars: Venus Next", "Terraforming Mars: Prelude DLC", "Terraforming Mars: Hellas & Elysium DLC", "A Game of Thrones: The Board Game - Digital Edition", "A Game Of Thrones - A Dance With Dragons", "A Game Of Thrones - A Feast For Crows", "Arkham Horror- Mother's Embrace", "Carcassonne - Tiles & Tactics", "Carcassonne - The Princess and The Dragon", "Carcassonne - Traders and Builders", "Carcassonne - Winter & Gingerbread Man", "Carcassonne - Inns & Cathedrals", "Carcassonne - The River", "The Lord of the Rings: Adventure Card Game - Definitive Edition", "Innchanted", "Splendor", "Splendor - The Strongholds", "Splendor - The Cities", "Agricola: All Creatures Big & Small", "Isle of Skye", "News Tower 30% Off", "Gloomhaven: Jaws of the Lion DLC 40% Off Coupon" ]
+  }, {
+    "price" : 10.48,
+    "games" : [ "Wantless : Solace at Worlds End", "Terraforming Mars", "Terraforming Mars - Original Promo Pack", "Terraforming Mars: Venus Next", "Terraforming Mars: Prelude DLC", "Terraforming Mars: Hellas & Elysium DLC", "A Game of Thrones: The Board Game - Digital Edition", "A Game Of Thrones - A Dance With Dragons", "A Game Of Thrones - A Feast For Crows", "Arkham Horror- Mother's Embrace", "Carcassonne - Tiles & Tactics", "Carcassonne - The Princess and The Dragon", "Carcassonne - Traders and Builders", "Carcassonne - Winter & Gingerbread Man", "Carcassonne - Inns & Cathedrals", "Carcassonne - The River", "The Lord of the Rings: Adventure Card Game - Definitive Edition", "Innchanted", "Splendor", "Splendor - The Strongholds", "Splendor - The Cities", "Agricola: All Creatures Big & Small", "Isle of Skye", "News Tower 30% Off", "Gloomhaven: Jaws of the Lion DLC 40% Off Coupon" ]
   } ]
 } ]
