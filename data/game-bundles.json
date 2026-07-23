@@ -49,17 +49,6 @@
     "games" : [ "Children of Morta: Complete Edition", "Amid Evil" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/lets-go-gamblingaw-dang-it",
-  "name" : "Let's Go Gambling!...aw dang it.",
-  "endDate" : 1784779200000,
-  "choices" : [ {
-    "price" : 12.63,
-    "games" : [ "Dicealot", "Pip My Dice", "Dicey Dungeons", "This Ain't Even Poker, Ya Joker", "Dice of Kalma", "Explosive Odds", "Treasure Tiger", "SuperTaxCity", "SIDE EFFECTS" ]
-  }, {
-    "price" : 7.36,
-    "games" : [ "This Ain't Even Poker, Ya Joker", "Dice of Kalma", "Explosive Odds", "Treasure Tiger", "SuperTaxCity", "SIDE EFFECTS" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/liminal-spaces",
   "name" : "Liminal Spaces",
   "endDate" : 1785988800000,
