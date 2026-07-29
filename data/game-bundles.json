@@ -87,6 +87,17 @@
     "games" : [ "When the Past Was Around", "Sunday Gold", "STASIS: BONE TOTEM", "Coupon Old Skies 35%" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/rage-inducing-difficult-games",
+  "name" : "Rage Inducing Difficult Games",
+  "endDate" : 1787198400000,
+  "choices" : [ {
+    "price" : 13.7,
+    "games" : [ "GRIME - Deluxe Edition", "Lorn's Lure", "Aeterna: Darkness Megapack", "Jump King", "Egging On", "Ghostrunner", "Getting Over It", "Pogostuck: Rage With Your Friends", "Splodey", "Never Give Up" ]
+  }, {
+    "price" : 6.32,
+    "games" : [ "Getting Over It", "Pogostuck: Rage With Your Friends", "Splodey", "Never Give Up" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/squad-goals",
   "name" : "Squad Goals",
   "endDate" : 1785556800000,
