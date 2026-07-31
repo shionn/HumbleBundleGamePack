@@ -18,6 +18,20 @@
     "games" : [ "Chillquarium", "A Building Full of Cats 2", "A Castle Full of Cats", "Crab God" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/dungeons-dragons-classics-collection-2026",
+  "name" : "Dungeons & Dragons: Classics Collection 2026",
+  "endDate" : 1787371200000,
+  "choices" : [ {
+    "price" : 12.61,
+    "games" : [ "Forgotten Realms: Demon Stone", "Dungeons & Dragons: Dragonshard", "Forgotten Realms: The Archives - Collection One", "Forgotten Realms: The Archives - Collection Two", "Dungeons & Dragons: Krynn Series", "Dungeons & Dragons: Dark Sun Series", "Dungeons & Dragons: Ravenloft Series", "Fantasy Empires", "Spelljammer: Pirates of Realmspace", "Silver Box Classics", "Forgotten Realms: The Archives - Collection Three", "Al-Qadim: The Genie's Curse", "Dungeons & Dragons - Stronghold: Kingdom Simulator", "DragonStrike", "DeathKeep", "The Temple of Elemental Evil - 33% Off Coupon", "Pool of Radiance: Ruins of Myth Drannor - 5% Off Coupon" ]
+  }, {
+    "price" : 8.41,
+    "games" : [ "Dungeons & Dragons: Krynn Series", "Dungeons & Dragons: Dark Sun Series", "Dungeons & Dragons: Ravenloft Series", "Fantasy Empires", "Spelljammer: Pirates of Realmspace", "Silver Box Classics", "Forgotten Realms: The Archives - Collection Three", "Al-Qadim: The Genie's Curse", "Dungeons & Dragons - Stronghold: Kingdom Simulator", "DragonStrike", "DeathKeep", "The Temple of Elemental Evil - 33% Off Coupon", "Pool of Radiance: Ruins of Myth Drannor - 5% Off Coupon" ]
+  }, {
+    "price" : 5.25,
+    "games" : [ "Forgotten Realms: The Archives - Collection Three", "Al-Qadim: The Genie's Curse", "Dungeons & Dragons - Stronghold: Kingdom Simulator", "DragonStrike", "DeathKeep", "The Temple of Elemental Evil - 33% Off Coupon", "Pool of Radiance: Ruins of Myth Drannor - 5% Off Coupon" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/even-steamier-sakura-special",
   "name" : "Even Steamier Sakura Special",
   "endDate" : 1786161600000,
