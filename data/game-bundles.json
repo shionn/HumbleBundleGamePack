@@ -71,12 +71,34 @@
     "games" : [ "Ropuka's Idle Island", "Desktop Defender", "My Little Life", "Pupple Pop", "Plantera 2: Golden Acorn", "How To Train Your Cock" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/in-your-world-vr-bundle",
+  "name" : "In Your World VR Bundle",
+  "endDate" : 1787803200000,
+  "choices" : [ {
+    "price" : 18.72,
+    "games" : [ "Into the Radius VR", "WRATH: Aeon of Ruin VR - Brutal Edition", "Racket: Nx", "Sairento VR", "Labyrinthine", "DOOM VFR", "The Utility Room" ]
+  }, {
+    "price" : 8.31,
+    "games" : [ "Labyrinthine", "DOOM VFR", "The Utility Room" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/liminal-spaces",
   "name" : "Liminal Spaces",
   "endDate" : 1785988800000,
   "choices" : [ {
     "price" : 10.48,
     "games" : [ "The Cabin Factory", "The Backrooms: Survival", "LIMINAL WATERS", "Within the Backrooms", "Liminal Exit", "LIMINAL SHIFT" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/no-more-robots-unhinged-indie-anthology",
+  "name" : "No More Robots: The Unhinged Indie Anthology",
+  "endDate" : 1787803200000,
+  "choices" : [ {
+    "price" : 12.63,
+    "games" : [ "Earth Must Die", "Starless Abyss", "Let's Build a Zoo", "Spirittea", "Yes, Your Grace", "Hypnospace Outlaw", "Slayers X: Terminal Aftermath: Vengance of the Slayer", "Not Tonight 2", "Tombstar", "Not Tonight", "Not Tonight: One Love" ]
+  }, {
+    "price" : 6.31,
+    "games" : [ "Slayers X: Terminal Aftermath: Vengance of the Slayer", "Not Tonight 2", "Tombstar", "Not Tonight", "Not Tonight: One Love" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/point-click-package",
