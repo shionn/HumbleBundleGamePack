@@ -46,20 +46,6 @@
     "games" : [ "Sakura Dungeon", "Sakura Succubus", "Sakura Swim Club", "Sakura Succubus 2", "Sakura Succubus 6", "Sakura Succubus 5", "Sakura Succubus 4", "Sakura Succubus 3", "Sakura MMO", "Sakura MMO Extra", "Sakura MMO 2", "Sakura MMO 3", "Sakura Knight 3", "Sakura Knight 2", "Sakura Forest Girls", "Sakura Forest Girls 2", "Sakura Forest Girls 3", "Sakura Alien" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/handhelds-bundle",
-  "name" : "Humble Handhelds Bundle",
-  "endDate" : 1785988800000,
-  "choices" : [ {
-    "price" : 10.51,
-    "games" : [ "Blood West", "Symphony of War: The Nephilim Saga", "Sable", "Manifold Garden", "Nova Drift", "Children of Morta: Complete Edition", "Amid Evil" ]
-  }, {
-    "price" : 8.41,
-    "games" : [ "Manifold Garden", "Nova Drift", "Children of Morta: Complete Edition", "Amid Evil" ]
-  }, {
-    "price" : 5.25,
-    "games" : [ "Children of Morta: Complete Edition", "Amid Evil" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/idlers-and-desktop-companions",
   "name" : "Idlers and Desktop Companions",
   "endDate" : 1786766400000,
@@ -80,14 +66,6 @@
   }, {
     "price" : 8.31,
     "games" : [ "Labyrinthine", "DOOM VFR", "The Utility Room" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/liminal-spaces",
-  "name" : "Liminal Spaces",
-  "endDate" : 1785988800000,
-  "choices" : [ {
-    "price" : 10.48,
-    "games" : [ "The Cabin Factory", "The Backrooms: Survival", "LIMINAL WATERS", "Within the Backrooms", "Liminal Exit", "LIMINAL SHIFT" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/no-more-robots-unhinged-indie-anthology",
