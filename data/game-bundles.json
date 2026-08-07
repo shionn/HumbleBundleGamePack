@@ -18,6 +18,20 @@
     "games" : [ "Chillquarium", "A Building Full of Cats 2", "A Castle Full of Cats", "Crab God" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/awesome-indie-adventures",
+  "name" : "Awesome Indie Adventures",
+  "endDate" : 1787976000000,
+  "choices" : [ {
+    "price" : 13.57,
+    "games" : [ "The Pathless", "Post Trauma", "BIOMORPH", "WaveTale", "Baladins", "Jenny LeClue - Detectivu", "Beyond a Steel Sky", "Beyond a Steel Sky Soundtrack", "Kitaria Fables", "Before Your Eyes", "Moonlighter: Complete Edition", "Moonlighter 2: The Endless Vault Coupon (20%)" ]
+  }, {
+    "price" : 10.44,
+    "games" : [ "WaveTale", "Baladins", "Jenny LeClue - Detectivu", "Beyond a Steel Sky", "Beyond a Steel Sky Soundtrack", "Kitaria Fables", "Before Your Eyes", "Moonlighter: Complete Edition", "Moonlighter 2: The Endless Vault Coupon (20%)" ]
+  }, {
+    "price" : 5.22,
+    "games" : [ "Beyond a Steel Sky", "Beyond a Steel Sky Soundtrack", "Kitaria Fables", "Before Your Eyes", "Moonlighter: Complete Edition", "Moonlighter 2: The Endless Vault Coupon (20%)" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/dungeons-dragons-classics-collection-2026",
   "name" : "Dungeons & Dragons: Classics Collection 2026",
   "endDate" : 1787371200000,
@@ -102,6 +116,17 @@
   }, {
     "price" : 6.32,
     "games" : [ "Getting Over It", "Pogostuck: Rage With Your Friends", "Splodey", "Never Give Up" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/short-games-showcase-bundle",
+  "name" : "Short Games Showcase Bundle",
+  "endDate" : 1787976000000,
+  "choices" : [ {
+    "price" : 12.48,
+    "games" : [ "Botany Manor", "Biped", "Monster Prom 2: Monster Camp", "Anomoly Agent", "NanoApostle", "Knightica", "The Dark Queen of Mortholme", "Fill Up The Hole", "Old Man's Journey", "Teacup", "A Juggler's Tale", "Scanner Sombre", "Astro Prospector", "A Tiny Sticker Tale" ]
+  }, {
+    "price" : 6.24,
+    "games" : [ "Fill Up The Hole", "Old Man's Journey", "Teacup", "A Juggler's Tale", "Scanner Sombre", "Astro Prospector", "A Tiny Sticker Tale" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/squad-goals",
