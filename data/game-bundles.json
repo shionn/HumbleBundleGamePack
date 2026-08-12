@@ -60,6 +60,20 @@
     "games" : [ "Sakura Dungeon", "Sakura Succubus", "Sakura Swim Club", "Sakura Succubus 2", "Sakura Succubus 6", "Sakura Succubus 5", "Sakura Succubus 4", "Sakura Succubus 3", "Sakura MMO", "Sakura MMO Extra", "Sakura MMO 2", "Sakura MMO 3", "Sakura Knight 3", "Sakura Knight 2", "Sakura Forest Girls", "Sakura Forest Girls 2", "Sakura Forest Girls 3", "Sakura Alien" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/handsome-husbandos",
+  "name" : "Handsome Husbandos",
+  "endDate" : 1788408000000,
+  "choices" : [ {
+    "price" : 18.7,
+    "games" : [ "Nightshade/百花百狼", "Steam Prison", "Our Life: Beginnings & Always: DLC Pack", "OZMAFIA!!", "DesperaDrops", "Fashioning Little Miss Lonesome", "A Date with Death Deluxe DLC Pack", "MAMIYA", "Bakumatsu Renka SHINSENGUMI", "40% OFF Promise Mascot Agency" ]
+  }, {
+    "price" : 15.58,
+    "games" : [ "OZMAFIA!!", "DesperaDrops", "Fashioning Little Miss Lonesome", "A Date with Death Deluxe DLC Pack", "MAMIYA", "Bakumatsu Renka SHINSENGUMI", "40% OFF Promise Mascot Agency" ]
+  }, {
+    "price" : 12.46,
+    "games" : [ "Fashioning Little Miss Lonesome", "A Date with Death Deluxe DLC Pack", "MAMIYA", "Bakumatsu Renka SHINSENGUMI", "40% OFF Promise Mascot Agency" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/idlers-and-desktop-companions",
   "name" : "Idlers and Desktop Companions",
   "endDate" : 1786766400000,
@@ -80,6 +94,14 @@
   }, {
     "price" : 8.31,
     "games" : [ "Labyrinthine", "DOOM VFR", "The Utility Room" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/indies-support-for-venezuela-bundle",
+  "name" : "Indie's Support for Venezuela Bundle",
+  "endDate" : 1788408000000,
+  "choices" : [ {
+    "price" : 15.57,
+    "games" : [ "VA-11 Hall-A: Cyberpunk Bartender Action", "TOEM: A Photo Adventure", "Arco", "Bug Fables: The Everlasting Sapling", "9 Years of Shadows", "Calico", "The Last Cat in the Universe", "The Last Cat in the Universe - Supporter Pack", "Princess Pomu and the 5 Moons", "The end is nahual: If I may say so", "Lonesome Village", "RKGK / Rakugaki", "OYASUMII" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/no-more-robots-unhinged-indie-anthology",
