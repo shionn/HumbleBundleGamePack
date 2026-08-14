@@ -32,6 +32,20 @@
     "games" : [ "Beyond a Steel Sky", "Beyond a Steel Sky Soundtrack", "Kitaria Fables", "Before Your Eyes", "Moonlighter: Complete Edition", "Moonlighter 2: The Endless Vault Coupon (20%)" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/built-differently-builder-games",
+  "name" : "Built Differently: Builder Games",
+  "endDate" : 1788580800000,
+  "choices" : [ {
+    "price" : 14.55,
+    "games" : [ "Frostpunk: Game of the Year edition", "Diplomacy is Not an Option", "TerraTech Prospector Edition", "Drill Core", "Per Aspera Deluxe Edition", "SteamWorld Build", "Endzone 2 Deluxe Edition", "I Am Future: Cozy Apocalypse Survival", "Gourdlets", "URBO" ]
+  }, {
+    "price" : 10.39,
+    "games" : [ "Per Aspera Deluxe Edition", "SteamWorld Build", "Endzone 2 Deluxe Edition", "I Am Future: Cozy Apocalypse Survival", "Gourdlets", "URBO" ]
+  }, {
+    "price" : 7.27,
+    "games" : [ "I Am Future: Cozy Apocalypse Survival", "Gourdlets", "URBO" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/dungeons-dragons-classics-collection-2026",
   "name" : "Dungeons & Dragons: Classics Collection 2026",
   "endDate" : 1787371200000,
