@@ -129,6 +129,20 @@
     "games" : [ "Getting Over It", "Pogostuck: Rage With Your Friends", "Splodey", "Never Give Up" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/shantae-heroic-heroines",
+  "name" : "Shantae & Heroic Heroines",
+  "endDate" : 1788840000000,
+  "choices" : [ {
+    "price" : 15.58,
+    "games" : [ "Shantae: Half-Genie Hero Ultimate Edition", "Shantae and the Seven Sirens", "River City Girls", "Shantae and the Pirate's Curse", "RWBY: Arrowfell", "Mighty Switch Force! Collection", "Shantae: Risky's Revenge - Director's Cut", "Spidersaurs", "Mighty Switch Force! Hose It Down", "Shantae Advance: Risky Revolution Deluxe Edition 25% off Coupon" ]
+  }, {
+    "price" : 10.39,
+    "games" : [ "Shantae and the Pirate's Curse", "RWBY: Arrowfell", "Mighty Switch Force! Collection", "Shantae: Risky's Revenge - Director's Cut", "Spidersaurs", "Mighty Switch Force! Hose It Down", "Shantae Advance: Risky Revolution Deluxe Edition 25% off Coupon" ]
+  }, {
+    "price" : 5.19,
+    "games" : [ "Shantae: Risky's Revenge - Director's Cut", "Spidersaurs", "Mighty Switch Force! Hose It Down", "Shantae Advance: Risky Revolution Deluxe Edition 25% off Coupon" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/short-games-showcase-bundle",
   "name" : "Short Games Showcase Bundle",
   "endDate" : 1787976000000,
