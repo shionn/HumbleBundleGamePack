@@ -49,6 +49,17 @@
     "games" : [ "Forgotten Realms: The Archives - Collection Three", "Al-Qadim: The Genie's Curse", "Dungeons & Dragons - Stronghold: Kingdom Simulator", "DragonStrike", "DeathKeep", "The Temple of Elemental Evil - 33% Off Coupon", "Pool of Radiance: Ruins of Myth Drannor - 5% Off Coupon" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/hambles-summer-island-getaway-bundle",
+  "name" : "Hamble's Summer Island Getaway Bundle",
+  "endDate" : 1789012800000,
+  "choices" : [ {
+    "price" : 12.46,
+    "games" : [ "Primordialis", "Caribbean Legend", "Forgotten Seas", "ISLANDERS: New Shores", "Just a To the Moon Series Beach Episode", "The South Island", "ISLANDERS", "Flooded" ]
+  }, {
+    "price" : 6.22,
+    "games" : [ "ISLANDERS: New Shores", "Just a To the Moon Series Beach Episode", "The South Island", "ISLANDERS", "Flooded" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/handsome-husbandos",
   "name" : "Handsome Husbandos",
   "endDate" : 1788408000000,
@@ -163,5 +174,19 @@
   }, {
     "price" : 10.48,
     "games" : [ "Wantless : Solace at Worlds End", "Terraforming Mars", "Terraforming Mars - Original Promo Pack", "Terraforming Mars: Venus Next", "Terraforming Mars: Prelude DLC", "Terraforming Mars: Hellas & Elysium DLC", "A Game of Thrones: The Board Game - Digital Edition", "A Game Of Thrones - A Dance With Dragons", "A Game Of Thrones - A Feast For Crows", "Arkham Horror- Mother's Embrace", "Carcassonne - Tiles & Tactics", "Carcassonne - The Princess and The Dragon", "Carcassonne - Traders and Builders", "Carcassonne - Winter & Gingerbread Man", "Carcassonne - Inns & Cathedrals", "Carcassonne - The River", "The Lord of the Rings: Adventure Card Game - Definitive Edition", "Innchanted", "Splendor", "Splendor - The Strongholds", "Splendor - The Cities", "Agricola: All Creatures Big & Small", "Isle of Skye", "News Tower 30% Off", "Gloomhaven: Jaws of the Lion DLC 40% Off Coupon" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/yes-chef-cooking-bundle",
+  "name" : "Yes Chef! - Cooking Bundle",
+  "endDate" : 1789012800000,
+  "choices" : [ {
+    "price" : 16.59,
+    "games" : [ "Tavern Manager Simulator", "The Chef's Shift", "Chef Knight", "Pizza Possum", "Food Truck Simulator", "Bento Blocks", "Magical Delicacy", "Don't Let it Starve", "UMAMI", "Brewmaster: Beer Brewing Simulator", "Tailside: Cozy Cafe Sim", "Which Sausage, Mate?", "Burger Bots Inc.", "Cannibal Cuisine", "Bakery Simulator", "Recipe for Disaster" ]
+  }, {
+    "price" : 13.47,
+    "games" : [ "Pizza Possum", "Food Truck Simulator", "Bento Blocks", "Magical Delicacy", "Don't Let it Starve", "UMAMI", "Brewmaster: Beer Brewing Simulator", "Tailside: Cozy Cafe Sim", "Which Sausage, Mate?", "Burger Bots Inc.", "Cannibal Cuisine", "Bakery Simulator", "Recipe for Disaster" ]
+  }, {
+    "price" : 7.26,
+    "games" : [ "Brewmaster: Beer Brewing Simulator", "Tailside: Cozy Cafe Sim", "Which Sausage, Mate?", "Burger Bots Inc.", "Cannibal Cuisine", "Bakery Simulator", "Recipe for Disaster" ]
   } ]
 } ]
