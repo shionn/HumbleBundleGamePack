@@ -115,31 +115,6 @@
     "games" : [ "Slayers X: Terminal Aftermath: Vengance of the Slayer", "Not Tonight 2", "Tombstar", "Not Tonight", "Not Tonight: One Love" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/point-click-package",
-  "name" : "Point Click Package",
-  "endDate" : 1787198400000,
-  "choices" : [ {
-    "price" : 15.78,
-    "games" : [ "Syberia Remastered", "Amerzone - The Explorer's Legacy - Digital Deluxe Edition", "Agatha Christie: Death on the Nile", "Syberia: The World Before Deluxe Edition", "Lil' Guardsman", "Unavowed", "When the Past Was Around", "Sunday Gold", "STASIS: BONE TOTEM", "Coupon Old Skies 35%" ]
-  }, {
-    "price" : 10.51,
-    "games" : [ "Syberia: The World Before Deluxe Edition", "Lil' Guardsman", "Unavowed", "When the Past Was Around", "Sunday Gold", "STASIS: BONE TOTEM", "Coupon Old Skies 35%" ]
-  }, {
-    "price" : 5.25,
-    "games" : [ "When the Past Was Around", "Sunday Gold", "STASIS: BONE TOTEM", "Coupon Old Skies 35%" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/rage-inducing-difficult-games",
-  "name" : "Rage Inducing Difficult Games",
-  "endDate" : 1787198400000,
-  "choices" : [ {
-    "price" : 13.7,
-    "games" : [ "GRIME - Deluxe Edition", "Lorn's Lure", "Aeterna: Darkness Megapack", "Jump King", "Egging On", "Ghostrunner", "Getting Over It", "Pogostuck: Rage With Your Friends", "Splodey", "Never Give Up" ]
-  }, {
-    "price" : 6.32,
-    "games" : [ "Getting Over It", "Pogostuck: Rage With Your Friends", "Splodey", "Never Give Up" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/shantae-heroic-heroines",
   "name" : "Shantae & Heroic Heroines",
   "endDate" : 1788840000000,
@@ -163,17 +138,6 @@
   }, {
     "price" : 6.24,
     "games" : [ "Fill Up The Hole", "Old Man's Journey", "Teacup", "A Juggler's Tale", "Scanner Sombre", "Astro Prospector", "A Tiny Sticker Tale" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/twin-sails-interactive-2026",
-  "name" : "Twin Sails Interactive 2026",
-  "endDate" : 1787198400000,
-  "choices" : [ {
-    "price" : 20.98,
-    "games" : [ "Gloomhaven", "Gloomhaven - Solo Scenarios: Mercenary Challenges", "Ember Knights", "Bloomtown: A Different Story", "Wantless : Solace at Worlds End", "Terraforming Mars", "Terraforming Mars - Original Promo Pack", "Terraforming Mars: Venus Next", "Terraforming Mars: Prelude DLC", "Terraforming Mars: Hellas & Elysium DLC", "A Game of Thrones: The Board Game - Digital Edition", "A Game Of Thrones - A Dance With Dragons", "A Game Of Thrones - A Feast For Crows", "Arkham Horror- Mother's Embrace", "Carcassonne - Tiles & Tactics", "Carcassonne - The Princess and The Dragon", "Carcassonne - Traders and Builders", "Carcassonne - Winter & Gingerbread Man", "Carcassonne - Inns & Cathedrals", "Carcassonne - The River", "The Lord of the Rings: Adventure Card Game - Definitive Edition", "Innchanted", "Splendor", "Splendor - The Strongholds", "Splendor - The Cities", "Agricola: All Creatures Big & Small", "Isle of Skye", "News Tower 30% Off", "Gloomhaven: Jaws of the Lion DLC 40% Off Coupon" ]
-  }, {
-    "price" : 10.48,
-    "games" : [ "Wantless : Solace at Worlds End", "Terraforming Mars", "Terraforming Mars - Original Promo Pack", "Terraforming Mars: Venus Next", "Terraforming Mars: Prelude DLC", "Terraforming Mars: Hellas & Elysium DLC", "A Game of Thrones: The Board Game - Digital Edition", "A Game Of Thrones - A Dance With Dragons", "A Game Of Thrones - A Feast For Crows", "Arkham Horror- Mother's Embrace", "Carcassonne - Tiles & Tactics", "Carcassonne - The Princess and The Dragon", "Carcassonne - Traders and Builders", "Carcassonne - Winter & Gingerbread Man", "Carcassonne - Inns & Cathedrals", "Carcassonne - The River", "The Lord of the Rings: Adventure Card Game - Definitive Edition", "Innchanted", "Splendor", "Splendor - The Strongholds", "Splendor - The Cities", "Agricola: All Creatures Big & Small", "Isle of Skye", "News Tower 30% Off", "Gloomhaven: Jaws of the Lion DLC 40% Off Coupon" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/yes-chef-cooking-bundle",
