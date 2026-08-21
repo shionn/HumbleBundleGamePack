@@ -74,6 +74,17 @@
     "games" : [ "Fashioning Little Miss Lonesome", "A Date with Death Deluxe DLC Pack", "MAMIYA", "Bakumatsu Renka SHINSENGUMI", "40% OFF Promise Mascot Agency" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/humble-15th-anniversary-ready-player-one-and-two",
+  "name" : "Humble 15th Anniversary - Ready Player One ... and Two",
+  "endDate" : 1789185600000,
+  "choices" : [ {
+    "price" : 22.83,
+    "games" : [ "MIMESIS", "Killing Floor 3", "Streets of Rage 4", "We Were Here Forever", "Vellum", "Friends vs Friends: Deluxe Edition", "Storebound" ]
+  }, {
+    "price" : 13.44,
+    "games" : [ "MIMESIS", "Killing Floor 3", "Streets of Rage 4", "We Were Here Forever", "Vellum", "Friends vs Friends: Deluxe Edition", "Storebound" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/idlers-and-desktop-companions",
   "name" : "Idlers and Desktop Companions",
   "endDate" : 1787371200000,
@@ -102,6 +113,20 @@
   "choices" : [ {
     "price" : 15.57,
     "games" : [ "VA-11 Hall-A: Cyberpunk Bartender Action", "TOEM: A Photo Adventure", "Arco", "Bug Fables: The Everlasting Sapling", "9 Years of Shadows", "Calico", "The Last Cat in the Universe", "The Last Cat in the Universe - Supporter Pack", "Princess Pomu and the 5 Moons", "The end is nahual: If I may say so", "Lonesome Village", "RKGK / Rakugaki", "OYASUMII", "Neon City Riders" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/love-letter-to-lovecraft",
+  "name" : "Love Letter to Lovecraft",
+  "endDate" : 1789185600000,
+  "choices" : [ {
+    "price" : 13.47,
+    "games" : [ "Remnant: From The Ashes", "Forgive Me Father 2 Deluxe Edition", "Stygian: Outer Gods", "Dagon: By H.P Lovecraft DLC Pack", "Abandon Ship", "Call of Cthulhu", "Whisper Mountain Outbreak", "Forgive Me Father", "Sundered: Eldritch Edition" ]
+  }, {
+    "price" : 10.35,
+    "games" : [ "Dagon: By H.P Lovecraft DLC Pack", "Abandon Ship", "Call of Cthulhu", "Whisper Mountain Outbreak", "Forgive Me Father", "Sundered: Eldritch Edition" ]
+  }, {
+    "price" : 5.17,
+    "games" : [ "Whisper Mountain Outbreak", "Forgive Me Father", "Sundered: Eldritch Edition" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/no-more-robots-unhinged-indie-anthology",
