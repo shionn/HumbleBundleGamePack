@@ -1,12 +1,4 @@
 [ {
-  "url" : "https://www.humblebundle.com/games/2k-megahits-2026-bundle",
-  "name" : "2K Megahits 2026 Bundle",
-  "endDate" : 1787371200000,
-  "choices" : [ {
-    "price" : 15.78,
-    "games" : [ "Risk of Rain 2", "Borderlands 3 Standard Edition", "Mafia II: Definitive Edition", "BioShock Infinite", "Tiny Tina's Wonderlands", "The Quarry", "Tribes of Midgard Deluxe Edition", "Homeworld Remastered Collection", "Tales from the Borderlands", "Bulletstorm Full Clip Edition", "Duke Nukem 3D: 20th Anniversary World Tour", "Hidden & Dangerous Bundle", "The Darkness II", "X-COM: UFO Defense", "XCOM Enemy Unknown" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/awesome-indie-adventures",
   "name" : "Awesome Indie Adventures",
   "endDate" : 1787976000000,
@@ -33,20 +25,6 @@
   }, {
     "price" : 7.27,
     "games" : [ "I Am Future: Cozy Apocalypse Survival", "Gourdlets", "URBO" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/dungeons-dragons-classics-collection-2026",
-  "name" : "Dungeons & Dragons: Classics Collection 2026",
-  "endDate" : 1787371200000,
-  "choices" : [ {
-    "price" : 12.61,
-    "games" : [ "Forgotten Realms: Demon Stone", "Dungeons & Dragons: Dragonshard", "Forgotten Realms: The Archives - Collection One", "Forgotten Realms: The Archives - Collection Two", "Dungeons & Dragons: Krynn Series", "Dungeons & Dragons: Dark Sun Series", "Dungeons & Dragons: Ravenloft Series", "Fantasy Empires", "Spelljammer: Pirates of Realmspace", "Silver Box Classics", "Forgotten Realms: The Archives - Collection Three", "Al-Qadim: The Genie's Curse", "Dungeons & Dragons - Stronghold: Kingdom Simulator", "DragonStrike", "DeathKeep", "The Temple of Elemental Evil - 33% Off Coupon", "Pool of Radiance: Ruins of Myth Drannor - 5% Off Coupon" ]
-  }, {
-    "price" : 8.41,
-    "games" : [ "Dungeons & Dragons: Krynn Series", "Dungeons & Dragons: Dark Sun Series", "Dungeons & Dragons: Ravenloft Series", "Fantasy Empires", "Spelljammer: Pirates of Realmspace", "Silver Box Classics", "Forgotten Realms: The Archives - Collection Three", "Al-Qadim: The Genie's Curse", "Dungeons & Dragons - Stronghold: Kingdom Simulator", "DragonStrike", "DeathKeep", "The Temple of Elemental Evil - 33% Off Coupon", "Pool of Radiance: Ruins of Myth Drannor - 5% Off Coupon" ]
-  }, {
-    "price" : 5.25,
-    "games" : [ "Forgotten Realms: The Archives - Collection Three", "Al-Qadim: The Genie's Curse", "Dungeons & Dragons - Stronghold: Kingdom Simulator", "DragonStrike", "DeathKeep", "The Temple of Elemental Evil - 33% Off Coupon", "Pool of Radiance: Ruins of Myth Drannor - 5% Off Coupon" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/hambles-summer-island-getaway-bundle",
@@ -83,17 +61,6 @@
   }, {
     "price" : 13.44,
     "games" : [ "MIMESIS", "Killing Floor 3", "Streets of Rage 4", "We Were Here Forever", "Vellum", "Friends vs Friends: Deluxe Edition", "Storebound" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/idlers-and-desktop-companions",
-  "name" : "Idlers and Desktop Companions",
-  "endDate" : 1787371200000,
-  "choices" : [ {
-    "price" : 10.5,
-    "games" : [ "Spirit City: Lofi Sessions", "Rusty's Retirement", "Dark Hunting Ground", "Military Incremental Complex", "Berserk B.I.T.S", "Kin and Quarry", "Focus Grove", "Ropuka's Idle Island", "Desktop Defender", "My Little Life", "Pupple Pop", "Plantera 2: Golden Acorn", "How To Train Your Cock" ]
-  }, {
-    "price" : 6.3,
-    "games" : [ "Ropuka's Idle Island", "Desktop Defender", "My Little Life", "Pupple Pop", "Plantera 2: Golden Acorn", "How To Train Your Cock" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/in-your-world-vr-bundle",
