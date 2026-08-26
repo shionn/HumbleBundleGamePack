@@ -13,6 +13,17 @@
     "games" : [ "Beyond a Steel Sky", "Beyond a Steel Sky Soundtrack", "Kitaria Fables", "Before Your Eyes", "Moonlighter: Complete Edition", "Moonlighter 2: The Endless Vault Coupon (20%)" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/beyond-metroidverse-bundle",
+  "name" : "Beyond the Metroidverse Bundle",
+  "endDate" : 1789617600000,
+  "choices" : [ {
+    "price" : 10.24,
+    "games" : [ "Supraland Six Inches Under", "HAAK", "Monster Boy and the Cursed Kingdom", "Worldless", "Hunter X", "Salt and Sanctuary", "Salt and Sacrifice" ]
+  }, {
+    "price" : 5.12,
+    "games" : [ "Salt and Sanctuary", "Salt and Sacrifice" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/built-differently-builder-games",
   "name" : "Built Differently: Builder Games",
   "endDate" : 1788580800000,
