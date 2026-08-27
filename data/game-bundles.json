@@ -74,17 +74,6 @@
     "games" : [ "MIMESIS", "Killing Floor 3", "Streets of Rage 4", "We Were Here Forever", "Vellum", "Friends vs Friends: Deluxe Edition", "Storebound" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/in-your-world-vr-bundle",
-  "name" : "In Your World VR Bundle",
-  "endDate" : 1787803200000,
-  "choices" : [ {
-    "price" : 18.72,
-    "games" : [ "Into the Radius VR", "WRATH: Aeon of Ruin VR - Brutal Edition", "Racket: Nx", "Sairento VR", "Labyrinthine", "DOOM VFR", "The Utility Room" ]
-  }, {
-    "price" : 8.31,
-    "games" : [ "Labyrinthine", "DOOM VFR", "The Utility Room" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/indies-support-for-venezuela-bundle",
   "name" : "Indie's Support for Venezuela Bundle",
   "endDate" : 1788408000000,
@@ -105,17 +94,6 @@
   }, {
     "price" : 5.17,
     "games" : [ "Whisper Mountain Outbreak", "Forgive Me Father", "Sundered: Eldritch Edition" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/no-more-robots-unhinged-indie-anthology",
-  "name" : "No More Robots: The Unhinged Indie Anthology",
-  "endDate" : 1787803200000,
-  "choices" : [ {
-    "price" : 12.63,
-    "games" : [ "Earth Must Die", "Starless Abyss", "Let's Build a Zoo", "Spirittea", "Yes, Your Grace", "Hypnospace Outlaw", "Slayers X: Terminal Aftermath: Vengance of the Slayer", "Not Tonight 2", "Tombstar", "Not Tonight", "Not Tonight: One Love" ]
-  }, {
-    "price" : 6.31,
-    "games" : [ "Slayers X: Terminal Aftermath: Vengance of the Slayer", "Not Tonight 2", "Tombstar", "Not Tonight", "Not Tonight: One Love" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/shantae-heroic-heroines",
