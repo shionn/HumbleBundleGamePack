@@ -96,6 +96,17 @@
     "games" : [ "Whisper Mountain Outbreak", "Forgive Me Father", "Sundered: Eldritch Edition" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/pax-west-2026-bundle",
+  "name" : "PAX West 2026 Bundle",
+  "endDate" : 1789790400000,
+  "choices" : [ {
+    "price" : 20.55,
+    "games" : [ "Cornucopia", "Dark Deity 2", "Quilts and Cats of Calico Special Edition", "Order Automatica", "The Lacerator", "GODBREAKERS", "Parking Garage Rally Circuit", "Neckbreak", "Super Dungeon Designer 40% off Coupon" ]
+  }, {
+    "price" : 10.27,
+    "games" : [ "Order Automatica", "The Lacerator", "GODBREAKERS", "Parking Garage Rally Circuit", "Neckbreak", "Super Dungeon Designer 40% off Coupon" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/shantae-heroic-heroines",
   "name" : "Shantae & Heroic Heroines",
   "endDate" : 1788840000000,
