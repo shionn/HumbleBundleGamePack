@@ -1,7 +1,7 @@
 [ {
   "url" : "https://www.humblebundle.com/games/awesome-indie-adventures",
   "name" : "Awesome Indie Adventures",
-  "endDate" : 1787976000000,
+  "endDate" : 1788580800000,
   "choices" : [ {
     "price" : 13.57,
     "games" : [ "The Pathless", "Post Trauma", "BIOMORPH", "WaveTale", "Baladins", "Jenny LeClue - Detectivu", "Beyond a Steel Sky", "Beyond a Steel Sky Soundtrack", "Kitaria Fables", "Before Your Eyes", "Moonlighter: Complete Edition", "Moonlighter 2: The Endless Vault Coupon (20%)" ]
@@ -119,17 +119,6 @@
   }, {
     "price" : 5.19,
     "games" : [ "Shantae: Risky's Revenge - Director's Cut", "Spidersaurs", "Mighty Switch Force! Hose It Down", "Shantae Advance: Risky Revolution Deluxe Edition 25% off Coupon" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/short-games-showcase-bundle",
-  "name" : "Short Games Showcase Bundle",
-  "endDate" : 1787976000000,
-  "choices" : [ {
-    "price" : 12.48,
-    "games" : [ "Botany Manor", "Biped", "Monster Prom 2: Monster Camp", "Anomoly Agent", "NanoApostle", "Knightica", "The Dark Queen of Mortholme", "Fill Up The Hole", "Old Man's Journey", "Teacup", "A Juggler's Tale", "Scanner Sombre", "Astro Prospector", "A Tiny Sticker Tale" ]
-  }, {
-    "price" : 6.24,
-    "games" : [ "Fill Up The Hole", "Old Man's Journey", "Teacup", "A Juggler's Tale", "Scanner Sombre", "Astro Prospector", "A Tiny Sticker Tale" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/yes-chef-cooking-bundle",
