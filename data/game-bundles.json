@@ -52,6 +52,20 @@
     "games" : [ "Torment: Tides of Numenera", "Gamedec - Definitive Edition", "Disco Elysium", "UnderRail", "Balrum" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/crpg-pack-isometric-immersion",
+  "name" : "CRPG Pack: Isometric Immersion",
+  "endDate" : 1790222400000,
+  "choices" : [ {
+    "price" : 23.7,
+    "games" : [ "Warhammer 40,000: Rogue Trader", "Warhammer 40,000: Rogue Trader - Season Pass", "Pathfinder: Wrath of the Righteous - Game of the Year Edition", "SKALD: Against the Black Priory - Deluxe Bundle", "Black Geyser: Couriers of Darkness", "Black Geyser: Couriers of Darkness - Tales of the Moon Cult", "Torment: Tides of Numenera", "Gamedec - Definitive Edition", "Disco Elysium", "UnderRail", "Balrum" ]
+  }, {
+    "price" : 15.45,
+    "games" : [ "Pathfinder: Wrath of the Righteous - Game of the Year Edition", "SKALD: Against the Black Priory - Deluxe Bundle", "Black Geyser: Couriers of Darkness", "Black Geyser: Couriers of Darkness - Tales of the Moon Cult", "Torment: Tides of Numenera", "Gamedec - Definitive Edition", "Disco Elysium", "UnderRail", "Balrum" ]
+  }, {
+    "price" : 10.29,
+    "games" : [ "Torment: Tides of Numenera", "Gamedec - Definitive Edition", "Disco Elysium", "UnderRail", "Balrum" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/dread-and-dark-fantasies-rpg-collection",
   "name" : "Dread and Dark Fantasies RPG Collection",
   "endDate" : 1789790400000,
