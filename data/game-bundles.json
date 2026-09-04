@@ -141,6 +141,20 @@
     "games" : [ "Mega Man Battle Network Legacy Collection Vol.2", "Mega Man Battle Network Legacy Collection Vol.1", "MEGA MAN X DiVE Offline" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/narrative-masterpieces",
+  "name" : "Narrative Masterpieces",
+  "endDate" : 1790395200000,
+  "choices" : [ {
+    "price" : 13.46,
+    "games" : [ "IMMORTALITY", "Wednesdays", "Tavern Talk 2: Dreamwalker", "Tavern Talk 2: Dreamwalker - Drowsy Druid (Decoration Pack)", "Tavern Talk 2: Dreamwalker - Wondrous Wizard (Decoration Pack)", "The Wreck", "The Pale Beyond", "SUNLESS SKIES", "Eliza", "Along the Edge", "We. The Revolution", "Crowns and Pawns: Kingdom of Deceit" ]
+  }, {
+    "price" : 10.35,
+    "games" : [ "The Pale Beyond", "SUNLESS SKIES", "Eliza", "Along the Edge", "We. The Revolution", "Crowns and Pawns: Kingdom of Deceit" ]
+  }, {
+    "price" : 7.24,
+    "games" : [ "Along the Edge", "We. The Revolution", "Crowns and Pawns: Kingdom of Deceit" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/pax-west-2026-bundle",
   "name" : "PAX West 2026 Bundle",
   "endDate" : 1789790400000,
