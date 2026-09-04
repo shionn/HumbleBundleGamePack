@@ -124,6 +124,20 @@
     "games" : [ "Whisper Mountain Outbreak", "Forgive Me Father", "Sundered: Eldritch Edition" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/make-play-games-in-godot-software",
+  "name" : "Make & Play Games in Godot",
+  "endDate" : 1790359200000,
+  "choices" : [ {
+    "price" : 25.76,
+    "games" : [ "Level Design Fundamentals", "Godot 4: Build a 2D Action-Adventure Game Course", "Godot 4: Build an Action Combat RPG Course", "Godot 4 C# Action Adventure Course: Build your own 2.5D RPG", "Complete Godot 3D Course: Develop Your Own 3D Games Using Godot 4", "Godot UI", "Windowkill", "The Electrifying Incident: A Monster Mini-Expedition", "Buckshot Roulette", "Godot 4: Create and Master Custom Plugins Course", "From Blender to Godot Course: Game-Ready Assets, Characters and Animation", "Godot 4 Shaders Course: Craft Stunning Visuals", "Godot Character Controller" ]
+  }, {
+    "price" : 15.45,
+    "games" : [ "Godot 4: Create and Master Custom Plugins Course", "From Blender to Godot Course: Game-Ready Assets, Characters and Animation", "Godot 4 Shaders Course: Craft Stunning Visuals", "Godot Character Controller" ]
+  }, {
+    "price" : 5.14,
+    "games" : [ "Godot Character Controller" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/mega-man-recharged-collection",
   "name" : "Mega Man: Recharged Collection",
   "endDate" : 1790827200000,
