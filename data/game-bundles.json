@@ -1,18 +1,4 @@
 [ {
-  "url" : "https://www.humblebundle.com/games/awesome-indie-adventures",
-  "name" : "Awesome Indie Adventures",
-  "endDate" : 1788580800000,
-  "choices" : [ {
-    "price" : 13.57,
-    "games" : [ "The Pathless", "Post Trauma", "BIOMORPH", "WaveTale", "Baladins", "Jenny LeClue - Detectivu", "Beyond a Steel Sky", "Beyond a Steel Sky Soundtrack", "Kitaria Fables", "Before Your Eyes", "Moonlighter: Complete Edition", "Moonlighter 2: The Endless Vault Coupon (20%)" ]
-  }, {
-    "price" : 10.44,
-    "games" : [ "WaveTale", "Baladins", "Jenny LeClue - Detectivu", "Beyond a Steel Sky", "Beyond a Steel Sky Soundtrack", "Kitaria Fables", "Before Your Eyes", "Moonlighter: Complete Edition", "Moonlighter 2: The Endless Vault Coupon (20%)" ]
-  }, {
-    "price" : 5.22,
-    "games" : [ "Beyond a Steel Sky", "Beyond a Steel Sky Soundtrack", "Kitaria Fables", "Before Your Eyes", "Moonlighter: Complete Edition", "Moonlighter 2: The Endless Vault Coupon (20%)" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/beyond-metroidverse-bundle",
   "name" : "Beyond the Metroidverse Bundle",
   "endDate" : 1789617600000,
@@ -26,7 +12,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/built-differently-builder-games",
   "name" : "Built Differently: Builder Games",
-  "endDate" : 1788580800000,
+  "endDate" : 1789185600000,
   "choices" : [ {
     "price" : 14.55,
     "games" : [ "Frostpunk: Game of the Year edition", "Diplomacy is Not an Option", "TerraTech Prospector Edition", "Drill Core", "Per Aspera Deluxe Edition", "SteamWorld Build", "Endzone 2 Deluxe Edition", "I Am Future: Cozy Apocalypse Survival", "Gourdlets", "URBO" ]
