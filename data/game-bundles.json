@@ -38,6 +38,17 @@
     "games" : [ "Torment: Tides of Numenera", "Gamedec - Definitive Edition", "Disco Elysium", "UnderRail", "Balrum" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/crawling-through-dungeons",
+  "name" : "Crawling Through the Dungeons",
+  "endDate" : 1790827200000,
+  "choices" : [ {
+    "price" : 14.44,
+    "games" : [ "The Bard's Tale Trilogy", "CiniCross", "Dungeon Drafters", "Crawl", "Wizardry: Labyrinth of Lost Souls", "Xanadu Next", "BroomSweeper", "Cthulhu's Reach: Devil Reef", "Astalon: Tears of the Earth", "Touhou Artificial Dream in Arcadia", "Dungeon Tycoon" ]
+  }, {
+    "price" : 10.32,
+    "games" : [ "Crawl", "Wizardry: Labyrinth of Lost Souls", "Xanadu Next", "BroomSweeper", "Cthulhu's Reach: Devil Reef", "Astalon: Tears of the Earth", "Touhou Artificial Dream in Arcadia", "Dungeon Tycoon" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/dread-and-dark-fantasies-rpg-collection",
   "name" : "Dread and Dark Fantasies RPG Collection",
   "endDate" : 1789790400000,
