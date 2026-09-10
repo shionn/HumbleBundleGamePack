@@ -63,31 +63,6 @@
     "games" : [ "Steelrising - Bastille Edition", "The Axis Unseen" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/hambles-summer-island-getaway-bundle",
-  "name" : "Hamble's Summer Island Getaway Bundle",
-  "endDate" : 1789012800000,
-  "choices" : [ {
-    "price" : 12.46,
-    "games" : [ "Primordialis", "Caribbean Legend", "Forgotten Seas", "ISLANDERS: New Shores", "Just a To the Moon Series Beach Episode", "The South Island", "ISLANDERS", "Flooded" ]
-  }, {
-    "price" : 6.22,
-    "games" : [ "ISLANDERS: New Shores", "Just a To the Moon Series Beach Episode", "The South Island", "ISLANDERS", "Flooded" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/handsome-husbandos",
-  "name" : "Handsome Husbandos",
-  "endDate" : 1789012800000,
-  "choices" : [ {
-    "price" : 18.7,
-    "games" : [ "Nightshade/百花百狼", "Steam Prison", "Our Life: Beginnings & Always: DLC Pack", "OZMAFIA!!", "DesperaDrops", "Fashioning Little Miss Lonesome", "A Date with Death Deluxe DLC Pack", "MAMIYA", "Bakumatsu Renka SHINSENGUMI", "40% OFF Promise Mascot Agency" ]
-  }, {
-    "price" : 15.58,
-    "games" : [ "OZMAFIA!!", "DesperaDrops", "Fashioning Little Miss Lonesome", "A Date with Death Deluxe DLC Pack", "MAMIYA", "Bakumatsu Renka SHINSENGUMI", "40% OFF Promise Mascot Agency" ]
-  }, {
-    "price" : 12.46,
-    "games" : [ "Fashioning Little Miss Lonesome", "A Date with Death Deluxe DLC Pack", "MAMIYA", "Bakumatsu Renka SHINSENGUMI", "40% OFF Promise Mascot Agency" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/humble-15th-anniversary-ready-player-one-and-two",
   "name" : "Humble 15th Anniversary - Ready Player One ... and Two",
   "endDate" : 1789185600000,
@@ -97,14 +72,6 @@
   }, {
     "price" : 13.44,
     "games" : [ "MIMESIS", "Killing Floor 3", "Streets of Rage 4", "We Were Here Forever", "Vellum", "Friends vs Friends: Deluxe Edition", "Storebound" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/indies-support-for-venezuela-bundle",
-  "name" : "Indie's Support for Venezuela Bundle",
-  "endDate" : 1789012800000,
-  "choices" : [ {
-    "price" : 15.57,
-    "games" : [ "VA-11 Hall-A: Cyberpunk Bartender Action", "TOEM: A Photo Adventure", "Arco", "Bug Fables: The Everlasting Sapling", "9 Years of Shadows", "Calico", "The Last Cat in the Universe", "The Last Cat in the Universe - Supporter Pack", "Princess Pomu and the 5 Moons", "The end is nahual: If I may say so", "Lonesome Village", "RKGK / Rakugaki", "OYASUMII", "Neon City Riders", "Jason Maxx", "Mexico, 1921. A Deep Slumber", "PopSlinger", "Dandara: Trials of Fear Edition" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/love-letter-to-lovecraft",
@@ -193,7 +160,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/yes-chef-cooking-bundle",
   "name" : "Yes Chef! - Cooking Bundle",
-  "endDate" : 1789012800000,
+  "endDate" : 1789617600000,
   "choices" : [ {
     "price" : 16.59,
     "games" : [ "Tavern Manager Simulator", "The Chef's Shift", "Chef Knight", "Pizza Possum", "Food Truck Simulator", "Bento Blocks", "Magical Delicacy", "Don't Let it Starve", "UMAMI", "Brewmaster: Beer Brewing Simulator", "Tailside: Cozy Cafe Sim", "Which Sausage, Mate?", "Burger Bots Inc.", "Cannibal Cuisine", "Bakery Simulator", "Recipe for Disaster" ]
