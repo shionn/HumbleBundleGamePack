@@ -10,20 +10,6 @@
     "games" : [ "Salt and Sanctuary", "Salt and Sacrifice" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/built-differently-builder-games",
-  "name" : "Built Differently: Builder Games",
-  "endDate" : 1789185600000,
-  "choices" : [ {
-    "price" : 14.55,
-    "games" : [ "Frostpunk: Game of the Year edition", "Diplomacy is Not an Option", "TerraTech Prospector Edition", "Drill Core", "Per Aspera Deluxe Edition", "SteamWorld Build", "Endzone 2 Deluxe Edition", "I Am Future: Cozy Apocalypse Survival", "Gourdlets", "URBO" ]
-  }, {
-    "price" : 10.39,
-    "games" : [ "Per Aspera Deluxe Edition", "SteamWorld Build", "Endzone 2 Deluxe Edition", "I Am Future: Cozy Apocalypse Survival", "Gourdlets", "URBO" ]
-  }, {
-    "price" : 7.27,
-    "games" : [ "I Am Future: Cozy Apocalypse Survival", "Gourdlets", "URBO" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/crpg-pack-isometric-immersion",
   "name" : "CRPG Pack: Isometric Immersion",
   "endDate" : 1790222400000,
@@ -79,7 +65,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/humble-15th-anniversary-ready-player-one-and-two",
   "name" : "Humble 15th Anniversary - Ready Player One ... and Two",
-  "endDate" : 1789185600000,
+  "endDate" : 1789790400000,
   "choices" : [ {
     "price" : 22.83,
     "games" : [ "MIMESIS", "Killing Floor 3", "Streets of Rage 4", "We Were Here Forever", "Vellum", "Friends vs Friends: Deluxe Edition", "Storebound" ]
@@ -90,7 +76,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/love-letter-to-lovecraft",
   "name" : "Love Letter to Lovecraft",
-  "endDate" : 1789185600000,
+  "endDate" : 1789790400000,
   "choices" : [ {
     "price" : 13.47,
     "games" : [ "Remnant: From The Ashes", "Forgive Me Father 2 Deluxe Edition", "Stygian: Outer Gods", "Dagon: By H.P Lovecraft DLC Pack", "Abandon Ship", "Call of Cthulhu", "Whisper Mountain Outbreak", "Forgive Me Father", "Sundered: Eldritch Edition" ]
