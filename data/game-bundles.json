@@ -85,6 +85,20 @@
     "games" : [ "MIMESIS", "Killing Floor 3", "Streets of Rage 4", "We Were Here Forever", "Vellum", "Friends vs Friends: Deluxe Edition", "Storebound" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/indies-in-space",
+  "name" : "Indies in Space",
+  "endDate" : 1791432000000,
+  "choices" : [ {
+    "price" : 16.47,
+    "games" : [ "The Crust", "Starship Troopers: Extermination", "Starship Troopers: Terran Command", "Reality Break", "Wildgate - Renegade Edition", "Between the Stars", "EVERSPACE - Ultimate Edition", "Breathedge" ]
+  }, {
+    "price" : 12.34,
+    "games" : [ "Wildgate - Renegade Edition", "Between the Stars", "EVERSPACE - Ultimate Edition", "Breathedge" ]
+  }, {
+    "price" : 6.16,
+    "games" : [ "EVERSPACE - Ultimate Edition", "Breathedge" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/love-letter-to-lovecraft",
   "name" : "Love Letter to Lovecraft",
   "endDate" : 1789790400000,
