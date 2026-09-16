@@ -1,4 +1,15 @@
 [ {
+  "url" : "https://www.humblebundle.com/games/assemble-entertainment-cozy-games-collection",
+  "name" : "Assemble Entertainment Cozy Games Collection",
+  "endDate" : 1791432000000,
+  "choices" : [ {
+    "price" : 12.39,
+    "games" : [ "Sticky Business", "Sticky Business: Book of Shadows", "Sticky Business: Camp Zinnias", "Sticky Business: Plan With Me", "Sticky Business: Seaside Tales", "Origament: A Paper Adventure", "Beacon Patrol", "Verde", "A Juggler's Tale", "ITORAH", "Fall of Porcupine", "Beyond The Edge Of Owlsgard", "Bound By Blades", "Growth" ]
+  }, {
+    "price" : 6.19,
+    "games" : [ "A Juggler's Tale", "ITORAH", "Fall of Porcupine", "Beyond The Edge Of Owlsgard", "Bound By Blades", "Growth" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/boh-sniper-elite-classics-collection",
   "name" : "Best of Humble Bundle - Sniper Elite: Classics Collection",
   "endDate" : 1791345600000,
