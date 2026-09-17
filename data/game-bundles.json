@@ -23,7 +23,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/beyond-metroidverse-bundle",
   "name" : "Beyond the Metroidverse Bundle",
-  "endDate" : 1789617600000,
+  "endDate" : 1790222400000,
   "choices" : [ {
     "price" : 10.24,
     "games" : [ "Supraland Six Inches Under", "HAAK", "Monster Boy and the Cursed Kingdom", "Worldless", "Hunter X", "Salt and Sanctuary", "Salt and Sacrifice" ]
@@ -192,19 +192,5 @@
   }, {
     "price" : 5.16,
     "games" : [ "Spellmasons", "Source of Madness" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/yes-chef-cooking-bundle",
-  "name" : "Yes Chef! - Cooking Bundle",
-  "endDate" : 1789617600000,
-  "choices" : [ {
-    "price" : 16.59,
-    "games" : [ "Tavern Manager Simulator", "The Chef's Shift", "Chef Knight", "Pizza Possum", "Food Truck Simulator", "Bento Blocks", "Magical Delicacy", "Don't Let it Starve", "UMAMI", "Brewmaster: Beer Brewing Simulator", "Tailside: Cozy Cafe Sim", "Which Sausage, Mate?", "Burger Bots Inc.", "Cannibal Cuisine", "Bakery Simulator", "Recipe for Disaster" ]
-  }, {
-    "price" : 13.47,
-    "games" : [ "Pizza Possum", "Food Truck Simulator", "Bento Blocks", "Magical Delicacy", "Don't Let it Starve", "UMAMI", "Brewmaster: Beer Brewing Simulator", "Tailside: Cozy Cafe Sim", "Which Sausage, Mate?", "Burger Bots Inc.", "Cannibal Cuisine", "Bakery Simulator", "Recipe for Disaster" ]
-  }, {
-    "price" : 7.26,
-    "games" : [ "Brewmaster: Beer Brewing Simulator", "Tailside: Cozy Cafe Sim", "Which Sausage, Mate?", "Burger Bots Inc.", "Cannibal Cuisine", "Bakery Simulator", "Recipe for Disaster" ]
   } ]
 } ]
