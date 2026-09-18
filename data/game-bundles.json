@@ -85,6 +85,23 @@
     "games" : [ "Steelrising - Bastille Edition", "The Axis Unseen" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/garbage-dwellers",
+  "name" : "Garbage Dwellers",
+  "endDate" : 1791604800000,
+  "choices" : [ {
+    "price" : 12.45,
+    "games" : [ "Brew", "Trash Goblin", "WAR RATS: The Rat em Up", "A Plague Tale: Innocence", "The Spirit and the Mouse", "Tails Noir", "Tails Noir Preludes", "RATSHAKER", "Maze Mice", "Warhammer Vermintide 2", "Warhammer: Vermintide 2 - Collector's Edition Upgrade", "Warhammer: End Times - Vermintide", "Warhammer: End Times - Vermintide Collector's Edition Upgrade", "RAT PACK" ]
+  }, {
+    "price" : 9.34,
+    "games" : [ "A Plague Tale: Innocence", "The Spirit and the Mouse", "Tails Noir", "Tails Noir Preludes", "RATSHAKER", "Maze Mice", "Warhammer Vermintide 2", "Warhammer: Vermintide 2 - Collector's Edition Upgrade", "Warhammer: End Times - Vermintide", "Warhammer: End Times - Vermintide Collector's Edition Upgrade", "RAT PACK" ]
+  }, {
+    "price" : 6.22,
+    "games" : [ "RATSHAKER", "Maze Mice", "Warhammer Vermintide 2", "Warhammer: Vermintide 2 - Collector's Edition Upgrade", "Warhammer: End Times - Vermintide", "Warhammer: End Times - Vermintide Collector's Edition Upgrade", "RAT PACK" ]
+  }, {
+    "price" : 5.18,
+    "games" : [ "RAT PACK" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/humble-15th-anniversary-ready-player-one-and-two",
   "name" : "Humble 15th Anniversary - Ready Player One ... and Two",
   "endDate" : 1789790400000,
@@ -94,6 +111,20 @@
   }, {
     "price" : 13.44,
     "games" : [ "MIMESIS", "Killing Floor 3", "Streets of Rage 4", "We Were Here Forever", "Vellum", "Friends vs Friends: Deluxe Edition", "Storebound" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/ign-30th-anniversary-bundle",
+  "name" : "IGN 30th Anniversary Bundle",
+  "endDate" : 1791604800000,
+  "choices" : [ {
+    "price" : 15.49,
+    "games" : [ "The Elder Scrolls Online - Elsweyr", "REMNANT II", "BlazBlue Entropy Effect", "Ravenswatch", "Subnautica", "Thronebreaker: The Witcher Tales", "Sonic Adventure 2" ]
+  }, {
+    "price" : 10.32,
+    "games" : [ "Ravenswatch", "Subnautica", "Thronebreaker: The Witcher Tales", "Sonic Adventure 2" ]
+  }, {
+    "price" : 5.16,
+    "games" : [ "Thronebreaker: The Witcher Tales", "Sonic Adventure 2" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/indies-in-space",
