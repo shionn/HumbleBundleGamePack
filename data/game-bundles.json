@@ -73,7 +73,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/dread-and-dark-fantasies-rpg-collection",
   "name" : "Dread and Dark Fantasies RPG Collection",
-  "endDate" : 1789790400000,
+  "endDate" : 1790395200000,
   "choices" : [ {
     "price" : 18.51,
     "games" : [ "Pillars of Eternity II: Deadfire", "Torchlight III", "Torchlight II", "Torchlight", "Kristala", "Darksiders Genesis", "Dread Delusion", "Ashen", "Steelrising - Bastille Edition", "The Axis Unseen" ]
@@ -102,17 +102,6 @@
     "games" : [ "RAT PACK" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/humble-15th-anniversary-ready-player-one-and-two",
-  "name" : "Humble 15th Anniversary - Ready Player One ... and Two",
-  "endDate" : 1789790400000,
-  "choices" : [ {
-    "price" : 22.83,
-    "games" : [ "MIMESIS", "Killing Floor 3", "Streets of Rage 4", "We Were Here Forever", "Vellum", "Friends vs Friends: Deluxe Edition", "Storebound" ]
-  }, {
-    "price" : 13.44,
-    "games" : [ "MIMESIS", "Killing Floor 3", "Streets of Rage 4", "We Were Here Forever", "Vellum", "Friends vs Friends: Deluxe Edition", "Storebound" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/ign-30th-anniversary-bundle",
   "name" : "IGN 30th Anniversary Bundle",
   "endDate" : 1791604800000,
@@ -139,20 +128,6 @@
   }, {
     "price" : 6.16,
     "games" : [ "EVERSPACE - Ultimate Edition", "Breathedge" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/love-letter-to-lovecraft",
-  "name" : "Love Letter to Lovecraft",
-  "endDate" : 1789790400000,
-  "choices" : [ {
-    "price" : 13.47,
-    "games" : [ "Remnant: From The Ashes", "Forgive Me Father 2 Deluxe Edition", "Stygian: Outer Gods", "Dagon: By H.P Lovecraft DLC Pack", "Abandon Ship", "Call of Cthulhu", "Whisper Mountain Outbreak", "Forgive Me Father", "Sundered: Eldritch Edition" ]
-  }, {
-    "price" : 10.35,
-    "games" : [ "Dagon: By H.P Lovecraft DLC Pack", "Abandon Ship", "Call of Cthulhu", "Whisper Mountain Outbreak", "Forgive Me Father", "Sundered: Eldritch Edition" ]
-  }, {
-    "price" : 5.17,
-    "games" : [ "Whisper Mountain Outbreak", "Forgive Me Father", "Sundered: Eldritch Edition" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/make-play-games-in-godot-software",
@@ -198,17 +173,6 @@
   }, {
     "price" : 7.24,
     "games" : [ "Along the Edge", "We. The Revolution", "Crowns and Pawns: Kingdom of Deceit" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/pax-west-2026-bundle",
-  "name" : "PAX West 2026 Bundle",
-  "endDate" : 1789790400000,
-  "choices" : [ {
-    "price" : 20.55,
-    "games" : [ "Cornucopia", "Dark Deity 2", "Quilts and Cats of Calico Special Edition", "Order Automatica", "The Lacerator", "GODBREAKERS", "Parking Garage Rally Circuit", "Neckbreak", "Super Dungeon Designer 40% off Coupon" ]
-  }, {
-    "price" : 10.27,
-    "games" : [ "Order Automatica", "The Lacerator", "GODBREAKERS", "Parking Garage Rally Circuit", "Neckbreak", "Super Dungeon Designer 40% off Coupon" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/run-it-back-roguelikes-bundle",
