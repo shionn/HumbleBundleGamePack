@@ -188,4 +188,15 @@
     "price" : 5.16,
     "games" : [ "Spellmasons", "Source of Madness" ]
   } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/almighty-god-games-bundle",
+  "name" : "The Almighty God Games Bundle",
+  "endDate" : 1791864000000,
+  "choices" : [ {
+    "price" : 12.56,
+    "games" : [ "The Universim", "Godhood", "Shadows of Forbidden Gods", "Deisim", "Equilinox", "Warbox Sandbox", "Technotopia" ]
+  }, {
+    "price" : 6.27,
+    "games" : [ "Equilinox", "Warbox Sandbox", "Technotopia" ]
+  } ]
 } ]
