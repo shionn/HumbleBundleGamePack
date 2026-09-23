@@ -10,6 +10,14 @@
     "games" : [ "A Juggler's Tale", "ITORAH", "Fall of Porcupine", "Beyond The Edge Of Owlsgard", "Bound By Blades", "Growth" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/best-bundle-indie-fears-bundle",
+  "name" : "Best of Humble Bundle - Indie Fears Bundle",
+  "endDate" : 1792036800000,
+  "choices" : [ {
+    "price" : 13.6,
+    "games" : [ "Mouthwashing", "The Headliners", "Buckshot Roulette", "PANICORE", "Arctic Eggs", "Who's Lila?", "ORDER 13", "Mama's Sleeping Angels", "THRESHOLD", "s.p.l.i.t", "NO-SKIN", "Kiosk", "The Skin Stapler", "Flesh Made Fear" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/boh-sniper-elite-classics-collection",
   "name" : "Best of Humble Bundle - Sniper Elite: Classics Collection",
   "endDate" : 1791345600000,
@@ -198,5 +206,19 @@
   }, {
     "price" : 6.27,
     "games" : [ "Equilinox", "Warbox Sandbox", "Technotopia" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/trineverse-triple-coop-pack",
+  "name" : "Trineverse Triple Co-Op Pack",
+  "endDate" : 1792036800000,
+  "choices" : [ {
+    "price" : 18.84,
+    "games" : [ "Trine 4: The Nightmare Prince", "Nine Parchments", "Trine 3: The Artifacts of Power", "Trine 2: Complete Story", "Trine Enchanted Edition" ]
+  }, {
+    "price" : 14.65,
+    "games" : [ "Trine 4: The Nightmare Prince", "Nine Parchments", "Trine 3: The Artifacts of Power", "Trine 2: Complete Story", "Trine Enchanted Edition" ]
+  }, {
+    "price" : 10.46,
+    "games" : [ "Trine 4: The Nightmare Prince", "Nine Parchments", "Trine 3: The Artifacts of Power", "Trine 2: Complete Story", "Trine Enchanted Edition" ]
   } ]
 } ]
