@@ -48,10 +48,10 @@
   "endDate" : 1790827200000,
   "choices" : [ {
     "price" : 14.44,
-    "games" : [ "The Bard's Tale Trilogy", "CiniCross", "Dungeon Drafters", "Crawl", "Wizardry: Labyrinth of Lost Souls", "Xanadu Next", "BroomSweeper", "Cthulhu's Reach: Devil Reef", "Astalon: Tears of the Earth", "Touhou Artificial Dream in Arcadia", "Dungeon Tycoon" ]
+    "games" : [ "The Bard's Tale Trilogy", "CiniCross", "Dungeon Drafters", "Crawl", "Wizardry: Labyrinth of Lost Souls", "Xanadu Next", "BroomSweeper", "Cthulhu's Reach: Devil Reef", "Astalon: Tears of the Earth", "Dungeon Tycoon" ]
   }, {
     "price" : 10.32,
-    "games" : [ "Crawl", "Wizardry: Labyrinth of Lost Souls", "Xanadu Next", "BroomSweeper", "Cthulhu's Reach: Devil Reef", "Astalon: Tears of the Earth", "Touhou Artificial Dream in Arcadia", "Dungeon Tycoon" ]
+    "games" : [ "Crawl", "Wizardry: Labyrinth of Lost Souls", "Xanadu Next", "BroomSweeper", "Cthulhu's Reach: Devil Reef", "Astalon: Tears of the Earth", "Dungeon Tycoon" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/decked-out-deckbuilders",
