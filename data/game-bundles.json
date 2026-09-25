@@ -85,6 +85,17 @@
     "games" : [ "Steelrising - Bastille Edition", "The Axis Unseen" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/fall-into-fall-fundle",
+  "name" : "Fall into Fall Fun-dle",
+  "endDate" : 1792209600000,
+  "choices" : [ {
+    "price" : 10.51,
+    "games" : [ "Witchtastic", "Mika and the Witch's Mountain", "Alchemist Shop Simulator", "Sugar Shack", "Outlanders", "Witch it", "Bunny Park", "Alchemy Story" ]
+  }, {
+    "price" : 5.25,
+    "games" : [ "Sugar Shack", "Outlanders", "Witch it", "Bunny Park", "Alchemy Story" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/garbage-dwellers",
   "name" : "Garbage Dwellers",
   "endDate" : 1791604800000,
@@ -100,6 +111,20 @@
   }, {
     "price" : 5.18,
     "games" : [ "RAT PACK" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/gear-glory-action-rpgs",
+  "name" : "Gear & Glory Action RPGs",
+  "endDate" : 1792209600000,
+  "choices" : [ {
+    "price" : 12.52,
+    "games" : [ "Wayfinder", "Coridden", "Tower of Kalemonvo", "Ghostlore", "Tower of Babel: Survivors of Chaos", "Sands of Aura", "Clash: Artifacts of Chaos", "Achilles: Legends Untold", "Into the Necrovale" ]
+  }, {
+    "price" : 9.39,
+    "games" : [ "Tower of Babel: Survivors of Chaos", "Sands of Aura", "Clash: Artifacts of Chaos", "Achilles: Legends Untold", "Into the Necrovale" ]
+  }, {
+    "price" : 6.26,
+    "games" : [ "Clash: Artifacts of Chaos", "Achilles: Legends Untold", "Into the Necrovale" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/ign-30th-anniversary-bundle",
@@ -132,10 +157,10 @@
 }, {
   "url" : "https://www.humblebundle.com/games/make-play-games-in-godot-software",
   "name" : "Make & Play Games in Godot",
-  "endDate" : 1790359200000,
+  "endDate" : 1790964000000,
   "choices" : [ {
     "price" : 25.76,
-    "games" : [ "Windowkill", "The Electrifying Incident: A Monster Mini-Expedition", "Buckshot Roulette", "Level Design Fundamentals", "Godot 4: Build a 2D Action-Adventure Game Course", "Godot 4: Build an Action Combat RPG Course", "Godot 4 C# Action Adventure Course: Build your own 2.5D RPG", "Complete Godot 3D Course: Develop Your Own 3D Games Using Godot 4", "Godot UI", "Godot 4: Create and Master Custom Plugins Course", "From Blender to Godot Course: Game-Ready Assets, Characters and Animation", "Godot 4 Shaders Course: Craft Stunning Visuals", "Godot Character Controller" ]
+    "games" : [ "Level Design Fundamentals", "Godot 4: Build a 2D Action-Adventure Game Course", "Godot 4: Build an Action Combat RPG Course", "Godot 4 C# Action Adventure Course: Build your own 2.5D RPG", "Complete Godot 3D Course: Develop Your Own 3D Games Using Godot 4", "Godot UI", "Windowkill", "The Electrifying Incident: A Monster Mini-Expedition", "Buckshot Roulette", "Godot 4: Create and Master Custom Plugins Course", "From Blender to Godot Course: Game-Ready Assets, Characters and Animation", "Godot 4 Shaders Course: Craft Stunning Visuals", "Godot Character Controller" ]
   }, {
     "price" : 15.45,
     "games" : [ "Godot 4: Create and Master Custom Plugins Course", "From Blender to Godot Course: Game-Ready Assets, Characters and Animation", "Godot 4 Shaders Course: Craft Stunning Visuals", "Godot Character Controller" ]
