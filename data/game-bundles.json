@@ -1,4 +1,18 @@
 [ {
+  "url" : "https://www.humblebundle.com/games/2d-rewind-collection-from-s2-games",
+  "name" : "2D Rewind Collection from S2 Games",
+  "endDate" : 1792641600000,
+  "choices" : [ {
+    "price" : 14.76,
+    "games" : [ "River City Girls 2", "River City Girls", "Nova Drift", "Freedom Planet 2", "Rainbow Legends", "Folklands", "Luck be a Landlord", "Karate Survivor", "NORCO", "Samorost 3", "CHUCHEL", "Freedom Planet", "Not Tonight" ]
+  }, {
+    "price" : 8.43,
+    "games" : [ "Luck be a Landlord", "Karate Survivor", "NORCO", "Samorost 3", "CHUCHEL", "Freedom Planet", "Not Tonight" ]
+  }, {
+    "price" : 5.26,
+    "games" : [ "Samorost 3", "CHUCHEL", "Freedom Planet", "Not Tonight" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/assemble-entertainment-cozy-games-collection",
   "name" : "Assemble Entertainment Cozy Games Collection",
   "endDate" : 1791432000000,
@@ -69,6 +83,20 @@
   }, {
     "price" : 6.19,
     "games" : [ "Hexarchy", "Cross Blitz", "SteamWorld Quest: Hand of Gilgamech" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/dying-light-2-stay-human-complete-dlc-bundle",
+  "name" : "Dying Light 2: Stay Human Complete DLC Bundle",
+  "endDate" : 1792641600000,
+  "choices" : [ {
+    "price" : 12.62,
+    "games" : [ "Dying Light 2 Stay Human - Welcome Offer: Essential Starter Kit", "Dying Light 2 Stay Human: G.R.E. Hazmat Bundle", "Dying Light 2 - Soundtrack", "Dying Light 2 Stay Human: Goodies Pack-Arts", "Dying Light 2 Stay Human: Hakon Bundle", "Dying Light 2 Stay Human: Gunslinger Bundle", "Dying Light 2 Stay Human: Post-apo Bundle", "Dying Light 2 Stay Human: Nightrunner Bundle", "Dying Light 2 Stay Human: Rahim Bundle", "Dying Light 2 Stay Human: Chicken Bundle", "Dying Light 2 Stay Human: Brecken Bundle", "Dying Light 2 Stay Human: Rais Bundle", "Dying Light 2 Stay Human: Dying Laugh Bundle" ]
+  }, {
+    "price" : 9.46,
+    "games" : [ "Dying Light 2 Stay Human: Hakon Bundle", "Dying Light 2 Stay Human: Gunslinger Bundle", "Dying Light 2 Stay Human: Post-apo Bundle", "Dying Light 2 Stay Human: Nightrunner Bundle", "Dying Light 2 Stay Human: Rahim Bundle", "Dying Light 2 Stay Human: Chicken Bundle", "Dying Light 2 Stay Human: Brecken Bundle", "Dying Light 2 Stay Human: Rais Bundle", "Dying Light 2 Stay Human: Dying Laugh Bundle" ]
+  }, {
+    "price" : 6.31,
+    "games" : [ "Dying Light 2 Stay Human: Chicken Bundle", "Dying Light 2 Stay Human: Brecken Bundle", "Dying Light 2 Stay Human: Rais Bundle", "Dying Light 2 Stay Human: Dying Laugh Bundle" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/fall-into-fall-fundle",
