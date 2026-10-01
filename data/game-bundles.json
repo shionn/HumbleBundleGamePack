@@ -34,7 +34,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/crpg-pack-isometric-immersion",
   "name" : "CRPG Pack: Isometric Immersion",
-  "endDate" : 1790827200000,
+  "endDate" : 1791432000000,
   "choices" : [ {
     "price" : 23.7,
     "games" : [ "Warhammer 40,000: Rogue Trader", "Warhammer 40,000: Rogue Trader - Season Pass", "Pathfinder: Wrath of the Righteous - Game of the Year Edition", "SKALD: Against the Black Priory - Deluxe Bundle", "Black Geyser: Couriers of Darkness", "Black Geyser: Couriers of Darkness - Tales of the Moon Cult", "Torment: Tides of Numenera", "Gamedec - Definitive Edition", "Disco Elysium", "UnderRail", "Balrum" ]
@@ -44,20 +44,6 @@
   }, {
     "price" : 10.29,
     "games" : [ "Torment: Tides of Numenera", "Gamedec - Definitive Edition", "Disco Elysium", "UnderRail", "Balrum" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/crawling-through-dungeons",
-  "name" : "Crawling Through the Dungeons",
-  "endDate" : 1790827200000,
-  "choices" : [ {
-    "price" : 14.44,
-    "games" : [ "The Bard's Tale Trilogy", "CiniCross", "Dungeon Drafters", "Crawl", "Wizardry: Labyrinth of Lost Souls", "Xanadu Next", "BroomSweeper", "Cthulhu's Reach: Devil Reef", "Astalon: Tears of the Earth", "Dungeon Tycoon" ]
-  }, {
-    "price" : 10.32,
-    "games" : [ "Crawl", "Wizardry: Labyrinth of Lost Souls", "Xanadu Next", "BroomSweeper", "Cthulhu's Reach: Devil Reef", "Astalon: Tears of the Earth", "Dungeon Tycoon" ]
-  }, {
-    "price" : 10.32,
-    "games" : [ "Crawl", "Wizardry: Labyrinth of Lost Souls", "Xanadu Next", "BroomSweeper", "Cthulhu's Reach: Devil Reef", "Astalon: Tears of the Earth", "Dungeon Tycoon" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/decked-out-deckbuilders",
@@ -156,23 +142,6 @@
   }, {
     "price" : 6.16,
     "games" : [ "EVERSPACE - Ultimate Edition", "Breathedge" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/mega-man-recharged-collection",
-  "name" : "Mega Man: Recharged Collection",
-  "endDate" : 1790827200000,
-  "choices" : [ {
-    "price" : 41.22,
-    "games" : [ "Mega Man Legacy Collection", "Mega Man X Legacy Collection", "Mega Man Legacy Collection 2", "Mega Man X Legacy Collection 2", "Mega Man Zero/ZX Legacy Collection", "Mega Man 11", "Mega Man Battle Network Legacy Collection Vol.2", "Mega Man Battle Network Legacy Collection Vol.1", "MEGA MAN X DiVE Offline" ]
-  }, {
-    "price" : 32.97,
-    "games" : [ "Mega Man Legacy Collection 2", "Mega Man X Legacy Collection 2", "Mega Man Zero/ZX Legacy Collection", "Mega Man 11", "Mega Man Battle Network Legacy Collection Vol.2", "Mega Man Battle Network Legacy Collection Vol.1", "MEGA MAN X DiVE Offline" ]
-  }, {
-    "price" : 24.73,
-    "games" : [ "Mega Man Zero/ZX Legacy Collection", "Mega Man 11", "Mega Man Battle Network Legacy Collection Vol.2", "Mega Man Battle Network Legacy Collection Vol.1", "MEGA MAN X DiVE Offline" ]
-  }, {
-    "price" : 16.48,
-    "games" : [ "Mega Man Battle Network Legacy Collection Vol.2", "Mega Man Battle Network Legacy Collection Vol.1", "MEGA MAN X DiVE Offline" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/programming-puzzles-bundle",
