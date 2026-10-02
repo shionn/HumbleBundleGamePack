@@ -13,6 +13,20 @@
     "games" : [ "Samorost 3", "CHUCHEL", "Freedom Planet", "Not Tonight" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/akupara-10th-anniversary-bundle",
+  "name" : "Akupara 10th Anniversary Bundle",
+  "endDate" : 1792814400000,
+  "choices" : [ {
+    "price" : 15.69,
+    "games" : [ "Cryptmaster", "Astrea: Six-Sided Oracles", "Dead Pets: A Punk Rock Slice of Life Sim", "Rain World", "Rain World: Downpour", "Gigasword", "Grime", "Behind the Frame: The Finest Scenery", "Mutazione", "REPOSE", "The Darkside Detective", "Whispering Willows" ]
+  }, {
+    "price" : 12.56,
+    "games" : [ "Rain World", "Rain World: Downpour", "Gigasword", "Grime", "Behind the Frame: The Finest Scenery", "Mutazione", "REPOSE", "The Darkside Detective", "Whispering Willows" ]
+  }, {
+    "price" : 8.37,
+    "games" : [ "Behind the Frame: The Finest Scenery", "Mutazione", "REPOSE", "The Darkside Detective", "Whispering Willows" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/best-bundle-indie-fears-bundle",
   "name" : "Best of Humble Bundle - Indie Fears Bundle",
   "endDate" : 1792036800000,
@@ -44,6 +58,17 @@
   }, {
     "price" : 10.29,
     "games" : [ "Torment: Tides of Numenera", "Gamedec - Definitive Edition", "Disco Elysium", "UnderRail", "Balrum" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/capcom-classics-bundle",
+  "name" : "Capcom Classics Bundle",
+  "endDate" : 1793419200000,
+  "choices" : [ {
+    "price" : 21.02,
+    "games" : [ "Breath of Fire IV", "Dino Crisis 2", "Dino Crisis", "Resident Evil 3 Nemesis (1999)", "Resident Evil 2 (1998)", "Resident Evil (1996)" ]
+  }, {
+    "price" : 10.51,
+    "games" : [ "Resident Evil 3 Nemesis (1999)", "Resident Evil 2 (1998)", "Resident Evil (1996)" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/decked-out-deckbuilders",
