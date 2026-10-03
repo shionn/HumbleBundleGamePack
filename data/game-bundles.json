@@ -71,20 +71,6 @@
     "games" : [ "Resident Evil 3 Nemesis (1999)", "Resident Evil 2 (1998)", "Resident Evil (1996)" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/decked-out-deckbuilders",
-  "name" : "Decked Out Deckbuilders",
-  "endDate" : 1791000000000,
-  "choices" : [ {
-    "price" : 12.39,
-    "games" : [ "Cultist Simulator: Anthology Edition", "Menace from the Deep", "Monster Train", "Monster Train: The Last Divinity DLC", "Hadean Tactics: Deluxe Edition", "WingSpan", "Tainted Grail: Conquest", "Dream Tactics", "Hexarchy", "Cross Blitz", "SteamWorld Quest: Hand of Gilgamech" ]
-  }, {
-    "price" : 9.28,
-    "games" : [ "WingSpan", "Tainted Grail: Conquest", "Dream Tactics", "Hexarchy", "Cross Blitz", "SteamWorld Quest: Hand of Gilgamech" ]
-  }, {
-    "price" : 6.19,
-    "games" : [ "Hexarchy", "Cross Blitz", "SteamWorld Quest: Hand of Gilgamech" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/dying-light-2-stay-human-complete-dlc-bundle",
   "name" : "Dying Light 2: Stay Human Complete DLC Bundle",
   "endDate" : 1792641600000,
@@ -174,7 +160,7 @@
 }, {
   "url" : "https://www.humblebundle.com/games/run-it-back-roguelikes-bundle",
   "name" : "Run It Back - Roguelikes Bundle",
-  "endDate" : 1791000000000,
+  "endDate" : 1791604800000,
   "choices" : [ {
     "price" : 13.42,
     "games" : [ "Rabbit and Steel", "Chrono Ark", "Lost in Random: The Eternal Die", "Dome Keeper", "Battle Shapers", "Dungeons of Blood and Dream", "OTXO", "Spellmasons", "Source of Madness" ]
