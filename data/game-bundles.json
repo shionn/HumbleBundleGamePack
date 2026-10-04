@@ -27,6 +27,17 @@
     "games" : [ "Behind the Frame: The Finest Scenery", "Mutazione", "REPOSE", "The Darkside Detective", "Whispering Willows" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/assemble-entertainment-cozy-games-collection",
+  "name" : "Assemble Entertainment Cozy Games Collection",
+  "endDate" : 1791432000000,
+  "choices" : [ {
+    "price" : 12.39,
+    "games" : [ "Sticky Business", "Sticky Business: Book of Shadows", "Sticky Business: Camp Zinnias", "Sticky Business: Plan With Me", "Sticky Business: Seaside Tales", "Origament: A Paper Adventure", "Beacon Patrol", "Verde", "Kioku: Last Summer", "A Juggler's Tale", "ITORAH", "Fall of Porcupine", "Beyond The Edge Of Owlsgard", "Bound By Blades", "Growth" ]
+  }, {
+    "price" : 6.19,
+    "games" : [ "A Juggler's Tale", "ITORAH", "Fall of Porcupine", "Beyond The Edge Of Owlsgard", "Bound By Blades", "Growth" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/best-bundle-indie-fears-bundle",
   "name" : "Best of Humble Bundle - Indie Fears Bundle",
   "endDate" : 1792036800000,
@@ -139,6 +150,34 @@
   }, {
     "price" : 5.16,
     "games" : [ "Thronebreaker: The Witcher Tales", "Sonic Adventure 2" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/indies-in-space",
+  "name" : "Indies in Space",
+  "endDate" : 1791432000000,
+  "choices" : [ {
+    "price" : 16.47,
+    "games" : [ "The Crust", "Starship Troopers: Extermination", "Starship Troopers: Terran Command", "Reality Break", "Wildgate - Renegade Edition", "Between the Stars", "EVERSPACE - Ultimate Edition", "Breathedge" ]
+  }, {
+    "price" : 12.34,
+    "games" : [ "Wildgate - Renegade Edition", "Between the Stars", "EVERSPACE - Ultimate Edition", "Breathedge" ]
+  }, {
+    "price" : 6.16,
+    "games" : [ "EVERSPACE - Ultimate Edition", "Breathedge" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/make-play-games-in-godot-software",
+  "name" : "Make & Play Games in Godot",
+  "endDate" : 1791568800000,
+  "choices" : [ {
+    "price" : 25.76,
+    "games" : [ "Level Design Fundamentals", "Godot 4: Build a 2D Action-Adventure Game Course", "Godot 4: Build an Action Combat RPG Course", "Godot 4 C# Action Adventure Course: Build your own 2.5D RPG", "Complete Godot 3D Course: Develop Your Own 3D Games Using Godot 4", "Godot UI", "Windowkill", "The Electrifying Incident: A Monster Mini-Expedition", "Buckshot Roulette", "Godot 4: Create and Master Custom Plugins Course", "From Blender to Godot Course: Game-Ready Assets, Characters and Animation", "Godot 4 Shaders Course: Craft Stunning Visuals", "Godot Character Controller" ]
+  }, {
+    "price" : 15.45,
+    "games" : [ "Godot 4: Create and Master Custom Plugins Course", "From Blender to Godot Course: Game-Ready Assets, Characters and Animation", "Godot 4 Shaders Course: Craft Stunning Visuals", "Godot Character Controller" ]
+  }, {
+    "price" : 5.14,
+    "games" : [ "Godot Character Controller" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/programming-puzzles-bundle",
