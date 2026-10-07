@@ -46,17 +46,6 @@
     "games" : [ "Mouthwashing", "The Headliners", "Buckshot Roulette", "PANICORE", "Arctic Eggs", "Who's Lila?", "ORDER 13", "Mama's Sleeping Angels", "THRESHOLD", "s.p.l.i.t", "NO-SKIN", "Kiosk", "The Skin Stapler", "Flesh Made Fear" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/boh-sniper-elite-classics-collection",
-  "name" : "Best of Humble Bundle - Sniper Elite: Classics Collection",
-  "endDate" : 1791345600000,
-  "choices" : [ {
-    "price" : 10.34,
-    "games" : [ "Sniper Elite 5", "Sniper Elite 4: Deluxe Edition", "Sniper Elite 3", "Sniper Elite 3 - Season Pass", "Sniper Elite V2 Remastered", "Sniper Elite" ]
-  }, {
-    "price" : 5.17,
-    "games" : [ "Sniper Elite 3", "Sniper Elite 3 - Season Pass", "Sniper Elite V2 Remastered", "Sniper Elite" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/crpg-pack-isometric-immersion",
   "name" : "CRPG Pack: Isometric Immersion",
   "endDate" : 1791432000000,
