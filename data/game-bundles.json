@@ -46,6 +46,20 @@
     "games" : [ "Mouthwashing", "The Headliners", "Buckshot Roulette", "PANICORE", "Arctic Eggs", "Who's Lila?", "ORDER 13", "Mama's Sleeping Angels", "THRESHOLD", "s.p.l.i.t", "NO-SKIN", "Kiosk", "The Skin Stapler", "Flesh Made Fear" ]
   } ]
 }, {
+  "url" : "https://www.humblebundle.com/games/beyond-reality-scifi-survival-vr-collection",
+  "name" : "Beyond Reality: Sci-Fi & Survival VR Collection",
+  "endDate" : 1793246400000,
+  "choices" : [ {
+    "price" : 16.05,
+    "games" : [ "Star Trek: Infection", "Homeworld: Vast Reaches", "Z.O.N.A: Origin", "Layers of Fear VR", "A Rogue Escape", "Blair Witch VR", "Z.O.N.A Project X VR" ]
+  }, {
+    "price" : 10.7,
+    "games" : [ "Z.O.N.A: Origin", "Layers of Fear VR", "A Rogue Escape", "Blair Witch VR", "Z.O.N.A Project X VR" ]
+  }, {
+    "price" : 5.35,
+    "games" : [ "Blair Witch VR", "Z.O.N.A Project X VR" ]
+  } ]
+}, {
   "url" : "https://www.humblebundle.com/games/crpg-pack-isometric-immersion",
   "name" : "CRPG Pack: Isometric Immersion",
   "endDate" : 1791432000000,
@@ -125,6 +139,20 @@
   }, {
     "price" : 6.26,
     "games" : [ "Clash: Artifacts of Chaos", "Achilles: Legends Untold", "Into the Necrovale" ]
+  } ]
+}, {
+  "url" : "https://www.humblebundle.com/games/indie-fighters",
+  "name" : "Humble Indie Fighters Bundle",
+  "endDate" : 1793246400000,
+  "choices" : [ {
+    "price" : 17.13,
+    "games" : [ "Rivals of Aether II", "Pocket Bravery", "Rivals of Aether", "Blazing Strike", "Terrordrome - Reign of the Legends", "Divekick", "Lethal League Blaze", "Skullgirls 2nd Encore" ]
+  }, {
+    "price" : 12.85,
+    "games" : [ "Rivals of Aether", "Blazing Strike", "Terrordrome - Reign of the Legends", "Divekick", "Lethal League Blaze", "Skullgirls 2nd Encore" ]
+  }, {
+    "price" : 5.35,
+    "games" : [ "Divekick", "Lethal League Blaze", "Skullgirls 2nd Encore" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/ign-30th-anniversary-bundle",
