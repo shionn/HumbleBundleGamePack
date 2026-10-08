@@ -27,17 +27,6 @@
     "games" : [ "Behind the Frame: The Finest Scenery", "Mutazione", "REPOSE", "The Darkside Detective", "Whispering Willows" ]
   } ]
 }, {
-  "url" : "https://www.humblebundle.com/games/assemble-entertainment-cozy-games-collection",
-  "name" : "Assemble Entertainment Cozy Games Collection",
-  "endDate" : 1791432000000,
-  "choices" : [ {
-    "price" : 12.39,
-    "games" : [ "Sticky Business", "Sticky Business: Book of Shadows", "Sticky Business: Camp Zinnias", "Sticky Business: Plan With Me", "Sticky Business: Seaside Tales", "Origament: A Paper Adventure", "Beacon Patrol", "Verde", "Kioku: Last Summer", "A Juggler's Tale", "ITORAH", "Fall of Porcupine", "Beyond The Edge Of Owlsgard", "Bound By Blades", "Growth" ]
-  }, {
-    "price" : 6.19,
-    "games" : [ "A Juggler's Tale", "ITORAH", "Fall of Porcupine", "Beyond The Edge Of Owlsgard", "Bound By Blades", "Growth" ]
-  } ]
-}, {
   "url" : "https://www.humblebundle.com/games/best-bundle-indie-fears-bundle",
   "name" : "Best of Humble Bundle - Indie Fears Bundle",
   "endDate" : 1792036800000,
@@ -58,20 +47,6 @@
   }, {
     "price" : 5.35,
     "games" : [ "Blair Witch VR", "Z.O.N.A Project X VR" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/crpg-pack-isometric-immersion",
-  "name" : "CRPG Pack: Isometric Immersion",
-  "endDate" : 1791432000000,
-  "choices" : [ {
-    "price" : 23.7,
-    "games" : [ "Warhammer 40,000: Rogue Trader", "Warhammer 40,000: Rogue Trader - Season Pass", "Pathfinder: Wrath of the Righteous - Game of the Year Edition", "SKALD: Against the Black Priory - Deluxe Bundle", "Black Geyser: Couriers of Darkness", "Black Geyser: Couriers of Darkness - Tales of the Moon Cult", "Torment: Tides of Numenera", "Gamedec - Definitive Edition", "Disco Elysium", "UnderRail", "Balrum" ]
-  }, {
-    "price" : 15.45,
-    "games" : [ "Pathfinder: Wrath of the Righteous - Game of the Year Edition", "SKALD: Against the Black Priory - Deluxe Bundle", "Black Geyser: Couriers of Darkness", "Black Geyser: Couriers of Darkness - Tales of the Moon Cult", "Torment: Tides of Numenera", "Gamedec - Definitive Edition", "Disco Elysium", "UnderRail", "Balrum" ]
-  }, {
-    "price" : 10.29,
-    "games" : [ "Torment: Tides of Numenera", "Gamedec - Definitive Edition", "Disco Elysium", "UnderRail", "Balrum" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/capcom-classics-bundle",
@@ -167,20 +142,6 @@
   }, {
     "price" : 5.16,
     "games" : [ "Thronebreaker: The Witcher Tales", "Sonic Adventure 2" ]
-  } ]
-}, {
-  "url" : "https://www.humblebundle.com/games/indies-in-space",
-  "name" : "Indies in Space",
-  "endDate" : 1791432000000,
-  "choices" : [ {
-    "price" : 16.47,
-    "games" : [ "The Crust", "Starship Troopers: Extermination", "Starship Troopers: Terran Command", "Reality Break", "Wildgate - Renegade Edition", "Between the Stars", "EVERSPACE - Ultimate Edition", "Breathedge" ]
-  }, {
-    "price" : 12.34,
-    "games" : [ "Wildgate - Renegade Edition", "Between the Stars", "EVERSPACE - Ultimate Edition", "Breathedge" ]
-  }, {
-    "price" : 6.16,
-    "games" : [ "EVERSPACE - Ultimate Edition", "Breathedge" ]
   } ]
 }, {
   "url" : "https://www.humblebundle.com/games/make-play-games-in-godot-software",
